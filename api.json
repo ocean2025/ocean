@@ -36,13 +36,6 @@
       "ext": ""
     },
     {
-      "key": "nangua",
-      "name": "🥣南瓜影视[cat]",
-      "type": 3,
-      "jar": "./jars/f.jar;md5;60d5e47e1bbfa645ee6fb5aa561eee28",
-      "api": "./cat/ng_open.js"
-    },
-    {
       "key": "csp_yunbo",
       "name": "☁️️云播┃1080P",
       "type": 3,
@@ -57,10 +50,13 @@
       "name": "🦁freeOK┃小米",
       "type": 3,
       "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
-      "api": "csp_FreeOK",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
-      "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
-      "changeable": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "./js/FREE.js"
     },
     {
       "key": "cctv",
@@ -644,6 +640,16 @@
         "播放链接": "解析+$&&\"",
         "跳转播放链接": "url\"*\"&&\""
       }
+    },
+    {
+      "key": "csp_NanGua",
+      "name": "🎃南瓜┃APP",
+      "type": 3,
+      "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+      "changeable": 1,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "filterable": 1
     },
     {
       "key": "君君",
