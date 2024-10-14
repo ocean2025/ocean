@@ -47,7 +47,7 @@
     },
     {
       "key": "freeok",
-      "name": "🦁freeOK┃小米",
+      "name": "🌀freeOK┃小米",
       "type": 3,
       "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
       "api": "./lib/drpy2.min.js",
@@ -569,18 +569,6 @@
       "changeable": 1,
       "timeout": 15,
       "quickSearch": 1
-    },
-    {
-      "key": "说给风听",
-      "name": "🌀说给风听┃AppYsV2",
-      "playerType": 1,
-      "type": 3,
-      "jar": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.6qu.top/api.php/app/"
     },
     {
       "key": "酷影视",
