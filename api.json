@@ -16,7 +16,7 @@
       "key": "csp_瓜子",
       "name": "🌰瓜子┃1080P",
       "type": 3,
-      "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+      "jar": "./jars/xm.jar;md5;d8e00443d23d2701d9a1236608961a7c",
       "api": "csp_Gz360",
       "searchable": 1,
       "playerType": 2,
@@ -27,7 +27,7 @@
       "key": "csp_LiteApple",
       "name": "🍎苹果┃1080P",
       "type": 3,
-      "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+      "jar": "./jars/xm.jar;md5;d8e00443d23d2701d9a1236608961a7c",
       "api": "csp_LiteApple",
       "searchable": 1,
       "changeable": 1,
@@ -39,17 +39,28 @@
       "key": "csp_yunbo",
       "name": "☁️️云播┃1080P",
       "type": 3,
-      "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+      "jar": "./jars/xm.jar;md5;d8e00443d23d2701d9a1236608961a7c",
       "api": "csp_Tvyb",
       "searchable": 1,
       "playerType": 2,
       "changeable": 1
     },
     {
+      "key": "天天OK",
+      "name": "🎈天天|OK",
+      "type": 3,
+      "jar": "./jars/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77",
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout was": 30
+    },
+    {
       "key": "freeok",
       "name": "🌀freeOK┃小米",
       "type": 3,
-      "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+      "jar": "./jars/xm.jar;md5;d8e00443d23d2701d9a1236608961a7c",
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -57,6 +68,16 @@
       "order_num": 0,
       "changeable": 0,
       "ext": "./js/FREE.js"
+    },
+    {
+      "key": "csp_Wwys",
+      "name": "🐶汪汪┃1080P",
+      "type": 3,
+      "jar": "./jars/xm.jar;md5;d8e00443d23d2701d9a1236608961a7c",
+      "playerType": 1,
+      "changeable": 0,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn/"
     },
     {
       "key": "cctv",
@@ -92,7 +113,7 @@
       "key": "NanGua",
       "name": "🎈南瓜|弹幕OK",
       "type": 3,
-      "jar": "./jars/okjpg.txt;md5;01930ab1a4c9cb10e4082077bb94195b",
+      "jar": "./jars/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77",
       "api": "csp_Nangua",
       "searchable": 1,
       "quickSearch": 1,
@@ -119,24 +140,13 @@
       "key": "csp_JPYY",
       "name": "🥇金牌┃1080P",
       "type": 3,
-      "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+      "jar": "./jars/xm.jar;md5;d8e00443d23d2701d9a1236608961a7c",
       "api": "csp_Jpyy",
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
       "playerType": 1,
       "ext": ""
-    },
-    {
-      "key": "csp_xBPQ_玖八",
-      "name": "🅱️玖八影视|H",
-      "type": 3,
-      "jar": "./jars/HeChengChaXiu.jar;md5;534246be66cfa4f252d7dcbf106673c9",
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/98影视.json"
     },
     {
       "key": "糯米",
@@ -182,7 +192,7 @@
     {
       "key": "huohuo",
       "name": "💥火火|1080P",
-      "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+      "jar": "./jars/xm.jar;md5;d8e00443d23d2701d9a1236608961a7c",
       "type": 3,
       "api": "csp_SaoHuo",
       "searchable": 1,
@@ -218,23 +228,12 @@
       "key": "韩圈",
       "name": "🎈韩圈|OK",
       "type": 3,
-      "jar": "./jars/okjpg.txt;md5;01930ab1a4c9cb10e4082077bb94195b",
+      "jar": "./jars/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77",
       "api": "csp_HanXiaoQuan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "timeout was": 30
-    },
-    {
-      "key": "天天OK",
-      "name": "🎈天天|OK",
-      "type": 3,
-      "jar": "./jars/okjpg.txt;md5;01930ab1a4c9cb10e4082077bb94195b",
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "timeout was": 30
     },
     {
@@ -266,7 +265,7 @@
       "key": "木耳",
       "name": "🎈木耳┃OK",
       "type": 1,
-      "jar": "./jars/okjpg.txt;md5;01930ab1a4c9cb10e4082077bb94195b",
+      "jar": "./jars/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77",
       "api": "https://json02.heimuer.xyz/api.php/provide/vod",
       "searchable": 1,
       "filterable": 1,
@@ -331,7 +330,7 @@
       "key": "华为",
       "name": "🍇华为┃秒播",
       "type": 1,
-      "jar": "./jars/okjpg.txt;md5;01930ab1a4c9cb10e4082077bb94195b",
+      "jar": "./jars/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77",
       "api": "https://cjhwba.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
@@ -393,7 +392,7 @@
       "key": "csp_农民",
       "name": "🌾农民┃1080P",
       "type": 3,
-      "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+      "jar": "./jars/xm.jar;md5;d8e00443d23d2701d9a1236608961a7c",
       "api": "csp_Nongm",
       "searchable": 1,
       "quickSearch": 1,
@@ -505,7 +504,7 @@
     {
       "key": "csp_paopao",
       "name": "🫧菠菜|1080P",
-      "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+      "jar": "./jars/xm.jar;md5;d8e00443d23d2701d9a1236608961a7c",
       "type": 3,
       "api": "csp_Pptv",
       "playerType": 2,
@@ -517,7 +516,7 @@
     {
       "key": "csp_全网",
       "name": "🥣全网|1080P",
-      "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+      "jar": "./jars/xm.jar;md5;d8e00443d23d2701d9a1236608961a7c",
       "type": 3,
       "api": "csp_Quanwk",
       "searchable": 1,
@@ -529,7 +528,7 @@
       "key": "csp_subaobai",
       "name": "✍️素白白┃1080P",
       "type": 3,
-      "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+      "jar": "./jars/xm.jar;md5;d8e00443d23d2701d9a1236608961a7c",
       "api": "csp_SuBaiBai",
       "searchable": 1,
       "changeable": 1,
@@ -630,20 +629,44 @@
       }
     },
     {
+      "key": "摘星",
+      "name": "✨星星┃1080P",
+      "type": 3,
+      "jar": "./jars/xm.jar;md5;d8e00443d23d2701d9a1236608961a7c",
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "./js/摘星.js"
+    },
+    {
       "key": "csp_NanGua",
       "name": "🎃南瓜┃APP",
       "type": 3,
-      "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+      "jar": "./jars/xm.jar;md5;d8e00443d23d2701d9a1236608961a7c",
       "changeable": 1,
       "api": "csp_NanGua",
       "playerType": 2,
       "filterable": 1
     },
     {
+      "key": "csp_xBPQ_玖八",
+      "name": "🅱️玖八影视|H",
+      "type": 3,
+      "jar": "./jars/HeChengChaXiu.jar;md5;534246be66cfa4f252d7dcbf106673c9",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/98影视.json"
+    },
+    {
       "key": "君君",
       "name": "🎈君君┃4K解析",
       "type": 3,
-      "jar": "./jars/xm.jar;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+      "jar": "./jars/xm.jar;md5;d8e00443d23d2701d9a1236608961a7c",
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
@@ -1361,7 +1384,7 @@
     {
       "name": "反弹",
       "type": 1,
-      "url": "",
+      "url": "http://27.25.141.188:6688/api/?key=cc10901237ea968438714d7f0303986b&url=",
       "ext": {
         "flag": [
           "qq",
@@ -1419,7 +1442,7 @@
     {
       "name": "1080解析",
       "type": 1,
-      "url": "https://jf.lemiaoyun.cn/api/?key=86950663b3198d25885fdf61501a3366&url=",
+      "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
       "ext": {
         "flag": [
           "qq",
@@ -1973,123 +1996,6 @@
         "header": {
           "User-Agent": "okhttp/4.1.0"
         }
-      }
-    },
-    {
-      "name": "观音解析",
-      "type": 1,
-      "url": "http://61.147.93.21:8090/index.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ]
-      }
-    },
-    {
-      "name": "茶杯解析",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ]
-      }
-    },
-    {
-      "name": "毛尖嗅探",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        },
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "leshi",
-          "LS",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
       }
     },
     {
