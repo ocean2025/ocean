@@ -1,11 +1,11 @@
 {
-  "spider": "./spider.jar;md5;58d27a91953d4bc6b19dd4046ec3ff8e",
+  "spider": "./spider.jar;md5;ce37642e140a829d57496a32d8fcc648",
   "wallpaper": "./88.jpeg",
   "logo": "./77.jpg",
   "sites": [
     {
       "key": "豆豆",
-      "name": "🇨🇳豆瓣┃主页",
+      "name": "🇨🇳豆瓣┃FTY主页",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -114,7 +114,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🎃南瓜┃App",
+      "name": "🎃南瓜┃FTYApp",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
@@ -137,7 +137,7 @@
     },
     {
       "key": "csp_JPYY",
-      "name": "🥇金牌┃xm1080P",
+      "name": "🌾金牌┃xm1080P",
       "type": 3,
       "jar": "./jars/xm.jar;md5;bf29a76dfb052377031f57fc69a95611",
       "api": "csp_Jpyy",
@@ -149,7 +149,7 @@
     },
     {
       "key": "糯米",
-      "name": "🍓糯米┃秒播",
+      "name": "🍓糯米┃FTY秒播",
       "type": 3,
       "api": "csp_Nmyswv",
       "searchable": 1,
@@ -171,7 +171,7 @@
     },
     {
       "key": "文采",
-      "name": "💮文采┃秒播",
+      "name": "💮文采┃FTY秒播",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 2,
@@ -200,7 +200,7 @@
     },
     {
       "key": "萌米",
-      "name": "👀萌米┃多线",
+      "name": "👀萌米┃FTY多线",
       "type": 3,
       "api": "csp_AppTT",
       "playerType": 1,
@@ -478,7 +478,7 @@
     },
     {
       "key": "厂长",
-      "name": "🌾厂长┃直连",
+      "name": "🌾厂长┃FTY直连",
       "type": 3,
       "api": "csp_NewCz",
       "searchable": 1,
@@ -510,7 +510,7 @@
     },
     {
       "key": "IK",
-      "name": "🌾IK",
+      "name": "🌾IK┃FTY",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
       "categories": [
@@ -571,7 +571,7 @@
     },
     {
       "key": "Auete",
-      "name": "🏝奥特┃直连",
+      "name": "🌾奥特┃FTY直连",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -604,7 +604,7 @@
     },
     {
       "key": "csp_subaobai",
-      "name": "✍️素白白┃xm1080P",
+      "name": "🌾素白白┃xm1080P",
       "type": 3,
       "jar": "./jars/xm.jar;md5;bf29a76dfb052377031f57fc69a95611",
       "api": "csp_SuBaiBai",
@@ -616,7 +616,7 @@
     },
     {
       "key": "欢视",
-      "name": "👓欢视┃多线",
+      "name": "👓欢视┃FTY多线",
       "type": 3,
       "api": "csp_AppTT",
       "playerType": 2,
@@ -627,7 +627,7 @@
     },
     {
       "key": "热播",
-      "name": "🍷热播┃多线",
+      "name": "🍷热播┃FTY多线",
       "type": 3,
       "api": "csp_AppTT",
       "playerType": 2,
@@ -638,7 +638,7 @@
     },
     {
       "key": "可可",
-      "name": "👻可可┃多线",
+      "name": "👻可可┃FTY多线",
       "type": 3,
       "playerType": 2,
       "api": "csp_Kekys",
@@ -745,7 +745,7 @@
     },
     {
       "key": "率率",
-      "name": "💡率率┃直连",
+      "name": "💡率率┃FTY直连",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -773,7 +773,7 @@
     },
     {
       "key": "狐狸",
-      "name": "🦊狐狸┃云星",
+      "name": "🌀狐狸┃XBPQ",
       "type": 3,
       "jar": "./jars/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYsV2",
@@ -829,7 +829,7 @@
         "搜索副标题": "vod_remarks\":\"&&\"",
         "搜索链接": "https://m.cfkj86.com/detail/+vod_id\":&&,",
         "筛选": "1",
-        "类型": "喜剧$22#动作$23#战争$25#爱情$26#悬疑$27#武侠$28#科幻$30#冒险$31#警匪$32#动画$33#惊悚$34#犯罪$35#恐怖$36#剧情$37#历史$38#纪录$39#传记$40#歌舞$41┃┃国产剧$14#欧美剧$15#港台剧$16#日韩剧$62#其他剧$68┃┃国产动漫$75#日韩动漫$76#欧美动漫$77#港台动漫$78#其他动漫$80┃┃国产综艺$69#港台综艺$70#日韩综艺$72#欧美综艺$73#其他综艺$74"
+        "类型": "喜剧$22#动作$23#战争$25#爱情$26#悬疑$27#武侠$28#科幻$30#冒险$31#警匪$32#动画$33#惊悚$34#犯罪$35#恐怖$36#剧情$37#历史$38#纪录$39#传记$40#歌舞$41||国产剧$14#欧美剧$15#港台剧$16#日韩剧$62#其他剧$68||国产动漫$75#日韩动漫$76#欧美动漫$77#港台动漫$78#其他动漫$80||国产综艺$69#港台综艺$70#日韩综艺$72#欧美综艺$73#其他综艺$74"
       }
     },
     {
@@ -1267,7 +1267,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "👀低端┃外剧",
+      "name": "👀低端┃FTY外剧",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -1276,7 +1276,7 @@
     },
     {
       "key": "YGP",
-      "name": "🚀叨观荐影┃速递",
+      "name": "🚀叨观荐影┃FTY速递",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
@@ -1468,7 +1468,7 @@
     },
     {
       "key": "csp_Anime1",
-      "name": "🐾日本┃动漫",
+      "name": "🐾日本┃FTY动漫",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -1477,7 +1477,7 @@
     },
     {
       "key": "Bili",
-      "name": "🅱哔哔┃合集",
+      "name": "🅱哔哔┃FTY合集",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -1491,7 +1491,7 @@
     },
     {
       "key": "Biliych",
-      "name": "🅱哔哔┃歌曲",
+      "name": "🅱哔哔┃FTY歌曲",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -1512,7 +1512,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./txt/token.txt+auto┃4k┃fhd"
+      "ext": "./txt/token.txt+auto|4k|fhd"
     },
     {
       "key": "Zhaozy",
@@ -1523,7 +1523,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./txt/token.txt+auto┃4k┃fhd"
+      "ext": "./txt/token.txt+auto|4k|fhd"
     },
     {
       "key": "PanSou",
@@ -1534,7 +1534,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./txt/token.txt+auto┃4k┃fhd"
+      "ext": "./txt/token.txt+auto|4k|fhd"
     },
     {
       "key": "UpYun",
@@ -1545,7 +1545,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./txt/token.txt+auto┃4k┃fhd"
+      "ext": "./txt/token.txt+auto|4k|fhd"
     },
     {
       "key": "YunPanOne",
@@ -1581,13 +1581,13 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "🎬玩偶┃自营🎉",
+      "name": "🎬玩偶┃FTY自营🎉",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://agit.ai/lirg/ocean/raw/branch/master/txt/token.txt+auto┃4k┃fhd$$$https://www.wogg.xyz/$$$关"
+      "ext": "https://agit.ai/lirg/ocean/raw/branch/master/txt/token.txt+auto|4k|fhd$$$https://www.wogg.xyz/$$$关"
     },
     {
       "key": "AList",
@@ -1628,7 +1628,7 @@
     },
     {
       "key": "直播转点播",
-      "name": "🕵️电视┃直播",
+      "name": "🌏电视┃直播",
       "type": 3,
       "api": "./lib/直播转点播2.js",
       "ext": "./json/直播.json"
@@ -2630,7 +2630,7 @@
     {
       "host": "*",
       "rule": [
-        "http((?!http).){12,}?\\.(m3u8┃mp4┃flv┃avi┃mkv┃rm┃wmv┃mpg┃m4a)\\?.*┃http((?!http).){12,}\\.(m3u8┃mp4┃flv┃avi┃mkv┃rm┃wmv┃mpg┃m4a)┃http((?!http).)*?xg.php\\?id=┃http((?!http).)*?/m3/(.*)\\.css"
+        "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*|http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)|http((?!http).)*?xg.php\\?id=|http((?!http).)*?/m3/(.*)\\.css"
       ]
     }
   ],
