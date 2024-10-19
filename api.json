@@ -49,16 +49,6 @@
       }
     },
     {
-      "key": "csp_yunbo",
-      "name": "☁️️云播┃xm1080P",
-      "type": 3,
-      "jar": "./jars/xm.jar;md5;05298b62790d4f33bc1b5bcb9fe8de73",
-      "api": "csp_Tvyb",
-      "searchable": 1,
-      "playerType": 2,
-      "changeable": 1
-    },
-    {
       "key": "天天OK",
       "name": "🎈天天┃OK",
       "type": 3,
@@ -68,6 +58,148 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout was": 30
+    },
+    {
+      "key": "天天弹幕",
+      "name": "🔥天天┃xs弹幕",
+      "type": 3,
+      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "南瓜",
+      "name": "🎃南瓜┃FTYApp",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "南瓜弹幕",
+      "name": "🔥南瓜┃xs弹幕",
+      "type": 3,
+      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+      "api": "csp_Nangua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "热播",
+      "name": "🍷热播┃FTY多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+    {
+      "key": "热播弹幕",
+      "name": "🔥热播┃xs弹幕",
+      "type": 3,
+      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+      "api": "csp_ReBo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "厂长",
+      "name": "🌾厂长┃FTY直连",
+      "type": 3,
+      "api": "csp_NewCz",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy77.com/"
+    },
+    {
+      "key": "厂长弹幕",
+      "name": "🔥厂长┃xs弹幕",
+      "type": 3,
+      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+      "api": "csp_Czzy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "贱贱",
+      "name": "🎈荐片┃蜂蜜",
+      "type": 3,
+      "jar": "./jars/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3",
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./json/jianpian.json",
+      "timeout": 60
+    },
+    {
+      "key": "荐片弹幕",
+      "name": "🔥荐片┃xs弹幕",
+      "type": 3,
+      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+      "api": "csp_Jianpian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "文采",
+      "name": "💮文采┃FTY秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "文才弹幕",
+      "name": "🔥文才┃xs弹幕",
+      "type": 3,
+      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "csp_yunbo",
+      "name": "☁️️云播┃xm1080P",
+      "type": 3,
+      "jar": "./jars/xm.jar;md5;05298b62790d4f33bc1b5bcb9fe8de73",
+      "api": "csp_Tvyb",
+      "searchable": 1,
+      "playerType": 2,
+      "changeable": 1
     },
     {
       "key": "csp_Wwys",
@@ -98,29 +230,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "南瓜弹幕",
-      "name": "🔥南瓜┃xs弹幕",
-      "type": 3,
-      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-      "api": "csp_Nangua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "南瓜",
-      "name": "🎃南瓜┃FTYApp",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "hipy_瓜子",
@@ -168,16 +277,6 @@
       "changeable": 0,
       "ext": "./txt/token.json$$$https://www.91panta.cn/$$$null$$$0",
       "timeout": 60
-    },
-    {
-      "key": "文采",
-      "name": "💮文采┃FTY秒播",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "天天",
@@ -477,14 +576,44 @@
       "changeable": 1
     },
     {
-      "key": "厂长",
-      "name": "🌾厂长┃FTY直连",
+      "key": "小米",
+      "name": "📺米米┃XBPQ1080P",
       "type": 3,
-      "api": "csp_NewCz",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy77.com/"
+      "changeable": 0,
+      "jar": "./jars/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "playerType": "2",
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$okhttp/4.1.0",
+        "主页url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=list&ac=detail",
+        "分类url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg};;v",
+        "搜索模式": "1",
+        "搜索url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=videolist&wd={wd}",
+        "数组二次截取": "",
+        "数组": "{\"v&&}",
+        "图片": "vod_pic\":\"&&\"",
+        "标题": "vod_name\":\"&&\"",
+        "副标题": "vod_remarks\":\"&&\"",
+        "链接": "http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&ids=+od_id\":&&,",
+        "影片类型": "vod_class\"*\"&&\"",
+        "影片年代": "vod_year\"*\"&&\"",
+        "影片地区": "vod_area\"*\"&&\"",
+        "导演": "vod_director\"*\"&&\"",
+        "主演": "vod_actor\"*\"&&\"",
+        "简介": "vod_remarks\"*\"&&\"+vod_content\"*\"&&\"",
+        "线路二次截取": "",
+        "线路数组": "\"vod_play_from\":&&,",
+        "线路标题": "\"&&\"",
+        "播放二次截取": "",
+        "播放数组": "vod_play_url\"&&\"vod_[替换:\\#>>\",:\"]",
+        "播放列表": ":&&,",
+        "播放标题": "\"&&$",
+        "跳转解析": "默认$http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+        "播放链接": "解析+$&&\"",
+        "跳转播放链接": "url\"*\"&&\""
+      }
     },
     {
       "key": "saohuo",
@@ -580,6 +709,18 @@
       "ext": "https://auete.pro/"
     },
     {
+      "key": "csp_subaobai",
+      "name": "🌾素白白┃xm1080P",
+      "type": 3,
+      "jar": "./jars/xm.jar;md5;05298b62790d4f33bc1b5bcb9fe8de73",
+      "api": "csp_SuBaiBai",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "playerType": 1,
+      "ext": ""
+    },
+    {
       "key": "csp_paopao",
       "name": "🌾菠菜┃xm1080P",
       "jar": "./jars/xm.jar;md5;05298b62790d4f33bc1b5bcb9fe8de73",
@@ -603,18 +744,6 @@
       "ext": "https://888.qkw2.cc/"
     },
     {
-      "key": "csp_subaobai",
-      "name": "🌾素白白┃xm1080P",
-      "type": 3,
-      "jar": "./jars/xm.jar;md5;05298b62790d4f33bc1b5bcb9fe8de73",
-      "api": "csp_SuBaiBai",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "playerType": 1,
-      "ext": ""
-    },
-    {
       "key": "欢视",
       "name": "👓欢视┃FTY多线",
       "type": 3,
@@ -624,17 +753,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
-    },
-    {
-      "key": "热播",
-      "name": "🍷热播┃FTY多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
     {
       "key": "可可",
@@ -665,46 +783,6 @@
       "jar": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
       "api": "csp_AppYsV2",
       "ext": "https://mas.szyyds.cn/api.php/app/"
-    },
-    {
-      "key": "小米",
-      "name": "📺米米┃XBPQ1080P",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./jars/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "playerType": "2",
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$okhttp/4.1.0",
-        "主页url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=list&ac=detail",
-        "分类url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg};;v",
-        "搜索模式": "1",
-        "搜索url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=videolist&wd={wd}",
-        "数组二次截取": "",
-        "数组": "{\"v&&}",
-        "图片": "vod_pic\":\"&&\"",
-        "标题": "vod_name\":\"&&\"",
-        "副标题": "vod_remarks\":\"&&\"",
-        "链接": "http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&ids=+od_id\":&&,",
-        "影片类型": "vod_class\"*\"&&\"",
-        "影片年代": "vod_year\"*\"&&\"",
-        "影片地区": "vod_area\"*\"&&\"",
-        "导演": "vod_director\"*\"&&\"",
-        "主演": "vod_actor\"*\"&&\"",
-        "简介": "vod_remarks\"*\"&&\"+vod_content\"*\"&&\"",
-        "线路二次截取": "",
-        "线路数组": "\"vod_play_from\":&&,",
-        "线路标题": "\"&&\"",
-        "播放二次截取": "",
-        "播放数组": "vod_play_url\"&&\"vod_[替换:\\#>>\",:\"]",
-        "播放列表": ":&&,",
-        "播放标题": "\"&&$",
-        "跳转解析": "默认$http://pan.qiaoji8.com/tvbox/neibu.php?url=",
-        "播放链接": "解析+$&&\"",
-        "跳转播放链接": "url\"*\"&&\""
-      }
     },
     {
       "key": "摘星",
@@ -879,99 +957,6 @@
       "ext": "./json/五五影视.json"
     },
     {
-      "key": "天天弹幕",
-      "name": "🔥天天┃xs弹幕",
-      "type": 3,
-      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "厂长弹幕",
-      "name": "🔥厂长┃xs弹幕",
-      "type": 3,
-      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "热播弹幕",
-      "name": "🔥热播┃xs弹幕",
-      "type": 3,
-      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-      "api": "csp_ReBo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "荐片弹幕",
-      "name": "🔥荐片┃xs弹幕",
-      "type": 3,
-      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-      "api": "csp_Jianpian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "文才弹幕",
-      "name": "🔥文才┃xs弹幕",
-      "type": 3,
-      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "哔嘀弹幕",
-      "name": "🔥哔嘀┃xs弹幕",
-      "type": 3,
-      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-      "api": "csp_Bdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://www.yjys05.com",
-        "danmu": true
-      }
-    },
-    {
-      "key": "三六零弹幕",
-      "name": "🔥三六零┃xs解析弹幕",
-      "type": 3,
-      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-      "api": "csp_Sp360",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
       "key": "追剧影视",
       "name": "🔥追剧┃xsAPP",
       "type": 3,
@@ -1079,6 +1064,33 @@
       "ext": "./json/98影视.json"
     },
     {
+      "key": "哔嘀弹幕",
+      "name": "🔥哔嘀┃xs弹幕",
+      "type": 3,
+      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://www.yjys05.com",
+        "danmu": true
+      }
+    },
+    {
+      "key": "三六零弹幕",
+      "name": "🔥三六零┃xs解析弹幕",
+      "type": 3,
+      "jar": "./jars/xs.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+      "api": "csp_Sp360",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
       "key": "君君",
       "name": "🎈君君┃xm4K解析",
       "type": 3,
@@ -1100,18 +1112,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./js/qingfeng.js"
-    },
-    {
-      "key": "贱贱",
-      "name": "🎈荐片┃蜂蜜",
-      "type": 3,
-      "jar": "./jars/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3",
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./json/jianpian.json",
-      "timeout": 60
     },
     {
       "key": "荐片",
