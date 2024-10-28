@@ -400,6 +400,42 @@
       "ext": "./js/短剧TV网.js"
     },
     {
+      "key": "繁荣",
+      "name": "🥝凡人┃qj1080P",
+      "type": 3,
+      "jar": "./jars/qj8.jar;md5;12f37c8466d7133438b2560d8e1b190e",
+      "api": "csp_Frong",
+      "playerType": 1,
+      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTV8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc="
+    },
+    {
+      "key": "木叶",
+      "name": "🥝木叶┃qjApp",
+      "type": 3,
+      "jar": "./jars/qj8.jar;md5;12f37c8466d7133438b2560d8e1b190e",
+      "api": "csp_Muye",
+      "playerType": 2,
+      "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
+    },
+    {
+      "key": "雷电",
+      "name": "🥝雷电┃qjApp",
+      "type": 3,
+      "jar": "./jars/qj8.jar;md5;12f37c8466d7133438b2560d8e1b190e",
+      "api": "csp_Slys",
+      "playerType": 1,
+      "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
+    },
+    {
+      "key": "柠檬",
+      "name": "🥝柠檬┃qjApp",
+      "type": 3,
+      "jar": "./jars/qj8.jar;md5;12f37c8466d7133438b2560d8e1b190e",
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },
+    {
       "key": "csp_WoGG2",
       "name": "👽哥哥┃pg",
       "type": 3,
