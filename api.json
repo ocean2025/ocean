@@ -1019,10 +1019,11 @@
       "name": "🔥大米┃xsAPP",
       "type": 3,
       "jar": "./jars/xs.jar;md5;7c6313a06cdbfc2df09723838e3d14a8",
-      "api": "csp_AppDaMi",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "./js/APPV2.js?type=url&params=https://dmz8k4.wiki"
     },
     {
       "key": "忍者影视",
