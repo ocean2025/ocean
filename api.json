@@ -1,5 +1,5 @@
 {
-  "spider": "./spider.jar;md5;8851819289f80deae32319080028db3b",
+  "spider": "./spider.jar;md5;4e9f85464f8b911cc14f1359cd576f25",
   "wallpaper": "./88.jpeg",
   "logo": "./77.jpg",
   "sites": [
@@ -52,7 +52,7 @@
       "key": "天天OK",
       "name": "🎈天天┃OK",
       "type": 3,
-      "jar": "./jars/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77",
+      "jar": "./jars/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069",
       "api": "csp_TianTian",
       "searchable": 1,
       "quickSearch": 1,
@@ -452,7 +452,7 @@
       "key": "韩圈",
       "name": "🎈韩圈┃OK",
       "type": 3,
-      "jar": "./jars/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77",
+      "jar": "./jars/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069",
       "api": "csp_HanXiaoQuan",
       "searchable": 1,
       "quickSearch": 1,
@@ -489,7 +489,7 @@
       "key": "木耳",
       "name": "🎈木耳┃OK",
       "type": 1,
-      "jar": "./jars/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77",
+      "jar": "./jars/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069",
       "api": "https://json02.heimuer.xyz/api.php/provide/vod",
       "searchable": 1,
       "filterable": 1,
@@ -554,7 +554,7 @@
       "key": "华为",
       "name": "🍇华为┃ok秒播",
       "type": 1,
-      "jar": "./jars/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77",
+      "jar": "./jars/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069",
       "api": "https://cjhwba.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
@@ -848,7 +848,7 @@
       "key": "NanGua",
       "name": "🎈南瓜┃弹幕OK",
       "type": 3,
-      "jar": "./jars/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77",
+      "jar": "./jars/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069",
       "api": "csp_Nangua",
       "searchable": 1,
       "quickSearch": 1,
@@ -1677,16 +1677,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./txt/token.txt"
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "🎬玩偶┃FTY自营🎉",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://agit.ai/lirg/ocean/raw/branch/master/txt/token.txt+auto|4k|fhd$$$https://www.wogg.xyz/$$$关"
     },
     {
       "key": "AList",
