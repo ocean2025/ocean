@@ -1,5 +1,5 @@
 {
-    "spider": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
+    "spider": "./spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
     "lives": [
         {
             "name": "初秋语",
@@ -32,7 +32,8 @@
             "url": "https://fongmi.cachefly.net/YanG-1989/m3u/main/XX.m3u"
         }
     ],
-    "wallpaper": "https://liu.chuqiuyu.workers.dev",
+    "wallpaper": "./99.jpeg",
+    "logo": "./77.jpg",
     "sites": [
         {
             "key": "lf_js_search",
