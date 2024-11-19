@@ -1073,7 +1073,7 @@
       "key": "贱贱",
       "name": "🎈荐片┃蜂蜜",
       "type": 3,
-      "jar": "./jars/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3",
+      "jar": "./jars/custom_spider.jar;md5;81bf9de5c314cbb473a1575144c44f45",
       "api": "csp_Jianpian",
       "searchable": 1,
       "quickSearch": 1,
@@ -1085,6 +1085,7 @@
       "key": "荐片弹幕",
       "name": "🔥荐片┃xs弹幕",
       "type": 3,
+      
       "api": "csp_Jianpian",
       "playerType": 1,
       "searchable": 1,
@@ -1474,7 +1475,7 @@
       "key": "暴風",
       "name": "🎈暴風┃蜂蜜",
       "type": 1,
-      "jar": "./jars/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3",
+      "jar": "./jars/custom_spider.jar;md5;81bf9de5c314cbb473a1575144c44f45",
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
@@ -1483,7 +1484,7 @@
       "key": "索尼",
       "name": "🎈索尼┃蜂蜜",
       "type": 1,
-      "jar": "./jars/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3",
+      "jar": "./jars/custom_spider.jar;md5;81bf9de5c314cbb473a1575144c44f45",
       "api": "https://suoniapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
@@ -1492,7 +1493,7 @@
       "key": "量子",
       "name": "🎈量子┃蜂蜜",
       "type": 0,
-      "jar": "./jars/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3",
+      "jar": "./jars/custom_spider.jar;md5;81bf9de5c314cbb473a1575144c44f45",
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1
@@ -1501,7 +1502,7 @@
       "key": "非凡",
       "name": "🎈非凡┃蜂蜜",
       "type": 1,
-      "jar": "./jars/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3",
+      "jar": "./jars/custom_spider.jar;md5;81bf9de5c314cbb473a1575144c44f45",
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
@@ -1510,7 +1511,7 @@
       "key": "酷狗",
       "name": "🎈酷狗┃蜂蜜",
       "type": 3,
-      "jar": "./jars/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3",
+      "jar": "./jars/custom_spider.jar;md5;81bf9de5c314cbb473a1575144c44f45",
       "api": "csp_Kugou",
       "searchable": 0,
       "changeable": 0
@@ -1657,7 +1658,7 @@
       "key": "AList",
       "name": "🎈AList┃蜂蜜",
       "type": 3,
-      "jar": "./jars/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3",
+      "jar": "./jars/custom_spider.jar;md5;81bf9de5c314cbb473a1575144c44f45",
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
@@ -1667,7 +1668,7 @@
       "key": "WebDAV",
       "name": "WebDAV┃蜂蜜",
       "type": 3,
-      "jar": "./jars/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3",
+      "jar": "./jars/custom_spider.jar;md5;81bf9de5c314cbb473a1575144c44f45",
       "api": "csp_WebDAV",
       "searchable": 1,
       "changeable": 0,
@@ -1677,7 +1678,7 @@
       "key": "商店",
       "name": "🎈應用商店┃蜂蜜",
       "type": 3,
-      "jar": "./jars/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3",
+      "jar": "./jars/custom_spider.jar;md5;81bf9de5c314cbb473a1575144c44f45",
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
@@ -1901,8 +1902,6 @@
           "qiqi",
           "XALS",
           "YuMi-vip"
-          "bilibili"
-          "1905"
         ],
         "header": {
           "User-Agent": "okhttp/4.9.1"
@@ -2429,7 +2428,9 @@
         "huoshan.com",
         "/item/video/"
       ],
-      "filter": []
+      "filter": [
+
+      ]
     },
     {
       "host": "www.sharenice.net",
@@ -2437,7 +2438,9 @@
         "sovv.qianpailive.com",
         "vid="
       ],
-      "filter": []
+      "filter": [
+
+      ]
     },
     {
       "host": "www.sharenice.net",
@@ -2452,7 +2455,9 @@
         "ysting.ysxs8.vip:81",
         "xmcdn.com"
       ],
-      "filter": []
+      "filter": [
+
+      ]
     },
     {
       "host": "hdmoli.com",
