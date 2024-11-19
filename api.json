@@ -1085,7 +1085,6 @@
       "key": "荐片弹幕",
       "name": "🔥荐片┃xs弹幕",
       "type": 3,
-      
       "api": "csp_Jianpian",
       "playerType": 1,
       "searchable": 1,
@@ -1893,7 +1892,7 @@
     {
       "name": "巧技",
       "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
       "ext": {
         "flag": [
           "seven",
@@ -1902,6 +1901,8 @@
           "qiqi",
           "XALS",
           "YuMi-vip"
+          "bilibili"
+          "1905"
         ],
         "header": {
           "User-Agent": "okhttp/4.9.1"
@@ -2207,39 +2208,39 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
-        {
-            "name": "臻享",
-            "type": "1",
-            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=",
-            "ext": {
-                "flag": [
-                    "youku",
-                    "qq",
-                    "qiyi",
-                    "bilibili",
-                    "mgtv",
-                    "pptv",
-                    "xigua",
-                    "NBY",
-                    "ETH-",
-                    "BBA",
-                    "TX",
-                    "MXTV",
-                    "mytv",
-                    "nmys",
-                    "yhdm",
-                    "BNNB",
-                    "letu",
-                    "DJWB",
-                    "DJWX",
-                    "DJWT",
-                    "duanju"
-                ],
-                "header": {
-                    "User-Agent": "Dalvik/2.1.0"
-                }
-            }
-        },
+    {
+      "name": "臻享",
+      "type": "1",
+      "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=",
+      "ext": {
+        "flag": [
+          "youku",
+          "qq",
+          "qiyi",
+          "bilibili",
+          "mgtv",
+          "pptv",
+          "xigua",
+          "NBY",
+          "ETH-",
+          "BBA",
+          "TX",
+          "MXTV",
+          "mytv",
+          "nmys",
+          "yhdm",
+          "BNNB",
+          "letu",
+          "DJWB",
+          "DJWX",
+          "DJWT",
+          "duanju"
+        ],
+        "header": {
+          "User-Agent": "Dalvik/2.1.0"
+        }
+      }
+    },
     {
       "name": "云析",
       "url": "https://jx.yparse.com/index.php?url=",
@@ -2428,9 +2429,7 @@
         "huoshan.com",
         "/item/video/"
       ],
-      "filter": [
-
-      ]
+      "filter": []
     },
     {
       "host": "www.sharenice.net",
@@ -2438,9 +2437,7 @@
         "sovv.qianpailive.com",
         "vid="
       ],
-      "filter": [
-
-      ]
+      "filter": []
     },
     {
       "host": "www.sharenice.net",
@@ -2455,9 +2452,7 @@
         "ysting.ysxs8.vip:81",
         "xmcdn.com"
       ],
-      "filter": [
-
-      ]
+      "filter": []
     },
     {
       "host": "hdmoli.com",
