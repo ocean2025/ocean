@@ -294,16 +294,6 @@
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
-      "key": "新感觉",
-      "name": "🔥新感觉┃xsAPP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://43.248.100.147:9892/api.php/app/"
-    },
-    {
       "key": "无忧短剧",
       "name": "🔥无忧┃xs短剧",
       "type": 3,
@@ -368,13 +358,49 @@
       "ext": "./js/短剧TV网.js"
     },
     {
+      "key": "雨夜",
+      "name": "🥝雨夜┃qjApp",
+      "type": 3,
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
+      "api": "csp_Muou",
+      "playerType": 1,
+      "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcC8="
+    },
+    {
+      "key": "乐观",
+      "name": "🥝乐观┃qjApp",
+      "type": 3,
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"
+    },
+    {
+      "key": "雨滴",
+      "name": "🥝雨滴┃qjApp",
+      "type": 3,
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"
+    },
+    {
+      "key": "优质",
+      "name": "🥝优质┃qjApp",
+      "type": 3,
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"
+    },
+    {
       "key": "繁荣",
       "name": "🥝凡人┃qj1080P",
       "type": 3,
       "jar": "./jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
       "api": "csp_Frong",
       "playerType": 1,
-      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTV8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc="
+      "ext": "FMy4wLjJ8aHR0cHM6Ly92aXAuMTIzcGFuLmNuLzE4MjY0MTAxNjkvZG9uZ3RhaS8xLnR4dHw0MmY3YTIwOXwyNXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
     },
     {
       "key": "木叶",
@@ -436,22 +462,9 @@
       "timeout was": 30
     },
     {
-      "key": "Kuaikan",
-      "name": "⚡️快看┃ts",
-      "type": "3",
-      "jar": "img+./jars/tangsan.bmp;md5;295c0f9a2eb5a65687829d21282200b1",
-      "api": "csp_Dora",
-      "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "459b1cb892e317546676a2c9dcec2bff"
-    },
-    {
       "key": "hipy_闪电",
       "name": "⚡️闪电┃js纯净",
       "type": 3,
-      "jar": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -459,6 +472,25 @@
       "order_num": 0,
       "changeable": 0,
       "ext": "./js/闪电.js"
+    },
+    {
+      "key": "Kuaikan",
+      "name": "🥝快看┃qj直连",
+      "type": "3",
+      "jar": "./jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
+      "api": "csp_Kuaikan",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1"
+    },
+    {
+      "key": "客星",
+      "name": "🥝客星┃qjApp",
+      "type": 3,
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="
     },
     {
       "key": "木耳",
@@ -1057,6 +1089,16 @@
       "order_num": 0,
       "changeable": 0,
       "ext": "./js/FREE.js"
+    },
+    {
+      "key": "新视觉",
+      "name": "🔥新视觉┃xs影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/新视觉.json"
     },
     {
       "key": "csp_xBPQ_玖八",
