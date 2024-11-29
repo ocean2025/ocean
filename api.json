@@ -1,5 +1,5 @@
 {
-  "spider": "./spider.jar;md5;be9be97d2b21f8fe4ba66ab7ed71b4d5",
+  "spider": "./spider.jar;md5;457855ba2a9ae5b714494638a3e938ae",
   "wallpaper": "./88.jpeg",
   "logo": "./77.jpg",
   "sites": [
@@ -180,6 +180,24 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://z.kzjtv.com/"
+    },
+    {
+      "key": "py_hitv.py",
+      "name": "🌏hitv┃py",
+      "type": 3,
+      "api": "./py/py_hitv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_可可.py",
+      "name": "🌏可可┃py",
+      "type": 3,
+      "api": "./py/py_可可.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "cctv",
