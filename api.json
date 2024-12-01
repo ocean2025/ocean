@@ -22,16 +22,15 @@
       "changeable": 1
     },
     {
-      "key": "csp_LiteApple",
-      "name": "🍎苹果┃xm1080P",
+      "key": "小苹果OK",
+      "name": "🍎苹果┃OK1080P",
       "type": 3,
-      "jar": "./jars/xm.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f",
-      "api": "csp_LiteApple",
+      "jar": "./jars/okjpg.txt;md5;3203f3d93bbe1e8d2e5ec53d00e9c8d6",
+      "api": "csp_Xpg",
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
-      "playerType": 1,
-      "ext": ""
+      "timeout": 30
     },
     {
       "key": "小苹果弹幕",
@@ -49,7 +48,7 @@
       "key": "天天OK",
       "name": "🎈天天┃OK",
       "type": 3,
-      "jar": "./jars/okjpg.txt;md5;cd77be4289ed9a66f40de80b0fb2673c",
+      "jar": "./jars/okjpg.txt;md5;3203f3d93bbe1e8d2e5ec53d00e9c8d6",
       "api": "csp_TianTian",
       "searchable": 1,
       "quickSearch": 1,
@@ -72,7 +71,7 @@
       "key": "南瓜",
       "name": "🎃南瓜┃FTYApp",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "csp_NanGua",
       "playerType": 2,
       "searchable": 1,
@@ -95,7 +94,7 @@
       "key": "热播",
       "name": "🍷热播┃FTY多线",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "csp_AppTT",
       "playerType": 2,
       "searchable": 1,
@@ -119,7 +118,7 @@
       "key": "厂长",
       "name": "🌾厂长┃FTY直连",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "csp_NewCz",
       "searchable": 1,
       "quickSearch": 1,
@@ -142,7 +141,7 @@
       "key": "文采",
       "name": "💮文采┃FTY秒播",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "csp_Jpys",
       "playerType": 2,
       "searchable": 1,
@@ -165,7 +164,7 @@
       "key": "csp_Wwys",
       "name": "🐶汪汪┃xm1080P",
       "type": 3,
-      "jar": "./jars/xm.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f",
+      "jar": "./jars/xm.jar;md5;859ac4d2f96f5168819e8da09af1207d",
       "playerType": 1,
       "changeable": 0,
       "api": "csp_Wwys",
@@ -182,6 +181,22 @@
       "ext": "http://z.kzjtv.com/"
     },
     {
+      "key": "csp_Bili",
+      "name": "🅱哔哩┃xm哔哩",
+      "type": 3,
+      "jar": "./jars/xm.jar;md5;859ac4d2f96f5168819e8da09af1207d",
+      "api": "csp_Bili",
+      "playerType": 2,
+      "ext": {
+        "json": "./json/biliych.json",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
       "key": "py_hitv.py",
       "name": "🌏hitv┃py",
       "type": 3,
@@ -195,6 +210,15 @@
       "name": "🌏可可┃py",
       "type": 3,
       "api": "./py/py_可可.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_shijue.py",
+      "name": "🌏视觉┃py",
+      "type": 3,
+      "api": "./py/py_shijue.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -220,23 +244,22 @@
       "filterable": 1
     },
     {
-      "key": "hipy_瓜子",
-      "name": "❤️瓜子┃js纯净",
+      "key": "瓜子",
+      "name": "🍉瓜子┃xm1080P",
       "type": 3,
-      "jar": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
-      "api": "./lib/drpy2.min.js",
+      "jar": "./jars/xm.jar;md5;859ac4d2f96f5168819e8da09af1207d",
+      "api": "csp_Gz360",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
       "order_num": 0,
-      "changeable": 0,
-      "ext": "./js/guazi.js"
+      "changeable": 0
     },
     {
       "key": "csp_JPYY",
       "name": "🌾金牌┃xm1080P",
       "type": 3,
-      "jar": "./jars/xm.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f",
+      "jar": "./jars/xm.jar;md5;859ac4d2f96f5168819e8da09af1207d",
       "api": "csp_Jpyy",
       "searchable": 1,
       "changeable": 1,
@@ -248,7 +271,7 @@
       "key": "糯米",
       "name": "🍓糯米┃FTY秒播",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "csp_Nmyswv",
       "searchable": 1,
       "quickSearch": 1,
@@ -279,9 +302,19 @@
     {
       "key": "huohuo",
       "name": "💥火火┃xm1080P",
-      "jar": "./jars/xm.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f",
+      "jar": "./jars/xm.jar;md5;859ac4d2f96f5168819e8da09af1207d",
       "type": 3,
       "api": "csp_SaoHuo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "zhaixing",
+      "name": "✨摘星┃xm1080P",
+      "type": 3,
+      "jar": "./jars/xm.jar;md5;859ac4d2f96f5168819e8da09af1207d",
+      "api": "csp_AppZX",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -290,7 +323,7 @@
       "key": "萌米",
       "name": "👀萌米┃FTY多线",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "csp_AppTT",
       "playerType": 1,
       "searchable": 1,
@@ -298,18 +331,6 @@
       "changeable": 1,
       "timeout": 15,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-    {
-      "key": "无忧短剧",
-      "name": "🔥无忧┃xs短剧",
-      "type": 3,
-      "api": "csp_Duanj",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
     },
     {
       "key": "星芽短剧",
@@ -352,16 +373,37 @@
       "ext": "./js/短剧天堂.js"
     },
     {
-      "key": "hipy_js_短剧TV网",
-      "name": "短剧TV网(drpy_t3)",
-      "type": 3,
-      "jar": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
-      "api": "./lib/drpy2.min.js",
+      "key": "csp_zhufan",
+      "name": "🚗追饭┃xm1080P",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/短剧TV网.js"
+      "type": 3,
+      "jar": "./jars/xm.jar;md5;859ac4d2f96f5168819e8da09af1207d",
+      "api": "csp_MiTo",
+      "ext": {
+        "url": "http://xiafan.zhuiju666.com",
+        "dataKey": "aassddwwxxllsx1x",
+        "playKey": "bbssqdbbssll25sx",
+        "version": "1.1.0"
+      }
+    },
+    {
+      "key": "🌟客星",
+      "name": "🌟客星┃qj1080P",
+      "type": 3,
+      "jar": "./jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg=="
+    },
+    {
+      "key": "熊猫",
+      "name": "🐈熊猫┃qj1080P",
+      "type": 3,
+      "jar": "./jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "caHR0cDovL2dldGFwcC50dnliYXBwLmNvbXxtaWNrMjQ1OG1pY2syNDU4fG1pY2syNDU4bWljazI0NTg="
     },
     {
       "key": "雨滴",
@@ -391,17 +433,6 @@
       "ext": "FMy4wLjJ8aHR0cHM6Ly92aXAuMTIzcGFuLmNuLzE4MjY0MTAxNjkvZG9uZ3RhaS8xLnR4dHw0MmY3YTIwOXwyNXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
     },
     {
-      "key": "速播",
-      "name": "🍊速播┃FTY多线",
-      "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
-      "api": "csp_AppSx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6"
-    },
-    {
       "key": "雷电",
       "name": "🥝雷电┃qjApp",
       "type": 3,
@@ -420,6 +451,16 @@
       "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },
     {
+      "key": "Kuaikan",
+      "name": "🥝快看┃qj直连",
+      "type": "3",
+      "jar": "./jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
+      "api": "csp_Kuaikan",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1"
+    },
+    {
       "key": "csp_Nkdy",
       "name": "🌽耐看┃xs影视",
       "type": 3,
@@ -427,31 +468,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "csp_WoGG2",
-      "name": "👽哥哥┃pg",
-      "type": 3,
-      "jar": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": "./txt/token.json$$$https://www.wogg.net/$$$noproxy$$$0$$$./json/wogg.json$$$WOGG",
-      "timeout was": 60
-    },
-    {
-      "key": "韩圈",
-      "name": "🎈韩圈┃OK",
-      "type": 3,
-      "jar": "./jars/okjpg.txt;md5;cd77be4289ed9a66f40de80b0fb2673c",
-      "api": "csp_HanXiaoQuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "timeout was": 30
     },
     {
       "key": "hipy_闪电",
@@ -466,20 +482,21 @@
       "ext": "./js/闪电.js"
     },
     {
-      "key": "Kuaikan",
-      "name": "🥝快看┃qj直连",
-      "type": "3",
-      "jar": "./jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
-      "api": "csp_Kuaikan",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1"
+      "key": "速播",
+      "name": "🍊速播┃FTY多线",
+      "type": 3,
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
+      "api": "csp_AppSx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6"
     },
     {
       "key": "木星",
       "name": "🌞木星┃FTY多线",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "csp_AppSx",
       "searchable": 1,
       "quickSearch": 1,
@@ -487,10 +504,22 @@
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
     },
     {
+      "key": "韩圈",
+      "name": "🎈韩圈┃OK",
+      "type": 3,
+      "jar": "./jars/okjpg.txt;md5;3203f3d93bbe1e8d2e5ec53d00e9c8d6",
+      "api": "csp_HanXiaoQuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "timeout was": 30
+    },
+    {
       "key": "木耳",
       "name": "🎈木耳┃OK",
       "type": 1,
-      "jar": "./jars/okjpg.txt;md5;cd77be4289ed9a66f40de80b0fb2673c",
+      "jar": "./jars/okjpg.txt;md5;3203f3d93bbe1e8d2e5ec53d00e9c8d6",
       "api": "https://json02.heimuer.xyz/api.php/provide/vod",
       "searchable": 1,
       "filterable": 1,
@@ -555,13 +584,34 @@
       "key": "华为",
       "name": "🍇华为┃ok秒播",
       "type": 1,
-      "jar": "./jars/okjpg.txt;md5;cd77be4289ed9a66f40de80b0fb2673c",
+      "jar": "./jars/okjpg.txt;md5;3203f3d93bbe1e8d2e5ec53d00e9c8d6",
       "api": "https://cjhwba.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
       "timeout": 10
+    },
+    {
+      "key": "小马",
+      "name": "🐎小马┃蓝光pg",
+      "type": 3,
+      "jar": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
+      "api": "csp_AppYsV2",
+      "ext": "https://mas.szyyds.cn/api.php/app/"
+    },
+    {
+      "key": "csp_WoGG2",
+      "name": "👽哥哥┃pg",
+      "type": 3,
+      "jar": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "./txt/token.json$$$https://www.wogg.net/$$$noproxy$$$0$$$./json/wogg.json$$$WOGG",
+      "timeout was": 60
     },
     {
       "key": "PushShare",
@@ -582,36 +632,16 @@
       "order_num": 9999
     },
     {
-      "key": "AliShare",
-      "name": "👽阿里云盘影视分享┃pg",
+      "key": "hipy_瓜子",
+      "name": "❤️瓜子┃js纯净",
       "type": 3,
-      "jar": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
-      "api": "csp_AliShare",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "ext": "./txt/token.json$$$./txt/alishare.txt",
-      "timeout": 60,
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      },
-      "order_num": 9999
-    },
-    {
-      "key": "SambaShare",
-      "name": "👽Samba分享┃pg",
-      "type": 3,
-      "jar": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
-      "api": "csp_SambaShare",
-      "searchable": 0,
-      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 0,
       "changeable": 0,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "./txt/token.json$$$./txt/sambashare.txt",
-      "order_num": 9999
+      "ext": "./js/guazi.js"
     },
     {
       "key": "小米",
@@ -679,7 +709,7 @@
       "key": "IK",
       "name": "🌾IK┃FTY",
       "type": 1,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
       "categories": [
         "动作片",
@@ -741,7 +771,7 @@
       "key": "Auete",
       "name": "🌾奥特┃FTY直连",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
@@ -752,7 +782,7 @@
       "key": "欢视",
       "name": "👓欢视┃FTY多线",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "csp_AppTT",
       "playerType": 2,
       "searchable": 1,
@@ -764,7 +794,7 @@
       "key": "可可",
       "name": "👻可可┃FTY多线",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "playerType": 2,
       "api": "csp_Kekys",
       "searchable": 1,
@@ -783,18 +813,10 @@
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
     {
-      "key": "小马",
-      "name": "🐎小马┃蓝光pg",
-      "type": 3,
-      "jar": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
-      "api": "csp_AppYsV2",
-      "ext": "https://mas.szyyds.cn/api.php/app/"
-    },
-    {
       "key": "NanGua",
       "name": "🎈南瓜┃弹幕OK",
       "type": 3,
-      "jar": "./jars/okjpg.txt;md5;cd77be4289ed9a66f40de80b0fb2673c",
+      "jar": "./jars/okjpg.txt;md5;3203f3d93bbe1e8d2e5ec53d00e9c8d6",
       "api": "csp_Nangua",
       "searchable": 1,
       "quickSearch": 1,
@@ -914,21 +936,9 @@
       }
     },
     {
-      "key": "君君",
-      "name": "🎈君君┃xm4K解析",
-      "type": 3,
-      "jar": "./jars/xm.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f",
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.228.85.203:1000/api.php/app/"
-    },
-    {
       "key": "醉挽清风",
       "name": "❤️醉挽清风┃js解析",
       "type": 3,
-      "jar": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -940,7 +950,7 @@
       "key": "荐片",
       "name": "🐭贱贱┃p2p",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -960,28 +970,6 @@
       "ext": "./js/畅梦影视[优].js"
     },
     {
-      "key": "hipy_js_毒蛇电影[优]",
-      "name": "毒蛇电影[优](drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/毒蛇电影[优].js"
-    },
-    {
-      "key": "hipy_js_哈皮影视[优]",
-      "name": "哈皮影视[优](drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/哈皮影视[优].js"
-    },
-    {
       "key": "hipy_js_可可影视[优]",
       "name": "可可影视[优](drpy_t3)",
       "type": 3,
@@ -991,17 +979,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./js/可可影视[优].js"
-    },
-    {
-      "key": "hipy_js_南瓜影视[优]",
-      "name": "南瓜影视[优](drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/南瓜影视[优].js"
     },
     {
       "key": "hipy_js_农民影视[优]",
@@ -1048,17 +1025,6 @@
       "ext": "./js/一起看[优].js"
     },
     {
-      "key": "hipy_js_LIBVIO[优]",
-      "name": "LIBVIO[优](drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/LIBVIO[优].js"
-    },
-    {
       "key": "hipy_js_采集之王[合]0",
       "name": "采王道长[合](drpy_t3)",
       "type": 3,
@@ -1103,32 +1069,10 @@
       "ext": "./js/童趣[儿].js"
     },
     {
-      "key": "hipy_js_人人影视",
-      "name": "人人影视(drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/人人影视.js"
-    },
-    {
-      "key": "hipy_js_西瓜影院",
-      "name": "西瓜影院(drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/西瓜影院.js"
-    },
-    {
       "key": "csp_yunbo",
       "name": "☁️️云播┃xm1080P",
       "type": 3,
-      "jar": "./jars/xm.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f",
+      "jar": "./jars/xm.jar;md5;859ac4d2f96f5168819e8da09af1207d",
       "api": "csp_Tvyb",
       "searchable": 1,
       "playerType": 2,
@@ -1138,7 +1082,7 @@
       "key": "csp_DiDuan",
       "name": "👀低端┃FTY外剧",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
@@ -1148,7 +1092,7 @@
       "key": "YGP",
       "name": "🚀叨观荐影┃FTY速递",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "csp_YGP",
       "searchable": 0,
       "quickSearch": 0,
@@ -1323,7 +1267,7 @@
       "key": "csp_XYQBiu_斗鱼",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "./lib/drpy2.min.js",
       "ext": "./js/斗鱼直播.js",
       "style": {
@@ -1338,7 +1282,7 @@
       "key": "csp_Anime1",
       "name": "🐾日本┃FTY动漫",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "csp_Anime1",
       "searchable": 1,
       "quickSearch": 1,
@@ -1355,7 +1299,7 @@
       "key": "Bili",
       "name": "🅱哔哔┃FTY合集",
       "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+      "jar": "./jars/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
       "api": "csp_Bili",
       "style": {
         "type": "rect",
@@ -1365,21 +1309,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./json/bilibili.json"
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱哔哔┃FTY歌曲",
-      "type": 3,
-      "jar": "./jars/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./json/biliych.json"
     },
     {
       "key": "YiSo",
@@ -1424,28 +1353,6 @@
       "filterable": 0,
       "changeable": 1,
       "ext": "./txt/token.txt+auto|4k|fhd"
-    },
-    {
-      "key": "YunPanOne",
-      "name": "云盘One┃网盘搜索",
-      "type": 3,
-      "jar": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
-      "api": "csp_YunPanOne",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./txt/token.json$$$None$$$proxy$$$0",
-      "order_num": 9999
-    },
-    {
-      "key": "異界",
-      "name": "異界",
-      "type": 3,
-      "jar": "./jars/pg.jar;md5;e635dc6194fc68f0bee81e3bec34ea86",
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "changeable": 0
     },
     {
       "key": "push_agent",
