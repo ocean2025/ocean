@@ -171,14 +171,14 @@
       "ext": "https://www.wwgz.cn/"
     },
     {
-      "key": "追剧影视",
-      "name": "🔥追剧｜xsAPP",
+      "key": "zhaixing",
+      "name": "✨摘星┃xm1080P",
       "type": 3,
-      "api": "csp_AppZJ",
+      "jar": "./jars/xm.jar;md5;859ac4d2f96f5168819e8da09af1207d",
+      "api": "csp_AppZX",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://z.kzjtv.com/"
+      "changeable": 1
     },
     {
       "key": "csp_Bili",
@@ -305,16 +305,6 @@
       "jar": "./jars/xm.jar;md5;859ac4d2f96f5168819e8da09af1207d",
       "type": 3,
       "api": "csp_SaoHuo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "zhaixing",
-      "name": "✨摘星┃xm1080P",
-      "type": 3,
-      "jar": "./jars/xm.jar;md5;859ac4d2f96f5168819e8da09af1207d",
-      "api": "csp_AppZX",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -502,6 +492,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
+    },
+    {
+      "key": "csp_yunbo",
+      "name": "☁️️云播┃xm1080P",
+      "type": 3,
+      "jar": "./jars/xm.jar;md5;859ac4d2f96f5168819e8da09af1207d",
+      "api": "csp_Tvyb",
+      "searchable": 1,
+      "playerType": 2,
+      "changeable": 1
     },
     {
       "key": "韩圈",
@@ -1069,14 +1069,14 @@
       "ext": "./js/童趣[儿].js"
     },
     {
-      "key": "csp_yunbo",
-      "name": "☁️️云播┃xm1080P",
+      "key": "追剧影视",
+      "name": "🔥追剧｜xsAPP",
       "type": 3,
-      "jar": "./jars/xm.jar;md5;859ac4d2f96f5168819e8da09af1207d",
-      "api": "csp_Tvyb",
+      "api": "csp_AppZJ",
       "searchable": 1,
-      "playerType": 2,
-      "changeable": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://z.kzjtv.com/"
     },
     {
       "key": "csp_DiDuan",
