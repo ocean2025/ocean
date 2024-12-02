@@ -11,11 +11,11 @@
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-TVBS新闻,http://211.72.65.236:8574/.m3u8
 TVBS新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻,http://211.72.65.236:8574/.m3u8
 
 央视IPV6,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
