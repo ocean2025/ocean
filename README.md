@@ -12,3 +12,5 @@ git push -u origin main
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ocean2025/ocean/main/api.json
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/ocean2025/ocean/main/api.json
+
+https://ghp.ci/https://raw.githubusercontent.com/ocean2025/ocean/refs/heads/main/api.json
