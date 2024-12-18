@@ -1,5 +1,5 @@
 {
-  "spider": "./spider.jar;md5;b1a2c6271950c5bfeb19af015927d646",
+  "spider": "./spider.jar;md5;7fee5a17815a1fb1c7faa7dafacf3051",
   "lives": [
     {
       "name": "初秋语",
@@ -71,6 +71,22 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./js/lf_live1.txt"
+    },
+    {
+      "key": "木耳",
+      "name": "🔥木耳｜xs采集",
+      "type": 1,
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "华为",
+      "name": "🔥华为｜xs采集",
+      "type": 1,
+      "api": "https://cjhwba.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "红牛资源",
