@@ -281,13 +281,13 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./json/央视大全.json"
+			"ext": "https://github.com/ocean2025/ocean/raw/main/json/央视大全.json"
 		},
 		{
 			"key": "py_央视片库",
 			"name": "🌏cctv片库┃py",
 			"type": 3,
-			"api": "./py/央视片库.py",
+			"api": "https://github.com/ocean2025/ocean/raw/main/py/央视片库.py",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -296,7 +296,7 @@
 			"key": "猎手影视",
 			"name": "🔥猎手｜xs影视",
 			"type": 3,
-			"api": "./py/猎手影视.py",
+			"api": "https://github.com/ocean2025/ocean/raw/main/py/猎手影视.py",
 			"searchable": 1,
 			"changeable": 1,
 			"quickSearch": 1,
@@ -306,7 +306,7 @@
 			"key": "哔哩直播",
 			"name": "🔥哔哩｜xs直播",
 			"type": 3,
-			"api": "./py/哔哩直播.py"
+			"api": "https://github.com/ocean2025/ocean/raw/main/py/哔哩直播.py"
 		},
 		{
 			"key": "瓜子",
@@ -380,7 +380,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./json/奇趣影视.json"
+			"ext": "https://github.com/ocean2025/ocean/raw/main/json/奇趣影视.json"
 		},
 		{
 			"key": "金牌影视",
@@ -912,7 +912,7 @@
 			"name": "🔥采集｜xs合集",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
-			"ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
+			"ext": "https://github.com/ocean2025/ocean/raw/main/js/采集之王.js?type=url&params=.https://github.com/ocean2025/ocean/raw/main/json/采集静态.json$1$1"
 		},
 		{
 			"key": "荐片",
@@ -935,7 +935,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./js/采集之王[合].js?type=url&params=../json/采集静态.json$1"
+			"ext": "https://github.com/ocean2025/ocean/raw/main/js/采集之王[合].js?type=url&params=.https://github.com/ocean2025/ocean/raw/main/json/采集静态.json$1"
 		},
 		{
 			"key": "csp_DiDuan",
@@ -1008,7 +1008,7 @@
 			"type": 3,
 			"jar": "./jars/fan.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
 			"api": "./lib/drpy2.min.js",
-			"ext": "./js/斗鱼直播.js",
+			"ext": "https://github.com/ocean2025/ocean/raw/main/js/斗鱼直播.js",
 			"style": {
 				"type": "rect",
 				"ratio": 1.755
@@ -1032,7 +1032,7 @@
 			"name": "🔥哔哩｜xs影视",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
-			"ext": "./js/哔哩视频.js"
+			"ext": "https://github.com/ocean2025/ocean/raw/main/js/哔哩视频.js"
 		},
 		{
 			"key": "Bili",
@@ -1147,8 +1147,8 @@
 			"key": "直播转点播",
 			"name": "🌏电视┃直播",
 			"type": 3,
-			"api": "./lib/直播转点播2.js",
-			"ext": "./json/直播.json"
+			"api": "https://github.com/ocean2025/ocean/raw/main/lib/直播转点播2.js",
+			"ext": "https://github.com/ocean2025/ocean/raw/main/json/直播.json"
 		},
 		{
 			"key": "lf_js_lf_live",
@@ -1181,7 +1181,7 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": {
-				"json": "./json/小学课堂.json",
+				"json": "https://github.com/ocean2025/ocean/raw/main/json/小学课堂.json",
 				"cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
 			},
 			"style": {
@@ -1198,7 +1198,7 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": {
-				"json": "./json/初中课堂.json",
+				"json": "https://github.com/ocean2025/ocean/raw/main/json/初中课堂.json",
 				"cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
 			},
 			"style": {
@@ -1215,7 +1215,7 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": {
-				"json": "./json/高中课堂.json",
+				"json": "https://github.com/ocean2025/ocean/raw/main/json/高中课堂.json",
 				"cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
 			},
 			"style": {
