@@ -1,5 +1,5 @@
 {
-	"spider": "./spider.jar;md5;3a41847962e85a3334351950ee8daac3",
+	"spider": "./spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7",
 	"lives": [
 		{
 			"name": "初秋语",
@@ -73,50 +73,21 @@
 			"ext": "./js/lf_live1.txt"
 		},
 		{
-			"key": "木耳",
-			"name": "🔥木耳｜xs采集",
+			"key": "豆瓣采集资源",
+			"name": "🎈豆瓣┃蜂蜜",
 			"type": 1,
-			"api": "https://json02.heimuer.xyz/api.php/provide/vod",
+			"jar": "./jars/custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
+			"api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+			"playerType": 1,
 			"searchable": 1,
 			"changeable": 1
 		},
 		{
-			"key": "华为",
-			"name": "🔥华为｜xs采集",
+			"key": "360资源",
+			"name": "🎈360资源┃蜂蜜",
 			"type": 1,
-			"api": "https://cjhwba.com/api.php/provide/vod",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "红牛资源",
-			"name": "🔥红牛｜xs采集",
-			"type": 1,
-			"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "光速资源",
-			"name": "🔥光速｜xs采集",
-			"type": 1,
-			"api": "http://api.guangsuapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "极速资源",
-			"name": "🔥极速｜xs采集",
-			"type": 1,
-			"api": "https://jszyapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "快车资源",
-			"name": "🔥快车｜xs采集",
-			"type": 1,
-			"api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+			"jar": "./jars/custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
+			"api": "https://360zy.com/api.php/seaxml/vod/",
 			"searchable": 1,
 			"changeable": 1
 		},

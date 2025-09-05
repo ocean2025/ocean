@@ -1,5 +1,5 @@
 {
-	"spider": "./spider.jar;md5;3a41847962e85a3334351950ee8daac3",
+	"spider": "./spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7",
 	"wallpaper": "./88.jpeg",
 	"logo": "./77.jpg",
 	"sites": [
@@ -956,6 +956,25 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0
+		},
+		{
+			"key": "豆瓣采集资源",
+			"name": "🎈豆瓣┃蜂蜜",
+			"type": 1,
+			"jar": "./jars/custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
+			"api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+			"playerType": 1,
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "360资源",
+			"name": "🎈360资源┃蜂蜜",
+			"type": 1,
+			"jar": "./jars/custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
+			"api": "https://360zy.com/api.php/seaxml/vod/",
+			"searchable": 1,
+			"changeable": 1
 		},
 		{
 			"key": "暴風",
