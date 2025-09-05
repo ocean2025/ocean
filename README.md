@@ -9,8 +9,8 @@ git push -u origin main
 
 #自用在线源订阅地址：
 
-https://gh-proxy.com/https://raw.githubusercontent.com/ocean2025/ocean/main/api.json
-
 https://cdn.jsdelivr.net/gh/ocean2025/ocean@main/api.json
+
+https://gh-proxy.com/https://raw.githubusercontent.com/ocean2025/ocean/main/api.json
 
 https://raw.githubusercontent.com/ocean2025/ocean/main/api.json
