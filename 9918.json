@@ -128,89 +128,89 @@
 			"key": "hipy_js_采集之王[合]0",
 			"name": "采王道长[合](drpy_t3)",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./js/采集之王[合].js?type=url&params=../json/采集静态.json$1"
+			"ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/js/采集之王_合_.js?type=url&params=../json/采集静态.json$1"
 		},
 		{
 			"key": "hipy_js_采集之王[合]1",
 			"name": "采王zy[密](drpy_t3)",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 1,
-			"ext": "./js/采集之王[合].js?type=url&params=../json/采集[zy]静态.json$1"
+			"ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/js/采集之王_合_.js?type=url&params=../json/采集_zy_.json$1"
 		},
 		{
 			"key": "hipy_js_采集之王[合]2",
 			"name": "采王成人[密](drpy_t3)",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 2,
-			"ext": "./js/采集之王[合].js?type=url&params=../json/采集[密]静态.json"
+			"ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/js/采集之王_合_.js?type=url&params=../json/采集_密_静态.json"
 		},
 		{
 			"key": "hipy_js_29片库[密]",
 			"name": "29片库[密](drpy_t3)",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./js/29片库[密].js"
+			"ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/js/29片库_密_.js"
 		},
 		{
 			"key": "hipy_js_36直播[密]",
 			"name": "36直播[密](drpy_t3)",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./js/36直播[密].js"
+			"ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/js/36直播_密_.js"
 		},
 		{
 			"key": "hipy_js_番号资源[密]",
 			"name": "番号资源[密](drpy_t3)",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./js/番号资源[密].js"
+			"ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/js/番号资源_密_.js"
 		},
 		{
 			"key": "hipy_js_黑料不打烊[密]",
 			"name": "黑料不打烊[密](drpy_t3)",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./js/黑料不打烊[密].js"
+			"ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/js/黑料不打烊_密_.js"
 		},
 		{
 			"key": "hipy_js_小女18[密]",
 			"name": "小女18[密](drpy_t3)",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./js/小女18[密].js"
+			"ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/js/小女18_密_.js"
 		},
 		{
 			"key": "量子",
