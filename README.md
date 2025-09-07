@@ -11,6 +11,8 @@ git push -u origin main
 
 https://cdn.jsdelivr.net/gh/ocean2025/ocean@main/api.json
 
+https://cdn.jsdelivr.net/gh/ocean2025/ocean@main/api2026.json
+
 https://gh-proxy.com/https://raw.githubusercontent.com/ocean2025/ocean/main/api.json
 
 https://raw.githubusercontent.com/ocean2025/ocean/main/api.json
