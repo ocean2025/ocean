@@ -104,7 +104,7 @@
 			"key": "py_央视片库",
 			"name": "🌏cctv片库┃xspy",
 			"type": 3,
-			"jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/spider.jar;md5;0075066b2d3b5c17cd4cb5e0c97e20a4",
+			"jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/spider.jar;md5;95dffdc8f15cec18013cd1dfeeae1164",
 			"api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/py/央视片库.py",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -114,7 +114,7 @@
 			"key": "猎手影视",
 			"name": "🔥猎手┃xs影视py",
 			"type": 3,
-			"jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/spider.jar;md5;0075066b2d3b5c17cd4cb5e0c97e20a4",
+			"jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/spider.jar;md5;95dffdc8f15cec18013cd1dfeeae1164",
 			"api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/py/猎手影视.py",
 			"searchable": 1,
 			"changeable": 1,
@@ -125,7 +125,7 @@
 			"key": "哔哩直播",
 			"name": "🔥哔哩┃xs直播py",
 			"type": 3,
-			"jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/spider.jar;md5;0075066b2d3b5c17cd4cb5e0c97e20a4",
+			"jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/spider.jar;md5;95dffdc8f15cec18013cd1dfeeae1164",
 			"api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/py/哔哩直播.py"
 		},
 		{
