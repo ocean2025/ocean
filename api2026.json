@@ -50,24 +50,13 @@
 		},
 		{
 			"key": "csp_Wwys",
-			"name": "🐶汪汪┃xm1080P",
+			"name": "💯旺旺┃xm极速",
 			"type": 3,
 			"jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/xm.png;md5;d4be9b4c1fc2a46911fb45726b8f109a",
 			"playerType": 1,
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/"
-		},
-		{
-			"key": "csp_nongmin",
-			"name": "💯农民┃xm极速",
-			"type": 3,
-			"jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/xm.png;md5;d4be9b4c1fc2a46911fb45726b8f109a",
-			"api": "csp_Wwys",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "https://www.wwgz.cn"
 		},
 		{
 			"key": "奇趣影视",
