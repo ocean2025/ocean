@@ -54,6 +54,15 @@
 			"timeout": 30
 		},
 		{
+			"key": "🌟南瓜",
+			"name": "🌟南瓜┃qj秒播",
+			"type": 3,
+			"jar": "./jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+			"api": "csp_NanGua",
+			"playerType": 2,
+			"ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+		},
+		{
 			"key": "csp_LiteApple",
 			"name": "🍎苹果┃xm影视",
 			"type": 3,
@@ -63,7 +72,7 @@
 			"api": "csp_LiteApple"
 		},
 		{
-			"key": "瓜子",
+			"key": "csp_Gz360",
 			"name": "🍉瓜子┃xm1080P",
 			"type": 3,
 			"jar": "./jars/xm.zip;md5;724d886bff3678ff154973d2bc1834ef",
@@ -117,7 +126,7 @@
 			"key": "🌟客星",
 			"name": "🌟客星┃qj1080P",
 			"type": 3,
-			"jar": "./jars/qj8.jar;md5;54418536dc2a40da4e94437397895d01",
+			"jar": "./jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
 			"api": "csp_Xdai",
 			"playerType": 2,
 			"ext": "7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"
@@ -735,7 +744,7 @@
 			"key": "优质",
 			"name": "🥝优质┃qjApp",
 			"type": 3,
-			"jar": "./jars/qj8.jar;md5;54418536dc2a40da4e94437397895d01",
+			"jar": "./jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
 			"api": "csp_Xdai",
 			"playerType": 2,
 			"ext": "7lj763gg402i7942503g83j2g04i8090khhh8451ik902l6l53510hg9gi410i5607974jhk994283883904gk88l3k549h1g87i754kkjh3jhki2g8724k064g85411gigljkl3g620"
@@ -744,34 +753,16 @@
 			"key": "lanyingys",
 			"name": "🥝橘子4K┃qjApp",
 			"type": 3,
-			"jar": "./jars/qj8.jar;md5;54418536dc2a40da4e94437397895d01",
+			"jar": "./jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
 			"api": "csp_Muou",
 			"playerType": 2,
 			"ext": "7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8"
 		},
 		{
-			"key": "kafeiys",
-			"name": "🥝狂风┃qjAPP",
-			"type": 3,
-			"jar": "./jars/qj8.jar;md5;54418536dc2a40da4e94437397895d01",
-			"api": "csp_Xdai",
-			"playerType": 2,
-			"ext": "7lj763gg402i7942422493i0g712948hk8k7i75hj59g6l73010l0lkhkj0h0g5i48i208k1il0gihj36j48k9j0g4gj04h6g233200hh2k593g471j368g73ill1i5ig9g790"
-		},
-		{
-			"key": "huomaoys",
-			"name": "🥝火猫┃qjApp",
-			"type": 3,
-			"jar": "./jars/qj8.jar;md5;54418536dc2a40da4e94437397895d01",
-			"api": "csp_Xdai",
-			"playerType": 2,
-			"ext": "7lj763gg402i7942433293i0g9458881hig7j94k818g326i51491kljlk134k401g9g54gk8j5i9097751kh28kh9lh1jl3l1706410l0ggjlk023873il73igh1i41glgli0l3g52k712h83473k5496g44k3773k4g26i76h597llj6977gl13g"
-		},
-		{
 			"key": "yizys",
 			"name": "🥝驿站┃qjApp",
 			"type": 3,
-			"jar": "./jars/qj8.jar;md5;54418536dc2a40da4e94437397895d01",
+			"jar": "./jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
 			"api": "csp_Xdai",
 			"playerType": 2,
 			"ext": "7lj763gg402i7942582ljiigh454jh9ig1ggi70ljhjk3977455343k5gi1508190gik13k1i01i949j614hkij5g0g404k3k9796k4gl2h3jhl527952jkg76g95k5ilkkkjhh8k261236896432i458hkk4i756kk2gg3i"
@@ -780,25 +771,16 @@
 			"key": "主角",
 			"name": "🥝主角┃qjAPP",
 			"type": 3,
-			"jar": "./jars/qj8.jar;md5;54418536dc2a40da4e94437397895d01",
+			"jar": "./jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
 			"api": "csp_Muou",
 			"playerType": 2,
 			"ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
 		},
 		{
-			"key": "柚子",
-			"name": "🥝柚子┃qjApp",
-			"type": 3,
-			"jar": "./jars/qj8.jar;md5;54418536dc2a40da4e94437397895d01",
-			"api": "csp_Xdai",
-			"playerType": 2,
-			"ext": "7lj763gg402i7942463j9j9jh7498j9gl6k6i952i1i66j6l46590lklll457g593li27lkkhj0gh0j56j48kkj2kglg4gi6g744207ihj9793jl77j368g03kh11k10g8"
-		},
-		{
 			"key": "永夜",
 			"name": "🥝永夜┃qjApp",
 			"type": 3,
-			"jar": "./jars/qj8.jar;md5;54418536dc2a40da4e94437397895d01",
+			"jar": "./jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
 			"api": "csp_Xdai",
 			"playerType": 2,
 			"ext": "7lj763gg402i7942503g9g9jhi57888hk5k6i953j08i6g7403154lg0g14k5k5748i00ih5ij4k96j26k4ik9j7g5g441k2g933220lk6k7j7gl76j1"
@@ -807,7 +789,7 @@
 			"key": "柠檬",
 			"name": "🥝柠檬┃qjApp",
 			"type": 3,
-			"jar": "./jars/qj8.jar;md5;54418536dc2a40da4e94437397895d01",
+			"jar": "./jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
 			"api": "csp_Nmvod",
 			"playerType": 2,
 			"ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
