@@ -1,5 +1,5 @@
 {
-	"spider": "./spider.jar;md5;87dc848d68b4f22be6038ac7633cbe55",
+	"spider": "./spider.jar;md5;a88c3ae0dfe3c3fc4cb0e17209618b3d",
 	"wallpaper": "./88.jpeg",
 	"logo": "./77.jpg",
 	"sites": [
@@ -345,6 +345,24 @@
 			"changeable": 1,
 			"quickSearch": 1,
 			"filterable": 1
+		},
+		{
+			"key": "py_饭团PY",
+			"name": "😢饭团┃PY",
+			"api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/py/饭团影视.py",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"type": 3
+		},
+		{
+			"key": "py_两个BTPY",
+			"name": "🤗两个┃BT",
+			"api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/py/两个BT.py",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"type": 3
 		},
 		{
 			"key": "哔哩直播",
