@@ -111,45 +111,45 @@
       "key": "hipy_js_采集之王[合]0",
       "name": "采王道长[合](drpy_t3)",
       "type": 3,
-      "api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/ocean2025/ocean/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/js/采集之王_合_.js?type=url&params=../json/采集静态.json$1"
+      "ext": "https://raw.githubusercontent.com/ocean2025/ocean/main/js/采集之王[合].js?type=url&params=../json/采集静态.json$1"
     },
     {
       "key": "hipy_js_采集之王[合]1",
       "name": "采王zy[密](drpy_t3)",
       "type": 3,
-      "api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/ocean2025/ocean/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 1,
-      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/js/采集之王_合_.js?type=url&params=../json/采集_zy_.json$1"
+      "ext": "https://raw.githubusercontent.com/ocean2025/ocean/main/js/采集之王[合].js?type=url&params=../json/采集[zy].json$1"
     },
     {
       "key": "hipy_js_采集之王[合]2",
       "name": "采王成人[密](drpy_t3)",
       "type": 3,
-      "api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/ocean2025/ocean/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 2,
-      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/js/采集之王_合_.js?type=url&params=../json/采集_密_静态.json"
+      "ext": "https://raw.githubusercontent.com/ocean2025/ocean/main/js/采集之王[合].js?type=url&params=../json/采集[密]静态.json"
     },
     {
       "key": "hipy_js_36直播[密]",
       "name": "36直播[密](drpy_t3)",
       "type": 3,
-      "api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/ocean2025/ocean/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/js/36直播_密_.js"
+      "ext": "https://raw.githubusercontent.com/ocean2025/ocean/main/js/36直播[密].js"
     },
     {
       "key": "量子",
