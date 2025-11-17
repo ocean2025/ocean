@@ -1,5 +1,5 @@
 {
-	"spider": "./spider.jar;md5;5611e4378c5c30da771795e71fdc28f0",
+	"spider": "./spider.jar;md5;5a4b47fced940592e21be2379a9c74e2",
 	"wallpaper": "./88.jpeg",
 	"logo": "./77.jpg",
 	"sites": [
@@ -35,7 +35,7 @@
 			"key": "小苹果OK",
 			"name": "🍎苹果┃OK1080P",
 			"type": 3,
-			"jar": "./jars/ok.png;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+			"jar": "./jars/ok.png;md5;6ea2d9d1f868b55692f8f09220637a89",
 			"api": "csp_XpgGuard",
 			"searchable": 1,
 			"changeable": 1,
@@ -46,7 +46,7 @@
 			"key": "瓜子",
 			"name": "🎈瓜子┃OKApp",
 			"type": 3,
-			"jar": "./jars/ok.png;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+			"jar": "./jars/ok.png;md5;6ea2d9d1f868b55692f8f09220637a89",
 			"api": "csp_GuaziGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -174,19 +174,12 @@
 			}
 		},
 		{
-			"key": "若雪",
-			"name": "🔥若雪丨xsAPP",
+			"key": "私人",
+			"name": "🔥私人｜xsAPP",
 			"type": 3,
-			"quickSearch": 1,
-			"api": "csp_AppQi",
-			"ext": {
-				"url": "https://appcms.rx4k.top",
-				"site": "",
-				"dataKey": "ZX10ysTYZWtIJCTU",
-				"dataIv": "ZX10ysTYZWtIJCTU",
-				"deviceId": "",
-				"version": "120"
-			}
+			"changeable": 1,
+			"api": "csp_AppYsV2",
+			"ext": "https://v.catcs.cc/api.php/v1.vod"
 		},
 		{
 			"key": "蓝鹰",
@@ -358,7 +351,7 @@
 			"name": "🔥金牌｜xs影视",
 			"type": 3,
 			"api": "csp_Jpys",
-			"ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+			"ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
 		},
 		{
 			"key": "csp_JPYY",
@@ -429,7 +422,7 @@
 			"key": "浪酷版",
 			"name": "👓浪酷┃OK秒播",
 			"type": 3,
-			"jar": "./jars/ok.png;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+			"jar": "./jars/ok.png;md5;6ea2d9d1f868b55692f8f09220637a89",
 			"api": "csp_TianTianGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -443,7 +436,7 @@
 			"key": "热播",
 			"name": "📺热播┃OKApp",
 			"type": 3,
-			"jar": "./jars/ok.png;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+			"jar": "./jars/ok.png;md5;6ea2d9d1f868b55692f8f09220637a89",
 			"api": "csp_TianTianGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -457,7 +450,7 @@
 			"key": "文才",
 			"name": "🌺文才┃OK在线",
 			"type": 3,
-			"jar": "./jars/ok.png;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+			"jar": "./jars/ok.png;md5;6ea2d9d1f868b55692f8f09220637a89",
 			"api": "csp_JpysGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -468,7 +461,7 @@
 			"key": "糯米",
 			"name": "🍓糯米┃OK秒播",
 			"type": 3,
-			"jar": "./jars/ok.png;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+			"jar": "./jars/ok.png;md5;6ea2d9d1f868b55692f8f09220637a89",
 			"api": "csp_NmysGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -479,7 +472,7 @@
 			"key": "加菲",
 			"name": "🐱加菲┃OKApp",
 			"type": 3,
-			"jar": "./jars/ok.png;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+			"jar": "./jars/ok.png;md5;6ea2d9d1f868b55692f8f09220637a89",
 			"api": "csp_JiaFeiGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -490,7 +483,7 @@
 			"key": "云云",
 			"name": "☁️云云┃OKApp",
 			"type": 3,
-			"jar": "./jars/ok.png;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+			"jar": "./jars/ok.png;md5;6ea2d9d1f868b55692f8f09220637a89",
 			"api": "csp_YunYunGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -501,7 +494,7 @@
 			"key": "雄鹰",
 			"name": "🦅雄鹰┃OKApp",
 			"type": 3,
-			"jar": "./jars/ok.png;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+			"jar": "./jars/ok.png;md5;6ea2d9d1f868b55692f8f09220637a89",
 			"api": "csp_XiongYingGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -512,7 +505,7 @@
 			"key": "咖啡",
 			"name": "🍫咖啡┃OKApp",
 			"type": 3,
-			"jar": "./jars/ok.png;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+			"jar": "./jars/ok.png;md5;6ea2d9d1f868b55692f8f09220637a89",
 			"api": "csp_KaFeiGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -523,7 +516,7 @@
 			"key": "仓鼠",
 			"name": "🐹仓鼠┃OKApp",
 			"type": 3,
-			"jar": "./jars/ok.png;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+			"jar": "./jars/ok.png;md5;6ea2d9d1f868b55692f8f09220637a89",
 			"api": "csp_CangShuGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -546,17 +539,15 @@
 			}
 		},
 		{
-			"key": "秒看",
-			"name": "🔥秒看丨xsAPP",
+			"key": "热播影视",
+			"name": "🔥热播｜xsAPP",
 			"type": 3,
+			"api": "csp_AppRJ",
+			"searchable": 1,
 			"quickSearch": 1,
-			"api": "csp_AppGet",
+			"filterable": 0,
 			"ext": {
-				"site": "https://mk1080.top/get.txt",
-				"dataKey": "c60d88b2eep53za8",
-				"dataIv": "c60d88b2eep53za8",
-				"token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
-				"ua": "okhttp/3.10.0"
+				"url": "http://v.rbotv.cn"
 			}
 		},
 		{
@@ -589,48 +580,38 @@
 			}
 		},
 		{
-			"key": "莱米",
-			"name": "🔥莱米｜xsAPP",
+			"key": "火猫",
+			"name": "🔥火猫｜xsAPP",
 			"type": 3,
-			"quickSearch": 1,
-			"api": "csp_AppGet",
+			"api": "csp_AppMuou",
 			"ext": {
-				"url": "",
-				"site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
-				"dataKey": "ce032244d093b3e2",
-				"dataIv": "ce032244d093b3e2",
-				"deviceId": "",
-				"version": ""
+				"url": "http://app.789dd.cn",
+				"name": "火猫影视"
 			}
 		},
 		{
-			"key": "萝卜",
-			"name": "🔥萝卜｜xsAPP",
+			"key": "开心",
+			"name": "🔥开心｜xsAPP",
 			"type": 3,
 			"quickSearch": 1,
-			"api": "csp_AppGet",
+			"api": "csp_AppQi",
 			"ext": {
-				"url": "https://apiapplbys.lbys.app:5678",
-				"dataKey": "apiapplbyskey168",
-				"dataIv": "apiapplbyskey168",
-				"deviceId": "",
-				"version": "107"
+				"site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw.txt",
+				"dataKey": "ca94b06ca3c7d80e",
+				"dataIv": "ca94b06ca3c7d80e",
+				"ua": "okhttp/3.10.0"
 			}
 		},
 		{
-			"key": "蔬菜",
-			"name": "🔥蔬菜丨xsAPP",
+			"key": "热剧",
+			"name": "🔥热剧丨xsAPP",
 			"type": 3,
 			"quickSearch": 1,
-			"api": "csp_AppGet",
+			"api": "csp_AppQi",
 			"ext": {
-				"url": "http://huohu.yihn.cc",
-				"site": "",
-				"dataKey": "huohushipingetap",
-				"dataIv": "huohushipingetap",
-				"deviceId": "",
-				"version": "140",
-				"ua": ""
+				"url": "https://www.rebovod.com",
+				"dataKey": "8191A7F47B37882F",
+				"dataIv": "8191A7F47B37882F"
 			}
 		},
 		{
@@ -647,13 +628,12 @@
 			"api": "csp_Jiaozi"
 		},
 		{
-			"key": "低端影视",
-			"name": "🔥低端｜xs影视",
+			"key": "骚火影视",
+			"name": "🔥骚火｜xs影视",
 			"type": 3,
-			"api": "csp_Ddys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
+			"api": "csp_SaoHuo",
+			"playerType": 2,
+			"ext": "https://shdy5.us"
 		},
 		{
 			"key": "明星影视",
@@ -787,7 +767,7 @@
 			"key": "天天OK",
 			"name": "🎈天天┃OK",
 			"type": 3,
-			"jar": "./jars/ok.png;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+			"jar": "./jars/ok.png;md5;6ea2d9d1f868b55692f8f09220637a89",
 			"api": "csp_TianTianGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -845,7 +825,7 @@
 			"key": "韩圈",
 			"name": "🎈韩圈┃OK",
 			"type": 3,
-			"jar": "./jars/ok.png;md5;5ba5cb4a1820aa13ffa0ed0c1869788d",
+			"jar": "./jars/ok.png;md5;6ea2d9d1f868b55692f8f09220637a89",
 			"api": "csp_HanXiaoQuanGuard",
 			"searchable": 1,
 			"quickSearch": 1,
