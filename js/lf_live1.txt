@@ -10,8 +10,8 @@
 ../lives/webdav.txt
 #电台
 ../lives/radio.txt
-#live2
-../lives/live2.txt
+#live
+../lives/live.txt
 #X2
 ../lives/X2.txt
 #初秋语
