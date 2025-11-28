@@ -2123,15 +2123,16 @@
 		{
 			"name": "live-m3u",
 			"type": 0,
-			"url": "./m3u/live.m3u"
+			"url": "./m3u/live.m3u",
+			"ua": "bingcha/1.1 (mianfeifenxiang) "
 		},
 		{
 			"name": "live-txt",
 			"type": 0,
 			"url": "./lives/live.txt",
-			"ua": "okhttp/3.12.13",
+			"ua": "bingcha/1.1 (mianfeifenxiang) ",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
+			"logo": "https://logo.catvod.com/{name}.png"
 		},
 		{
 			"name": "肥羊虎牙一起看",
@@ -2174,6 +2175,19 @@
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		}
 	],
+	"headers": [
+		{
+			"host": "hlsztemgsplive.miguvideo.com",
+			"header": {
+				"User-Agent": "bingcha/1.1 (mianfeifenxiang) "
+			}
+		}
+	],
+	"hosts": [
+		"hlsztemgsplive.miguvideo.com=hlsztemgsplive.188766.xyz",
+		"cache.ott.fifalive.itv.cmvideo.cn=fifalive.188766.xyz",
+		"iptv.huuc.edu.cn=huucv6.188766.xyz"
+	],
 	"flags": [
 		"YuMi-vip",
 		"优酷视频",
@@ -2212,6 +2226,7 @@
 		"哔 哩 哔 哩"
 	],
 	"ads": [
+		"static-mozai.4gtv.tv",
 		"43.248.128.138",
 		"static-mozai.4gtv.tv",
 		"wan.51img1.com",
