@@ -12,11 +12,20 @@
 凤凰香港,https://migu.188766.xyz/?migutoken=3917cd566cfb8d08e38d7722ec8ae4b3&id=fhhk&pp=1
 凤凰香港,https://migu.188766.xyz/?migutoken=b127447088d4335167215eadccf5fc00&id=hk_fhhk&type=dy
 
+TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新闻,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv
 
 TVBS综艺,https://stream1.freetv.fun/8871586757f1c7e9b7b3cbe52316756a555fde8ec488026539680323fbfa4a6b.ctv
 
 CH8,https://migu.188766.xyz/?migutoken=2927e5bab9346c206ed2a1b6a9a4e8e1&id=hk_ch8&type=dy
+
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+
+中天新闻,http://rihou.cc:555/tv/|中天新闻|
+寰宇新闻,http://rihou.cc:555/tv/|寰宇新闻|
+东森新闻,http://rihou.cc:555/tv/|东森新闻|
+中视新闻,http://rihou.cc:555/tv/|中视新闻|
+台视新闻,http://rihou.cc:555/tv/|台视新闻|
 
 央视IPV6,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
@@ -42,6 +51,7 @@ CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/32
 卫视IPV6,#genre#
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
 湖南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1197826796_-265147758/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8?icpid=3&RTS=1669699798&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2983110475_-1591539074/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8?icpid=3&RTS=1668597777&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
@@ -95,6 +105,40 @@ CETV-1,https://migu.188766.xyz/?migutoken=28841c12bc157dd7dd7d973aadf75dc4&id=CE
 CETV-2,https://migu.188766.xyz/?migutoken=5193c582e32d4e62b2b9fcc2b1fef4c1&id=CETV2&type=yy
 CETV-4,https://migu.188766.xyz/?migutoken=e03b4f2f712ff7242e0afb4f23b74408&id=CETV4&type=yy
 
+CCTV-1 综合,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV-2 财经,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV-3 综艺,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV-4 中文国际,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV-13 新闻,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV-14 少儿,http://iptv.4666888.xyz/iptv2A.php?id=12
+CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=32
+
+CCTV-1 综合,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
+CCTV-2 财经,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8
+CCTV-3 综艺,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8
+CCTV-4 中文国际,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8
+CCTV-5 体育,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8
+CCTV-5+ 体育赛事,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8
+CCTV-6 电影,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8
+CCTV-7 国防军事,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8
+CCTV-8 电视剧,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
+CCTV-9 纪录,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8
+CCTV-10 科教,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8
+CCTV-11 戏曲,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8
+CCTV-12 社会与法,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8
+CCTV-13 新闻,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8
+CCTV-14 少儿,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8
+CCTV-15 音乐,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
+CCTV-16,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
+CCTV-17 农业农村,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
+CCTV-4k,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
+CCTV16k,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000.m3u8
+CGTN英语,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CGTN_4000.m3u8
+
+CETV-1,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-1H264_4000.m3u8
+CETV-2,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-2_4000.m3u8
+CETV-4,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-4H264_2000.m3u8
+
 卫视频道,#genre#
 湖南卫视,https://migu.188766.xyz/?migutoken=27f4002ce9c9d9d65e89bc9e66cb0af7&id=hnws&type=sz
 浙江卫视,https://migu.188766.xyz/?migutoken=9c3a1f965ec5b265ac593c08fafd2e41&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
@@ -116,6 +160,53 @@ CETV-4,https://migu.188766.xyz/?migutoken=e03b4f2f712ff7242e0afb4f23b74408&id=CE
 内蒙古卫视,https://migu.188766.xyz/?migutoken=7a85e83bc0fd5c02a9b5d5a20475ece3&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
 兵团卫视,https://migu.188766.xyz/?migutoken=2a1483784ec443fa895cc6571a8c8999&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
 大湾区卫视,https://migu.188766.xyz/?migutoken=e3a4629bcd22e2c3c01116946c816d6c&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+
+浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
+江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
+湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
+广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
+山西卫视,http://iptv.4666888.xyz/iptv2A.php?id=16
+青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
+
+北京卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjwsH265_4000.m3u8
+东方卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8
+浙江卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/zjwsH265_4000.m3u8
+江苏卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/jswsH265_4000.m3u8
+湖南卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnwsH265_4000.m3u8
+广东卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/gdwsH265_4000.m3u8
+深圳卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/szwsH265_4000.m3u8
+天津卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/tjwsH265_4000.m3u8
+安徽卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/ahwsH265_4000.m3u8
+山东卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdwsH265_4000.m3u8
+辽宁卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsHDH264_4000.m3u8
+河南卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws35_4000.m3u8
+江西卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/jxwsH265_4000.m3u8
+四川卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/scwsH265_4000.m3u8
+重庆卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
+贵州卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/gzwsH265_4000.m3u8
+湖北卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8
+云南卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/ynws_4000.m3u8
+东南卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/dnwsfjwsH265_4000.m3u8
+青海卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/qhwsH264_2000.m3u8
+陕西卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws_4000.m3u8
+甘肃卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/gsws_4000.m3u8
+新疆卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjws_4000.m3u8
+吉林卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/jlwsH265_4000.m3u8
+西藏卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/xzwsH264_2000.m3u8
+内蒙古卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/nmgws_4000.m3u8
+黑龙江卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/hljwsH265_4000.m3u8
+
+新视觉hd,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8
+中国天气,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
+动漫秀场,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/yybb-dmxc-H265_4000.m3u8
+都市剧场,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/yxfydsjcHDH265_4000.m3u8
+法治天地,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/fztx_4000.m3u8
+乐游频道,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/qjs-HDH265_4000.m3u8
+生活时尚,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/shssH265_4000.m3u8
+茶道频道,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/cpd_4000.m3u8
+金鹰纪实,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyjsHDH265_4000.m3u8
+快乐垂钓,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/fyzqklcdHDH265_4000.m3u8
+天元围棋,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
 
 江苏频道,#genre#
 江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2983110475_-1591539074/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8?icpid=3&RTS=1668597777&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
@@ -171,6 +262,10 @@ CETV-4,https://migu.188766.xyz/?migutoken=e03b4f2f712ff7242e0afb4f23b74408&id=CE
 河南移动戏曲,https://migu.188766.xyz/?migutoken=ca7a8958ee3055c1541ba2c3722cdbb1&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
 河南文物宝库,https://migu.188766.xyz/?migutoken=8faec0d340cb5a351402fdf839087f93&id=%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93&type=yy
 河南象视界,https://migu.188766.xyz/?migutoken=f1baa4ca0cb904a9105791a4933a540c&id=%E8%B1%A1%E8%A7%86%E7%95%8C&type=yy
+
+河南梨园,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/ly_4000.m3u8
+河南武术,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/wssj_4000.m3u8
+河南文物宝库,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/wwbk_4000.m3u8
 
 电影轮播,#genre#
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
@@ -236,6 +331,11 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=971c2503e75ee4fee9af951fd25bf
 高清大片,https://migu.188766.xyz/?migutoken=ff01347d3a2d9b5070a1ac9f31535946&id=%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87&type=yy
 经典香港电影,https://migu.188766.xyz/?migutoken=9448245a0eebe070dc893b9c40ca6058&id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&type=yy
 抗战经典影片,https://migu.188766.xyz/?migutoken=5e55891a2fea010442b8f7daa688accf&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&type=yy
+
+CHC动作电影,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
+CHC家庭影院,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
+CHC影迷电影,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
+CHC重温经典,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
 
 NewTV-IPV6,#genre#
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
