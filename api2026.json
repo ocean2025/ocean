@@ -18,7 +18,7 @@
 			"key": "豆瓣",
 			"name": "🤓豆瓣┃OK主页",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;93b4a419523acb54d2e5ccd2ce3bd924",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;793ea4cba9979613df4528ae14b048fa",
 			"api": "csp_DoubanGuard",
 			"searchable": 0,
 			"changeable": 1
@@ -27,7 +27,7 @@
 			"key": "小苹果OK",
 			"name": "🍎苹果┃OK1080P",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;93b4a419523acb54d2e5ccd2ce3bd924",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;793ea4cba9979613df4528ae14b048fa",
 			"api": "csp_XpgGuard",
 			"searchable": 1,
 			"changeable": 1,
@@ -35,10 +35,21 @@
 			"timeout": 30
 		},
 		{
+			"key": "瓜子",
+			"name": "🎈瓜子┃OKApp",
+			"type": 3,
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;793ea4cba9979613df4528ae14b048fa",
+			"api": "csp_GuaziGuard",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"timeout": 30
+		},
+		{
 			"key": "浪酷版",
 			"name": "👓浪酷┃OK秒播",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;93b4a419523acb54d2e5ccd2ce3bd924",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;793ea4cba9979613df4528ae14b048fa",
 			"api": "csp_TianTianGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -89,6 +100,16 @@
 			"ext": "7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"
 		},
 		{
+			"key": "聚搜",
+			"name": "🚗聚搜┃xm影视",
+			"type": 3,
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/xm.jpg;md5;977a7ec67260a223a5763ee50c685f8f",
+			"searchable": 1,
+			"quickSearch": 1,
+			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/AppToV5.py",
+			"ext": "http://101.35.85.16:5555"
+		},
+		{
 			"key": "cctv",
 			"name": "🌏央视大全┃hccx",
 			"type": 3,
@@ -103,7 +124,7 @@
 			"key": "py_央视片库",
 			"name": "🌏cctv片库┃xspy",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;6e8da07789206579e2a2d042a62172d8",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;977a7ec67260a223a5763ee50c685f8f",
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/央视片库.py",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -113,7 +134,7 @@
 			"key": "猎手影视",
 			"name": "🔥猎手┃xs影视py",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;6e8da07789206579e2a2d042a62172d8",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;977a7ec67260a223a5763ee50c685f8f",
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/猎手影视.py",
 			"searchable": 1,
 			"changeable": 1,
@@ -123,18 +144,8 @@
 		{
 			"key": "py_饭团PY",
 			"name": "😢饭团┃PY",
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;6e8da07789206579e2a2d042a62172d8",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;977a7ec67260a223a5763ee50c685f8f",
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/饭团影视.py",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"type": 3
-		},
-		{
-			"key": "py_两个BTPY",
-			"name": "🤗两个┃BT",
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;6e8da07789206579e2a2d042a62172d8",
-			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/两个BT.py",
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
@@ -144,14 +155,14 @@
 			"key": "哔哩直播",
 			"name": "🔥哔哩┃xs直播py",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;6e8da07789206579e2a2d042a62172d8",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;977a7ec67260a223a5763ee50c685f8f",
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/哔哩直播.py"
 		},
 		{
 			"key": "热播",
 			"name": "📺热播┃OKApp",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;93b4a419523acb54d2e5ccd2ce3bd924",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;793ea4cba9979613df4528ae14b048fa",
 			"api": "csp_TianTianGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -165,7 +176,7 @@
 			"key": "文才",
 			"name": "🌺文才┃OK在线",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;93b4a419523acb54d2e5ccd2ce3bd924",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;793ea4cba9979613df4528ae14b048fa",
 			"api": "csp_JpysGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -176,7 +187,7 @@
 			"key": "糯米",
 			"name": "🍓糯米┃OK秒播",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;93b4a419523acb54d2e5ccd2ce3bd924",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;793ea4cba9979613df4528ae14b048fa",
 			"api": "csp_NmysGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -187,7 +198,7 @@
 			"key": "加菲",
 			"name": "🐱加菲┃OKApp",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;93b4a419523acb54d2e5ccd2ce3bd924",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;793ea4cba9979613df4528ae14b048fa",
 			"api": "csp_JiaFeiGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -198,7 +209,7 @@
 			"key": "云云",
 			"name": "☁️云云┃OKApp",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;93b4a419523acb54d2e5ccd2ce3bd924",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;793ea4cba9979613df4528ae14b048fa",
 			"api": "csp_YunYunGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -209,7 +220,7 @@
 			"key": "雄鹰",
 			"name": "🦅雄鹰┃OKApp",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;93b4a419523acb54d2e5ccd2ce3bd924",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;793ea4cba9979613df4528ae14b048fa",
 			"api": "csp_XiongYingGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -220,7 +231,7 @@
 			"key": "咖啡",
 			"name": "🍫咖啡┃OKApp",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;93b4a419523acb54d2e5ccd2ce3bd924",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;793ea4cba9979613df4528ae14b048fa",
 			"api": "csp_KaFeiGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -231,7 +242,7 @@
 			"key": "仓鼠",
 			"name": "🐹仓鼠┃OKApp",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;93b4a419523acb54d2e5ccd2ce3bd924",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/ok.png;md5;793ea4cba9979613df4528ae14b048fa",
 			"api": "csp_CangShuGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -242,7 +253,7 @@
 			"key": "csp_Bili",
 			"name": "🅱哔哩┃xm哔哩",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/xm.jpg;md5;2fde557237e457248fa7a42dec924d05",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/xm.jpg;md5;977a7ec67260a223a5763ee50c685f8f",
 			"api": "csp_Bili",
 			"playerType": 2,
 			"ext": {
@@ -269,7 +280,7 @@
 			"key": "csp_LiteApple",
 			"name": "🍎苹果┃xm影视",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/xm.jpg;md5;2fde557237e457248fa7a42dec924d05",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/xm.jpg;md5;977a7ec67260a223a5763ee50c685f8f",
 			"searchable": 1,
 			"quickSearch": 0,
 			"api": "csp_LiteApple"
@@ -293,6 +304,15 @@
 			"ext": "7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8"
 		},
 		{
+			"key": "kafeiys",
+			"name": "🌟狂风┃qjAPP",
+			"type": 3,
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+			"api": "csp_Xdai",
+			"playerType": 2,
+			"ext": "7lj763gg402i7942422493i0g712948hk8k7i75hj59g6l73010l0lkhkj0h0g5i48i208k1il0gihj36j48k9j0g4gj04h6g233200hh2k593g471j368g73ill1i5ig9g790"
+		},
+		{
 			"key": "yizys",
 			"name": "🌟驿站┃qjApp",
 			"type": 3,
@@ -309,6 +329,15 @@
 			"api": "csp_Muou",
 			"playerType": 2,
 			"ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
+		},
+		{
+			"key": "柚子",
+			"name": "🌟柚子┃qjApp",
+			"type": 3,
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+			"api": "csp_Xdai",
+			"playerType": 2,
+			"ext": "7lj763gg402i7942463j9j9jh7498j9gl6k6i952i1i66j6l46590lklll457g593li27lkkhj0gh0j56j48kkj2kglg4gi6g744207ihj9793jl77j368g03kh11k10g8"
 		},
 		{
 			"key": "永夜",
@@ -389,50 +418,6 @@
 			"api": "http://cj.ffzyapi.com/api.php/provide/vod",
 			"searchable": 1,
 			"changeable": 1
-		},
-		{
-			"key": "YiSo",
-			"name": "易搜┃搜索",
-			"type": 3,
-			"api": "csp_YiSo",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": "https://raw.githubusercontent.com/ocean2025/ocean/main/txt/token.txt+auto|4k|fhd"
-		},
-		{
-			"key": "Zhaozy",
-			"name": "🎉资源┃搜索",
-			"type": 3,
-			"api": "csp_PanSearch",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"changeable": 1,
-			"ext": "https://raw.githubusercontent.com/ocean2025/ocean/main/txt/token.txt+auto|4k|fhd"
-		},
-		{
-			"key": "PanSou",
-			"name": "盘搜┃搜索",
-			"type": 3,
-			"api": "csp_PanSou",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": "https://raw.githubusercontent.com/ocean2025/ocean/main/txt/token.txt+auto|4k|fhd"
-		},
-		{
-			"key": "UpYun",
-			"name": "Up搜┃搜索",
-			"type": 3,
-			"api": "csp_UpYun",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"changeable": 1,
-			"ext": "https://raw.githubusercontent.com/ocean2025/ocean/main/txt/token.txt+auto|4k|fhd"
 		},
 		{
 			"key": "push_agent",
@@ -772,72 +757,8 @@
 			}
 		},
 		{
-			"name": "aidouer",
-			"url": "https://jx.aidouer.net/?url=",
-			"type": 0,
-			"ext": {
-				"flag": [
-					"qiyi",
-					"imgo",
-					"爱奇艺",
-					"奇艺",
-					"qq",
-					"qq 预告及花絮",
-					"腾讯",
-					"youku",
-					"优酷",
-					"pptv",
-					"PPTV",
-					"letv",
-					"乐视",
-					"leshi",
-					"mgtv",
-					"芒果",
-					"sohu",
-					"xigua",
-					"fun",
-					"风行"
-				]
-			},
-			"header": {
-				"User-Agent": "https://jiejie.uk/"
-			}
-		},
-		{
 			"name": "8090g",
 			"url": "https://www.8090g.cn/?url=",
-			"type": 0,
-			"ext": {
-				"flag": [
-					"qiyi",
-					"imgo",
-					"爱奇艺",
-					"奇艺",
-					"qq",
-					"qq 预告及花絮",
-					"腾讯",
-					"youku",
-					"优酷",
-					"pptv",
-					"PPTV",
-					"letv",
-					"乐视",
-					"leshi",
-					"mgtv",
-					"芒果",
-					"sohu",
-					"xigua",
-					"fun",
-					"风行"
-				]
-			},
-			"header": {
-				"User-Agent": "Mozilla/5.0"
-			}
-		},
-		{
-			"name": "阳途",
-			"url": "https://jx.yangtu.top/?url=",
 			"type": 0,
 			"ext": {
 				"flag": [
@@ -932,44 +853,6 @@
 			}
 		},
 		{
-			"name": "hls",
-			"url": "https://jx.hls.one/?url=",
-			"flag": [
-				"qq",
-				"腾讯",
-				"qiyi",
-				"爱奇艺",
-				"奇艺",
-				"youku",
-				"优酷",
-				"sohu",
-				"搜狐",
-				"letv",
-				"乐视",
-				"mgtv",
-				"芒果",
-				"tnmb",
-				"seven",
-				"bilibili",
-				"1905"
-			],
-			"header": {
-				"User-Agent": "User-Agent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36"
-			},
-			"type": "0"
-		},
-		{
-			"name": "MX蓝光",
-			"url": "http://122.51.15.119:1234/home/api?type=ys&cc=&uid=52565&key=bfhorsvAEGHMRV3469&url=",
-			"flag": [
-				"MXTV"
-			],
-			"header": {
-				"User-Agent": "Dalvik/2.1.0"
-			},
-			"type": "1"
-		},
-		{
 			"name": "蚂蚁",
 			"type": 1,
 			"url": "http://118.99.2.230:6688/api/?key=vAhZ67qzRdW2czQEo2&url=",
@@ -981,6 +864,168 @@
 					"User-Agent": "okhttp/4.1.0"
 				}
 			}
+		}
+	],
+	"ijk": [
+		{
+			"group": "软解码",
+			"options": [
+				{
+					"category": 4,
+					"name": "opensles",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "overlay-format",
+					"value": "842225234"
+				},
+				{
+					"category": 4,
+					"name": "framedrop",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "soundtouch",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "start-on-prepared",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "http-detect-range-support",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "fflags",
+					"value": "fastseek"
+				},
+				{
+					"category": 2,
+					"name": "skip_loop_filter",
+					"value": "48"
+				},
+				{
+					"category": 4,
+					"name": "reconnect",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "enable-accurate-seek",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-auto-rotate",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-handle-resolution-change",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-hevc",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "dns_cache_timeout",
+					"value": "600000000"
+				}
+			]
+		},
+		{
+			"group": "硬解码",
+			"options": [
+				{
+					"category": 4,
+					"name": "opensles",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "overlay-format",
+					"value": "842225234"
+				},
+				{
+					"category": 4,
+					"name": "framedrop",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "soundtouch",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "start-on-prepared",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "http-detect-range-support",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "fflags",
+					"value": "fastseek"
+				},
+				{
+					"category": 2,
+					"name": "skip_loop_filter",
+					"value": "48"
+				},
+				{
+					"category": 4,
+					"name": "reconnect",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "enable-accurate-seek",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-auto-rotate",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-handle-resolution-change",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-hevc",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "dns_cache_timeout",
+					"value": "600000000"
+				}
+			]
 		}
 	],
 	"proxy": [
@@ -997,7 +1042,10 @@
 		"uhibo.com",
 		".*boku.*",
 		".*nivod.*",
-		".*ulivetv.*"
+		".*ulivetv.*",
+		"188766.xyz",
+		"4gtv.tv",
+		"iill.top"
 	],
 	"doh": [
 		{
