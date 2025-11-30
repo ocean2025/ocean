@@ -23,9 +23,9 @@ https://migu.188766.xyz/?migutoken=b127447088d4335167215eadccf5fc00&id=hk_fhhk&t
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://logo.catvod.com/TVBS新闻.png" group-title="港•澳•台",TVBS新闻
 https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv
-#EXTINF:-1 tvg-name="TVBS综艺" tvg-logo="https://logo.catvod.com/TVBS综艺.png" group-title="港•澳•台",TVBS综艺
+#EXTINF:-1 tvg-name="TVBS综艺" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/tvb.png" group-title="港•澳•台",TVBS综艺
 https://stream1.freetv.fun/8871586757f1c7e9b7b3cbe52316756a555fde8ec488026539680323fbfa4a6b.ctv
-#EXTINF:-1 tvg-name="CH8" tvg-logo="https://logo.catvod.com/CH8.png" group-title="港•澳•台",CH8
+#EXTINF:-1 tvg-name="CH8" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channel8.png" group-title="港•澳•台",CH8
 https://migu.188766.xyz/?migutoken=2927e5bab9346c206ed2a1b6a9a4e8e1&id=hk_ch8&type=dy
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="港•澳•台",澳视澳门
 http://iptv.4666888.xyz/iptv2A.php?id=41
@@ -233,7 +233,7 @@ http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3
 http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视频道",CCTV16k
 http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000.m3u8
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://logo.catvod.com/CGTN英语.png" group-title="央视频道",CGTN英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN.png" group-title="央视频道",CGTN英语
 http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CGTN_4000.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://logo.catvod.com/CETV1.png" group-title="央视频道",CETV-1
 http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-1H264_4000.m3u8
@@ -473,7 +473,7 @@ https://migu.188766.xyz/?migutoken=a828682a0b257ae7b4a7698668cf279b&id=%E7%94%B5
 https://migu.188766.xyz/?migutoken=4d0ffaf64889b018f6bd68396fbecb72&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南法治" tvg-logo="https://logo.catvod.com/河南法治.png" group-title="河南频道",河南法治
 https://migu.188766.xyz/?migutoken=5f5122720d4080513649deddddbcd9a5&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-name="河南武术" tvg-logo="https://logo.catvod.com/河南武术.png" group-title="河南频道",河南武术
+#EXTINF:-1 tvg-name="河南武术" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/武术世界.png" group-title="河南频道",河南武术
 https://migu.188766.xyz/?migutoken=85b659b998d073ddc7256494cf01a507&id=%E6%AD%A6%E6%9C%AF%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://logo.catvod.com/河南移动戏曲.png" group-title="河南频道",河南移动戏曲
 https://migu.188766.xyz/?migutoken=ca7a8958ee3055c1541ba2c3722cdbb1&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
