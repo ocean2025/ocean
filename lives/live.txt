@@ -14,11 +14,16 @@ TVBS新闻,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 TVBS综艺,https://stream1.freetv.fun/8871586757f1c7e9b7b3cbe52316756a555fde8ec488026539680323fbfa4a6b.ctv
 
-中天新闻,http://rihou.cc:555/tv/|中天新闻|
-寰宇新闻,http://rihou.cc:555/tv/|寰宇新闻|
-东森新闻,http://rihou.cc:555/tv/|东森新闻|
-中视新闻,http://rihou.cc:555/tv/|中视新闻|
-台视新闻,http://rihou.cc:555/tv/|台视新闻|
+中天新闻,http://rihou.cc:555/tv/Hkl中天新闻
+寰宇新闻,http://rihou.cc:555/tv/Hkl寰宇新闻
+东森新闻,http://rihou.cc:555/tv/Hkl东森新闻
+中视新闻,http://rihou.cc:555/tv/Hkl中视新闻
+台视新闻,http://rihou.cc:555/tv/Hkl台视新闻
+中天新闻,http://rihou.cc:555/tv/Hk|中天新闻l
+寰宇新闻,http://rihou.cc:555/tv/Hk|寰宇新闻l
+东森新闻,http://rihou.cc:555/tv/Hk|东森新闻l
+中视新闻,http://rihou.cc:555/tv/Hk|中视新闻l
+台视新闻,http://rihou.cc:555/tv/Hk|台视新闻l
 
 爱奇艺综艺,http://iptv.4666888.xyz/iptv2A.php?id=21
 无线娱乐,http://iptv.4666888.xyz/iptv2A.php?id=36
@@ -57,8 +62,9 @@ CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/32
 卫视IPV6,#genre#
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
+湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
 湖南卫视,http://go.bkpcp.top/mg/hunws
+湖南卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnwsH265_4000.m3u8
 浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1197826796_-265147758/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8?icpid=3&RTS=1669699798&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2983110475_-1591539074/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8?icpid=3&RTS=1668597777&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1669700385&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
