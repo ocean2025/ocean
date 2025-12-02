@@ -6,47 +6,53 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/32212
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://logo.catvod.com/TVBS新闻.png" group-title="港•澳•台",TVBS新闻
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://logo.catvod.com/TVBS新闻.png" group-title="港•澳•台",TVBS新闻
-https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv
-#EXTINF:-1 tvg-name="非凡商业" tvg-logo="https://logo.catvod.com/非凡商业.png" group-title="港•澳•台",非凡商业
-http://iptv.4666888.xyz/iptv2A.php?id=44
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="港•澳•台",澳视澳门
-http://iptv.4666888.xyz/iptv2A.php?id=41
+http://rihou.cc:555/tv/FYltvbS新闻
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+http://rihou.cc:555/tv/Hkl凤凰资讯
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://logo.catvod.com/TVBS新闻.png" group-title="港•澳•台",TVBS新闻
+http://rihou.cc:555/tv/Hkltvbs闽南
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="港•澳•台",中天新闻
+http://rihou.cc:555/tv/Hkl中天新闻
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="港•澳•台",寰宇新闻
+http://rihou.cc:555/tv/Hkl寰宇新闻
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="港•澳•台",东森新闻
+http://rihou.cc:555/tv/Hkl东森新闻
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="港•澳•台",中视新闻
+http://rihou.cc:555/tv/Hkl中视新闻
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://logo.catvod.com/台视新闻.png" group-title="港•澳•台",台视新闻
+http://rihou.cc:555/tv/Hkl台视新闻
+#EXTINF:-1 tvg-name="闽镜新闻" tvg-logo="https://logo.catvod.com/闽镜新闻.png" group-title="港•澳•台",闽镜新闻
+http://rihou.cc:555/tv/Hkl闽镜新闻
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="港•澳•台",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="港•澳•台",凤凰中文
 http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="港•澳•台",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 tvg-name="TVBS综艺" tvg-logo="https://logo.catvod.com/TVBS综艺.png" group-title="港•澳•台",TVBS综艺
-https://stream1.freetv.fun/8871586757f1c7e9b7b3cbe52316756a555fde8ec488026539680323fbfa4a6b.ctv
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-http://rihou.cc:555/tv/Hk|凤凰资讯
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://logo.catvod.com/TVBS新闻.png" group-title="港•澳•台",TVBS新闻
-http://rihou.cc:555/tv/Hk|tvbs闽南
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="港•澳•台",中天新闻
-http://rihou.cc:555/tv/Hk|中天新闻
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="港•澳•台",寰宇新闻
-http://rihou.cc:555/tv/Hk|寰宇新闻
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="港•澳•台",东森新闻
-http://rihou.cc:555/tv/Hk|东森新闻
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="港•澳•台",中视新闻
-http://rihou.cc:555/tv/Hk|中视新闻
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://logo.catvod.com/台视新闻.png" group-title="港•澳•台",台视新闻
-http://rihou.cc:555/tv/Hk|台视新闻
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://rihou.cc:555/tv/Hk|凤凰中文
+http://rihou.cc:555/tv/Hkl凤凰中文
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="港•澳•台",凤凰香港
-http://rihou.cc:555/tv/Hk|凤凰香港
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="港•澳•台",中天新闻
-http://rihou.cc:555/tv/Hk|中天新闻|
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="港•澳•台",寰宇新闻
-http://rihou.cc:555/tv/Hk|寰宇新闻|
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="港•澳•台",东森新闻
-http://rihou.cc:555/tv/Hk|东森新闻|
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="港•澳•台",中视新闻
-http://rihou.cc:555/tv/Hk|中视新闻|
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://logo.catvod.com/台视新闻.png" group-title="港•澳•台",台视新闻
-http://rihou.cc:555/tv/|台视新闻|
+http://rihou.cc:555/tv/Hkl凤凰香港
+#EXTINF:-1 tvg-name="高清剧场" tvg-logo="https://logo.catvod.com/高清剧场.png" group-title="港•澳•台",高清剧场
+http://rihou.cc:555/tv/Hkl高清剧场
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+http://rihou.cc:555/tv/Pdl凤凰资讯
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="港•澳•台",凤凰中文
+http://rihou.cc:555/tv/Pdl凤凰中文
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="港•澳•台",凤凰香港
+http://rihou.cc:555/tv/Pdl凤凰香港
+#EXTINF:-1 tvg-name="央视综合" tvg-logo="https://logo.catvod.com/央视综合.png" group-title="港•澳•台",央视综合
+http://rihou.cc:555/tv/Pdl央视综合
+#EXTINF:-1 tvg-name="CH8综合" tvg-logo="https://logo.catvod.com/CH8综合.png" group-title="港•澳•台",CH8综合
+http://rihou.cc:555/tv/PdlCH8综合
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://logo.catvod.com/八度空间.png" group-title="港•澳•台",八度空间
+http://rihou.cc:555/tv/Pdl八度空间
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="港•澳•台",澳视澳门
+http://iptv.4666888.xyz/iptv2A.php?id=41
+#EXTINF:-1 tvg-name="非凡商业" tvg-logo="https://logo.catvod.com/非凡商业.png" group-title="港•澳•台",非凡商业
+http://iptv.4666888.xyz/iptv2A.php?id=44
+#EXTINF:-1 tvg-name="ELta综合" tvg-logo="https://logo.catvod.com/ELta综合.png" group-title="港•澳•台",ELta综合
+http://iptv.4666888.xyz/iptv2A.php?id=49
 #EXTINF:-1 tvg-name="爱奇艺综艺" tvg-logo="https://logo.catvod.com/爱奇艺综艺.png" group-title="港•澳•台",爱奇艺综艺
 http://iptv.4666888.xyz/iptv2A.php?id=21
 #EXTINF:-1 tvg-name="无线娱乐" tvg-logo="https://logo.catvod.com/无线娱乐.png" group-title="港•澳•台",无线娱乐
@@ -71,8 +77,20 @@ http://iptv.4666888.xyz/iptv2A.php?id=46
 http://iptv.4666888.xyz/iptv2A.php?id=54
 #EXTINF:-1 tvg-name="JET-综合" tvg-logo="https://logo.catvod.com/JET-综合.png" group-title="港•澳•台",JET-综合
 http://iptv.4666888.xyz/iptv2A.php?id=51
-#EXTINF:-1 tvg-name="ELta综合" tvg-logo="https://logo.catvod.com/ELta综合.png" group-title="港•澳•台",ELta综合
-http://iptv.4666888.xyz/iptv2A.php?id=49
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="港•澳•台",凤凰中文
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="港•澳•台",凤凰香港
+http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="港•澳•台",澳视澳门
+http://php.jdshipin.com/PLTV/iptv.php?id=asam
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="港•澳•台",凤凰中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="港•澳•台",凤凰香港
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视IPV6",CCTV1
 http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视IPV6",CCTV2
