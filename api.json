@@ -1,5 +1,5 @@
 {
-	"spider": "./spider.jar;md5;90354619f5b2c320132c5f071431b6ff",
+	"spider": "./spider.jar;md5;4e0a1588a2e52091b92ffc378550bb47",
 	"wallpaper": "./88.jpeg",
 	"logo": "./77.jpg",
 	"sites": [
@@ -230,18 +230,6 @@
 				"dataKey": "staraugust123456",
 				"dataIv": "staraugust123456",
 				"version": "120"
-			}
-		},
-		{
-			"key": "羊羊",
-			"name": "🔥羊羊｜xsAPP",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 1,
-			"api": "csp_AppMuou",
-			"ext": {
-				"url": "https://ht.zhenxun.love",
-				"name": "羊羊学院"
 			}
 		},
 		{
