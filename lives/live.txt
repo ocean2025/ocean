@@ -12,7 +12,15 @@ TVBS新闻,http://rihou.cc:555/tv/Hkltvbs闽南
 东森新闻,http://rihou.cc:555/tv/Hkl东森新闻
 中视新闻,http://rihou.cc:555/tv/Hkl中视新闻
 台视新闻,http://rihou.cc:555/tv/Hkl台视新闻
-闽镜新闻,http://rihou.cc:555/tv/Hkl闽镜新闻
+镜新闻,http://rihou.cc:555/tv/Hkl闽镜新闻
+
+TVBS新闻,http://rihou.cc:555/tv/4GltvbS新闻
+TVBS新闻,http://rihou.cc:555/tv/4GltvbS闽南
+中天新闻,http://rihou.cc:555/tv/4Gl中天新闻
+寰宇新闻,http://rihou.cc:555/tv/4Gl寰宇新闻
+东森新闻,http://rihou.cc:555/tv/4Gl东森新闻
+中视新闻,http://rihou.cc:555/tv/4Gl中视新闻
+台视新闻,http://rihou.cc:555/tv/4Gl台视新闻
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
