@@ -781,6 +781,8 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e91
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 #EXTINF:-1 tvg-name="猪侠英雄" tvg-logo="https://logo.catvod.com/猪侠英雄.png" group-title="少儿",猪侠英雄
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+#EXTINF:-1 tvg-name="谁不是" tvg-logo="https://logo.catvod.com/谁不是.png" group-title="直播mp4",谁不是
+https://f002.backblazeb2.com/file/lirg168/mtv/谁不是.mp4
 #EXTINF:-1 tvg-name="怀旧合集" tvg-logo="https://logo.catvod.com/怀旧合集.png" group-title="直播mp4",怀旧合集
 http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
 #EXTINF:-1 tvg-name="经典合集" tvg-logo="https://logo.catvod.com/经典合集.png" group-title="直播mp4",经典合集
