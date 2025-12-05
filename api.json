@@ -1,5 +1,5 @@
 {
-	"spider": "./spider.jar;md5;4e0a1588a2e52091b92ffc378550bb47",
+	"spider": "./spider.jar;md5;82d7eaced8e44b3bf8fcdeb597427a1f",
 	"wallpaper": "./88.jpeg",
 	"logo": "./77.jpg",
 	"sites": [
@@ -576,7 +576,7 @@
 			"name": "🔥农民｜xs影视",
 			"type": 3,
 			"api": "csp_Wwys",
-			"ext": "https://www.wwgz.cn"
+			"ext": "https://vip.wwgz.cn:5200"
 		},
 		{
 			"key": "饺子影视",
