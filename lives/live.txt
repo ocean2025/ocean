@@ -14,6 +14,22 @@ TVBS新闻,http://rihou.cc:555/tv/Hkltvbs闽南
 台视新闻,http://rihou.cc:555/tv/Hkl台视新闻
 镜新闻,http://rihou.cc:555/tv/Hkl闽镜新闻
 
+TVBS新闻,http://rihou.cc:555/tv/STltvbS新闻
+TVBS新闻,http://rihou.cc:555/tv/STltvbS闽南
+tvbs闽南欣
+中天新闻,http://rihou.cc:555/tv/STl中天新闻
+中天新闻,http://rihou.cc:555/tv/SZl中天新闻
+中天新闻,http://rihou.cc:555/tv/Bxl中天新闻
+寰宇新闻,http://rihou.cc:555/tv/STl寰宇新闻
+东森新闻,http://rihou.cc:555/tv/STl东森新闻
+中视新闻,http://rihou.cc:555/tv/STl中视新闻
+台视新闻,http://rihou.cc:555/tv/STl台视新闻
+年代新闻,http://rihou.cc:555/tv/STl年代新闻
+非凡新闻,http://rihou.cc:555/tv/STl非凡新闻
+
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+
 TVBS新闻,http://rihou.cc:555/tv/4GltvbS新闻
 TVBS新闻,http://rihou.cc:555/tv/4GltvbS闽南
 中天新闻,http://rihou.cc:555/tv/4Gl中天新闻
@@ -38,10 +54,16 @@ TVBS新闻,http://rihou.cc:555/tv/4GltvbS闽南
 CH8综合,http://rihou.cc:555/tv/PdlCH8综合
 八度空间,http://rihou.cc:555/tv/Pdl八度空间
 
+凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
+
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 非凡商业,http://iptv.4666888.xyz/iptv2A.php?id=44
 
-
+pₒₚc电影,http://rihou.cc:555/tv/FYlpₒₚc电影
+pₒₚc电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
+Now星影,http://rihou.cc:555/tv/MtlNow星影
+Now爆谷,http://rihou.cc:555/tv/MtlNow爆谷
 ELta综合,http://iptv.4666888.xyz/iptv2A.php?id=49
 爱奇艺综艺,http://iptv.4666888.xyz/iptv2A.php?id=21
 无线娱乐,http://iptv.4666888.xyz/iptv2A.php?id=36
@@ -89,8 +111,9 @@ CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/32
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 湖南卫视,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnwsH265_4000.m3u8
-湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
 湖南卫视,http://go.bkpcp.top/mg/hunws
+湖南卫视,http://j.s.bkpcp.top/jj/hunws
+湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
 浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1197826796_-265147758/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8?icpid=3&RTS=1669699798&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2983110475_-1591539074/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8?icpid=3&RTS=1668597777&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1669700385&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
@@ -194,6 +217,27 @@ CETV-1,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-1H2
 CETV-2,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-2_4000.m3u8
 CETV-4,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-4H264_2000.m3u8
 
+CCTV1,http://j.s.bkpcp.top/jj/cctv1
+CCTV2,http://j.s.bkpcp.top/jj/cctv2
+CCTV3,http://j.s.bkpcp.top/jj/cctv3
+CCTV4,http://j.s.bkpcp.top/jj/cctv4
+CCTV5,http://j.s.bkpcp.top/jj/cctv5
+CCTV5+,http://j.s.bkpcp.top/jj/cctv5p
+CCTV6,http://j.s.bkpcp.top/jj/cctv6
+CCTV7,http://j.s.bkpcp.top/jj/cctv7
+CCTV8,http://j.s.bkpcp.top/jj/cctv8
+CCTV9,http://j.s.bkpcp.top/jj/cctv9
+CCTV10,http://j.s.bkpcp.top/jj/cctv10
+CCTV11,http://j.s.bkpcp.top/jj/cctv11
+CCTV12,http://j.s.bkpcp.top/jj/cctv12
+CCTV13,http://j.s.bkpcp.top/jj/cctv13
+CCTV14,http://j.s.bkpcp.top/jj/cctv14
+CCTV15,http://j.s.bkpcp.top/jj/cctv15
+CCTV16,http://j.s.bkpcp.top/jj/cctv16
+CCTV17,http://j.s.bkpcp.top/jj/cctv17
+CCTV4 中文国际 欧洲,http://j.s.bkpcp.top/jj/cctv4o
+CCTV4 中文国际 美洲,http://j.s.bkpcp.top/jj/cctv4m
+
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
 CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
@@ -212,6 +256,38 @@ CCTV14,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
 CCTV15,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
 CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
+
+CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
+CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
+CCTV1,https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8
+CCTV2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
+CCTV3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
+CCTV3,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
+CCTV4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
+CCTV5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
+CCTV5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
+CCTV5+,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV5plusH265_4000.m3u8
+CCTV6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
+CCTV6,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
+CCTV7,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
+CCTV7,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
+CCTV7,https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
+CCTV8,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
+CCTV8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
+CCTV9,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV9H265_4000.m3u8
+CCTV10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
+CCTV10,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
+CCTV11,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
+CCTV11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
+CCTV12,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
+CCTV12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
+CCTV13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
+CCTV14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
+CCTV14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
+CCTV15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
+CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
+CCTV17,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV17_4000.m3u8
 
 卫视频道,#genre#
 北京卫视,http://go.bkpcp.top/mg/bjws
@@ -309,6 +385,22 @@ CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 快乐垂钓,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/fyzqklcdHDH265_4000.m3u8
 天元围棋,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
 
+北京卫视,http://j.s.bkpcp.top/jj/bjws
+东方卫视,http://j.s.bkpcp.top/jj/dfws
+浙江卫视,http://j.s.bkpcp.top/jj/zjws
+江苏卫视,http://j.s.bkpcp.top/jj/jsws
+湖南卫视,http://j.s.bkpcp.top/jj/hunws
+广东卫视,http://j.s.bkpcp.top/jj/gdws
+深圳卫视咪4k,http://j.s.bkpcp.top/jj/szws
+山东卫视,http://j.s.bkpcp.top/jj/sdws
+河南卫视,http://j.s.bkpcp.top/jj/hnws
+江西卫视,http://j.s.bkpcp.top/jj/jxws
+湖北卫视,http://j.s.bkpcp.top/jj/hubws
+海南卫视,http://j.s.bkpcp.top/jj/hinws
+陕西卫视,http://j.s.bkpcp.top/jj/sxws
+兵团卫视,http://j.s.bkpcp.top/jj/btws
+黑龙江卫视,http://j.s.bkpcp.top/jj/hljws
+
 北京卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
 东方卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
 浙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
@@ -333,6 +425,23 @@ CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 青海卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
 吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 黑龙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
+
+北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
+浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
+江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
+湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
+广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
+深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
+山东卫视,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
+河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
+江西卫视,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
+湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
+海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
+陕西卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws_4000.m3u8
+兵团卫视,http://go.bkpcp.top/mg/btws
+黑龙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
 
 江苏频道,#genre#
 江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2983110475_-1591539074/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8?icpid=3&RTS=1668597777&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
