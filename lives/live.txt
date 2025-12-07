@@ -4,22 +4,22 @@
 
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
-TVBS新闻,http://rihou.cc:555/tv/[ST]tvbS新闻
-TVBS新闻,http://rihou.cc:555/tv/[Hk]tvbs闽南
-TVBS新闻,http://rihou.cc:555/tv/[ST]tvbS闽南
-中天新闻,http://rihou.cc:555/tv/[Hk]中天新闻
-中天新闻,http://rihou.cc:555/tv/[ST]中天新闻
-中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
-寰宇新闻,http://rihou.cc:555/tv/[ST]寰宇新闻
-东森新闻,http://rihou.cc:555/tv/[ST]东森新闻
-年代新闻,http://rihou.cc:555/tv/[ST]年代新闻
-非凡新闻,http://rihou.cc:555/tv/[ST]非凡新闻
-民视新闻,http://rihou.cc:555/tv/[ST]民视新闻
-中视新闻,http://rihou.cc:555/tv/[ST]中视新闻
-台视新闻,http://rihou.cc:555/tv/[ST]台视新闻
-镜新闻,http://rihou.cc:555/tv/[Hk]镜新闻
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv
+TVBS新闻,https://smart.946985.filegear-sg.me/smart.php?id=tvbs_n
+TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskkszx.flv
+TVBS新闻,https://smart.946985.filegear-sg.me/smart.php?id=tvbs
+中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
+中天新闻,https://smart.946985.filegear-sg.me/smart.php?id=ctinews
+中天新闻,https://dungou.szius.com:8080/live/yifatv-ztxw01.flv
+寰宇新闻,https://smart.946985.filegear-sg.me/smart.php?id=huanyuxinwen_twn
+东森新闻,https://smart.946985.filegear-sg.me/smart.php?id=ettvnews
+年代新闻,https://smart.946985.filegear-sg.me/smart.php?id=niandainews_twn
+非凡新闻,https://smart.946985.filegear-sg.me/smart.php?id=feifannews_twn
+民视新闻,https://smart.946985.filegear-sg.me/smart.php?id=ftvnew_taiwan
+中视新闻,https://smart.946985.filegear-sg.me/smart.php?id=zhongshinews_twn
+台视新闻,https://smart.946985.filegear-sg.me/smart.php?id=ttvnews_twn
+镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
@@ -29,11 +29,31 @@ TVBS新闻,http://rihou.cc:555/tv/[ST]tvbS闽南
 
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+CCTV1,https://cdn6.101.qzz.io/163189/cctv1
+CH8综合,https://cdn6.101.qzz.io/163189/ch8
+八度空间,https://cdn6.101.qzz.io/163189/8tv
 
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 非凡商业,http://iptv.4666888.xyz/iptv2A.php?id=44
+
+pₒₚc电影,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv
+Now星影,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
+Now爆谷台,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
+pₒₚc电影,http://tl.061833.xyz/tl/popc
+pₒₚc电影,http://tl.061833.xyz/tl/popc
+
+天映频道粤,https://smart.946985.filegear-sg.me/smart.php?id=ctv18_twn
+天映频道国,https://smart.946985.filegear-sg.me/smart.php?id=Celestial
+天映频道闽,https://smart.946985.filegear-sg.me/smart.php?id=Celestialindo
+天映经典,https://smart.946985.filegear-sg.me/smart.php?id=Celestial2
+东森电影,http://hls-pull-wicketpw.speedws.com/live/bCfUAGCL9ukBOGb6dOi9TS5PTD9yKesDJWcvlAgBMV6uv722A6.flv
+龙祥电影,https://smart.946985.filegear-sg.me/smart.php?id=lungxiangtime_twn
+纬来电影,https://smart.946985.filegear-sg.me/smart.php?id=videolandmovie
+好莱坞电影,https://smart.946985.filegear-sg.me/smart.php?id=hollywoodmovies_twn
+邵氏电影,http://hls-pull-wicketpw.speedws.com/live/UfDkDElyf6NF7Osbvm6S5PTDh6zBtqHEXN0tPzXPcgHSvU4rZd.flv
+邵氏武侠,http://hls-pull-wicketpw.speedws.com/live/eA48Gpq1tbEPvXnrtlCRll3ENbHOS5PTDdRtOtcGBwEdCNmLrP.flv
 
 ELta综合,http://iptv.4666888.xyz/iptv2A.php?id=49
 爱奇艺综艺,http://iptv.4666888.xyz/iptv2A.php?id=21
@@ -83,7 +103,7 @@ TVBS新闻,http://210.61.15.55:50007/li-4gtv-4gtv072/index.m3u8?proxy=true
 民视新闻,http://210.61.15.55:50007/li-litv-ftv13/index.m3u8?proxy=true
 中视新闻,http://210.61.15.55:50007/li-4gtv-4gtv074/index.m3u8?proxy=true
 中视新闻,http://210.61.15.55:50007/of-4gtv-4gtv074/index.m3u8?proxy=true
-华视新闻,http://210.61.15.55:50007/li-4gtv-4gtv052/index.m3u8?proxy=true
+华视新闻,http://210.61.15.55:50007/li-4gtv-4gtv052/index.m3u8?pproxy=true
 华视新闻,http://210.61.15.55:50007/of-4gtv-4gtv052/index.m3u8?proxy=true
 台视新闻,http://210.61.15.55:50007/li-4gtv-4gtv051/index.m3u8?proxy=true
 TVBS新闻,http://210.61.15.55:50007/li-4gtv-4gtv073/index.m3u8?proxy=true
