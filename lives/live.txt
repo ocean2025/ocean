@@ -6,19 +6,24 @@ TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv
-TVBS新闻,https://smart.946985.filegear-sg.me/smart.php?id=tvbs_n
+TVBS新闻,http://cmtv.netlib.re/channel/313be55e.m3u8?q=183.206.52.249
 TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskkszx.flv
-TVBS新闻,https://smart.946985.filegear-sg.me/smart.php?id=tvbs
+TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuoS5PTDMv.flv
+TVBS新闻,http://cmtv.netlib.re/channel/n6db37f50.m3u8?q=183.206.52.249
 中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
-中天新闻,https://smart.946985.filegear-sg.me/smart.php?id=ctinews
-中天新闻,https://dungou.szius.com:8080/live/yifatv-ztxw01.flv
-寰宇新闻,https://smart.946985.filegear-sg.me/smart.php?id=huanyuxinwen_twn
-东森新闻,https://smart.946985.filegear-sg.me/smart.php?id=ettvnews
-年代新闻,https://smart.946985.filegear-sg.me/smart.php?id=niandainews_twn
-非凡新闻,https://smart.946985.filegear-sg.me/smart.php?id=feifannews_twn
-民视新闻,https://smart.946985.filegear-sg.me/smart.php?id=ftvnew_taiwan
-中视新闻,https://smart.946985.filegear-sg.me/smart.php?id=zhongshinews_twn
-台视新闻,https://smart.946985.filegear-sg.me/smart.php?id=ttvnews_twn
+中天新闻,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdDBtzjdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8?q=183.206.52.249
+中天新闻,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
+寰宇新闻,http://hls-pull-wicketpw.speedws.com/live/3cDvCNnDBtzjBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
+寰宇新闻,http://cmtv.netlib.re/channel/n12ca9ab2.m3u8?q=183.206.52.249
+东森新闻,http://cmtv.netlib.re/channel/n6a969278.m3u8?q=183.206.52.249
+年代新闻,http://156.239.254.7:5555/smt.php?id=niandainews_twn
+非凡新闻,http://156.239.254.7:5555/smt.php?id=feifannews_twn
+民视新闻,http://cmtv.netlib.re/channel/n1a919f80.m3u8?q=183.206.52.249
+中视新闻,http://hls-pull-wicketpw.speedws.com/live/hNsy4N2YkDBtzjwCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
+中视新闻,http://cmtv.netlib.re/channel/n4840462c.m3u8?q=183.206.52.249
+中旺新闻,http://hls-pull-wicketpw.speedws.com/live/VKq6owrTFuSWWiTpsPJEKXhZN44BwXSkfDtG4xs3ODBtzjyqBd.flv
+台视新闻,http://156.239.254.7:5555/smt.php?id=ttvnews_twn
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
@@ -41,19 +46,43 @@ CH8综合,https://cdn6.101.qzz.io/163189/ch8
 pₒₚc电影,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv
 
 Now星影,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv
+Now星影,http://23.237.228.133/live2/xingyingtai.m3u8
 Now星影,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
 
 Now爆谷台,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow141.flv
+Now爆谷台,http://23.237.228.133/live2/baogutai.m3u8
 Now爆谷台,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
 
 pₒₚc电影,http://tl.061833.xyz/tl/popc
 pₒₚc电影,http://tl.061833.xyz/tl/popc
 
+天映频道粤,http://156.239.254.7:5555/smt.php?id=ctv18_twn
+天映频道国,http://156.239.254.7:5555/smt.php?id=Celestial
+天映频道闽,https://smart.946985.filegear-sg.me/smart.php?id=Celestialindo
+天映经典,http://156.239.254.7:5555/smt.php?id=Celestial2
+东森电影,http://hls-pull-wicketpw.speedws.com/live/bCfUAGCL9ukBOGb6dOi9TS5PTD9yKesDJWcvlAgBMV6uv722A6.flv
+龙祥电影,http://156.239.254.7:5555/smt.php?id=lungxiangtime_twn
+纬来电影,http://156.239.254.7:5555/smt.php?id=videolandmovie
+好莱坞电影,http://156.239.254.7:5555/smt.php?id=hollywoodmovies_twn
+邵氏电影,http://173.208.251.42:82/live/lbssdy.m3u8?jsbt=1765179745&jsbk=03ae492faea45b023dd0159c256eeff7
+邵氏武侠,http://74.91.23.98:82/live/lbssdy.m3u8?jsbt=1765180113&jsbk=8200de0292540909064364b2a6abccba
+邵氏动作,http://69.197.135.170:82/live/lbssdz.m3u8?jsbt=1765180144&jsbk=79a178d4111760761b33afd4fc97b760
+邵氏喜剧,http://69.197.135.170:82/live/lbssxj.m3u8?jsbt=1765180186&jsbk=a7a2dee711f9e5e2d188fb174c708406
+
+TVBS新闻,https://smart.946985.filegear-sg.me/smart.php?id=tvbs_n
+TVBS新闻,https://smart.946985.filegear-sg.me/smart.php?id=tvbs
+中天新闻,https://smart.946985.filegear-sg.me/smart.php?id=ctinews
+寰宇新闻,https://smart.946985.filegear-sg.me/smart.php?id=huanyuxinwen_twn
+东森新闻,https://smart.946985.filegear-sg.me/smart.php?id=ettvnews
+年代新闻,https://smart.946985.filegear-sg.me/smart.php?id=niandainews_twn
+非凡新闻,https://smart.946985.filegear-sg.me/smart.php?id=feifannews_twn
+民视新闻,https://smart.946985.filegear-sg.me/smart.php?id=ftvnew_taiwan
+中视新闻,https://smart.946985.filegear-sg.me/smart.php?id=zhongshinews_twn
+台视新闻,https://smart.946985.filegear-sg.me/smart.php?id=ttvnews_twn
+
 天映频道粤,https://smart.946985.filegear-sg.me/smart.php?id=ctv18_twn
 天映频道国,https://smart.946985.filegear-sg.me/smart.php?id=Celestial
-天映频道闽,https://smart.946985.filegear-sg.me/smart.php?id=Celestialindo
 天映经典,https://smart.946985.filegear-sg.me/smart.php?id=Celestial2
-东森电影,http://hls-pull-wicketpw.speedws.com/live/bCfUAGCL9ukBOGb6dOi9TS5PTD9yKesDJWcvlAgBMV6uv722A6.flv
 龙祥电影,https://smart.946985.filegear-sg.me/smart.php?id=lungxiangtime_twn
 纬来电影,https://smart.946985.filegear-sg.me/smart.php?id=videolandmovie
 好莱坞电影,https://smart.946985.filegear-sg.me/smart.php?id=hollywoodmovies_twn
