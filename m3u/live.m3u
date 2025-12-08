@@ -107,11 +107,11 @@ http://156.239.254.7:5555/smt.php?id=videolandmovie
 http://156.239.254.7:5555/smt.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-name="邵氏电影" tvg-logo="https://logo.catvod.com/邵氏电影.png" group-title="港•澳•台",邵氏电影
 http://173.208.251.42:82/live/lbssdy.m3u8?jsbt=1765179745&jsbk=03ae492faea45b023dd0159c256eeff7
-#EXTINF:-1 tvg-name="邵氏武侠" tvg-logo="https://logo.catvod.com/邵氏武侠.png" group-title="港•澳•台",邵氏武侠
+#EXTINF:-1 tvg-name="邵氏武侠" tvg-logo="https://logo.catvod.com/邵氏电影.png" group-title="港•澳•台",邵氏武侠
 http://74.91.23.98:82/live/lbssdy.m3u8?jsbt=1765180113&jsbk=8200de0292540909064364b2a6abccba
-#EXTINF:-1 tvg-name="邵氏动作" tvg-logo="https://logo.catvod.com/邵氏动作.png" group-title="港•澳•台",邵氏动作
+#EXTINF:-1 tvg-name="邵氏动作" tvg-logo="https://logo.catvod.com/邵氏电影.png" group-title="港•澳•台",邵氏动作
 http://69.197.135.170:82/live/lbssdz.m3u8?jsbt=1765180144&jsbk=79a178d4111760761b33afd4fc97b760
-#EXTINF:-1 tvg-name="邵氏喜剧" tvg-logo="https://logo.catvod.com/邵氏喜剧.png" group-title="港•澳•台",邵氏喜剧
+#EXTINF:-1 tvg-name="邵氏喜剧" tvg-logo="https://logo.catvod.com/邵氏电影.png" group-title="港•澳•台",邵氏喜剧
 http://69.197.135.170:82/live/lbssxj.m3u8?jsbt=1765180186&jsbk=a7a2dee711f9e5e2d188fb174c708406
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://logo.catvod.com/TVBS新闻.png" group-title="港•澳•台",TVBS新闻
 https://smart.946985.filegear-sg.me/smart.php?id=tvbs_n
@@ -147,7 +147,7 @@ https://smart.946985.filegear-sg.me/smart.php?id=videolandmovie
 https://smart.946985.filegear-sg.me/smart.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-name="邵氏电影" tvg-logo="https://logo.catvod.com/邵氏电影.png" group-title="港•澳•台",邵氏电影
 http://hls-pull-wicketpw.speedws.com/live/UfDkDElyf6NF7Osbvm6S5PTDh6zBtqHEXN0tPzXPcgHSvU4rZd.flv
-#EXTINF:-1 tvg-name="邵氏武侠" tvg-logo="https://logo.catvod.com/邵氏武侠.png" group-title="港•澳•台",邵氏武侠
+#EXTINF:-1 tvg-name="邵氏武侠" tvg-logo="https://logo.catvod.com/邵氏电影.png" group-title="港•澳•台",邵氏武侠
 http://hls-pull-wicketpw.speedws.com/live/eA48Gpq1tbEPvXnrtlCRll3ENbHOS5PTDdRtOtcGBwEdCNmLrP.flv
 #EXTINF:-1 tvg-name="ELta综合" tvg-logo="https://isus.cc/share/logo/ELTA娛樂.png" group-title="港•澳•台",ELta综合
 http://iptv.4666888.xyz/iptv2A.php?id=49
