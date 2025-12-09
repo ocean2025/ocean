@@ -40,10 +40,6 @@ CCTV1,https://cdn6.101.qzz.io/163189/cctv1
 CH8综合,https://cdn6.101.qzz.io/163189/ch8
 八度空间,https://cdn6.101.qzz.io/163189/8tv
 
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
-澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
-非凡商业,http://iptv.4666888.xyz/iptv2A.php?id=44
-
 pₒₚc电影,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv
 
 Now星影,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv
@@ -75,14 +71,48 @@ RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
 中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
 台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+
+八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+非凡商业,http://iptv.4666888.xyz/iptv2A.php?id=44
+
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 
+凤凰资讯,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd
+凤凰中文,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
+凤凰香港,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn
+天映频道,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
+天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+八度空间,https://cdn9.163189.xyz/smt1.1.php?id=TV8
+
+凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
+凤凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
+天映频道,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
+天映经典,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
+八度空间,https://cdn9.163189.xyz/smt3.1.1.php?id=TV8
+
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
+
+凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
+天映频道,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+八度空间,https://smt.1678520.xyz/smt3.2.1.php?id=TV8
 
 中天新闻,http://114.34.123.103:50007/4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://114.34.123.103:50007/li-4gtv-4gtv009/index.m3u8?proxy=true
@@ -155,9 +185,8 @@ TVBS,http://cmtv.netlib.re/channel/n6db37f50.m3u8?q=183.206.52.249
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub             
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 
-天映频道粤,http://156.239.254.7:5555/smt.php?id=ctv18_twn
-天映频道国,http://156.239.254.7:5555/smt.php?id=Celestial
-天映频道闽,https://smart.946985.filegear-sg.me/smart.php?id=Celestialindo
+天映频道,http://156.239.254.7:5555/smt.php?id=ctv18_twn
+天映频道,http://156.239.254.7:5555/smt.php?id=Celestial
 天映经典,http://156.239.254.7:5555/smt.php?id=Celestial2
 龙祥电影,http://156.239.254.7:5555/smt.php?id=lungxiangtime_twn
 纬来电影,http://156.239.254.7:5555/smt.php?id=videolandmovie
@@ -167,18 +196,6 @@ TVBS,http://cmtv.netlib.re/channel/n6db37f50.m3u8?q=183.206.52.249
 邵氏动作,http://69.197.135.170:82/live/lbssdz.m3u8?jsbt=1765180144&jsbk=79a178d4111760761b33afd4fc97b760
 邵氏喜剧,http://69.197.135.170:82/live/lbssxj.m3u8?jsbt=1765180186&jsbk=a7a2dee711f9e5e2d188fb174c708406
 
-TVBS新闻,https://smart.946985.filegear-sg.me/smart.php?id=tvbs_n
-TVBS新闻,https://smart.946985.filegear-sg.me/smart.php?id=tvbs
-中天新闻,https://smart.946985.filegear-sg.me/smart.php?id=ctinews
-寰宇新闻,https://smart.946985.filegear-sg.me/smart.php?id=huanyuxinwen_twn
-中视新闻,https://smart.946985.filegear-sg.me/smart.php?id=zhongshinews_twn
-
-天映频道粤,https://smart.946985.filegear-sg.me/smart.php?id=ctv18_twn
-天映频道国,https://smart.946985.filegear-sg.me/smart.php?id=Celestial
-天映经典,https://smart.946985.filegear-sg.me/smart.php?id=Celestial2
-龙祥电影,https://smart.946985.filegear-sg.me/smart.php?id=lungxiangtime_twn
-纬来电影,https://smart.946985.filegear-sg.me/smart.php?id=videolandmovie
-好莱坞电影,https://smart.946985.filegear-sg.me/smart.php?id=hollywoodmovies_twn
 邵氏电影,http://hls-pull-wicketpw.speedws.com/live/UfDkDElyf6NF7Osbvm6S5PTDh6zBtqHEXN0tPzXPcgHSvU4rZd.flv
 邵氏武侠,http://hls-pull-wicketpw.speedws.com/live/eA48Gpq1tbEPvXnrtlCRll3ENbHOS5PTDdRtOtcGBwEdCNmLrP.flv
 
