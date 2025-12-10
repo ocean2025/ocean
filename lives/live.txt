@@ -5,19 +5,26 @@
 
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv
+TVBS新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212314.flv
 
-TVBS,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskkszx.flv
+TVBS,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212342.flv
 TVBS,http://hls-pull-wicketpw.speedws.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuoS5PTDMv.flv
+TVBS,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskkszx.flv
 
-中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
+中天新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212312.flv
+中天新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212313.flv
 中天新闻,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdDBtzjdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
 中天新闻,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
 
 寰宇新闻,http://hls-pull-wicketpw.speedws.com/live/3cDvCNnDBtzjBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
+寰宇新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212321.flv
 
 中视新闻,http://hls-pull-wicketpw.speedws.com/live/hNsy4N2YkDBtzjwCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
+中视新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212320.flv
 
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+镜新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212318.flv
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 莲花卫视,https://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
@@ -42,12 +49,12 @@ CH8综合,https://cdn6.101.qzz.io/163189/ch8
 
 pₒₚc电影,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv
 
-Now星影,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv
 Now星影,http://23.237.228.133/live2/xingyingtai.m3u8
+Now星影,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv
 Now星影,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
 
-Now爆谷台,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow141.flv
 Now爆谷台,http://23.237.228.133/live2/baogutai.m3u8
+Now爆谷台,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow141.flv
 Now爆谷台,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
 
 pₒₚc电影,http://tl.061833.xyz/tl/popc
@@ -94,13 +101,38 @@ pₒₚc电影,http://tl.061833.xyz/tl/popc
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub             
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 
-凤凰资讯,http://rihou.cc:555/tv/[Bx]凤凰资讯
+TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
+TVBS新闻,http://rihou.cc:555/tv/[4G]tvbS新闻
+
+TVBS,http://rihou.cc:555/tv/[4G]tvbS闽南
+TVBS,http://rihou.cc:555/tv/[Hk]tvbS南闽
+TVBS,http://rihou.cc:555/tv/[Hk]tvbs闽南
+
+中天新闻,http://rihou.cc:555/tv/[4G]中天新闻
+中天新闻,http://rihou.cc:555/tv/[4G]中天新聞
+中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
+中天新闻,http://rihou.cc:555/tv/[Hk]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
+中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
+寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
+寰宇新闻,http://rihou.cc:555/tv/[4G]寰宇新闻
+中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
+中视新闻,http://rihou.cc:555/tv/[4G]中视新闻
+镜新闻,http://rihou.cc:555/tv/[4G]闽镜新闻
+
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰资讯,http://rihou.cc:555/tv/[Bx]凤凰资讯
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰中文,http://rihou.cc:555/tv/[Bx]凤凰中文
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
+
+pₒₚc电影,http://rihou.cc:555/tv/[Hk]pₒₚc电影
 pₒₚc电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
 Now星影,http://rihou.cc:555/tv/[Bx]Now星影
+Now星影,http://rihou.cc:555/tv/[Hk]Now星影
 Now爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
+Now爆谷,http://rihou.cc:555/tv/[Hk]Now爆谷
 
 邵氏电影,Http://69.30.245.194:82/live/lbssdy.m3u8?jsbt=1765325021&jsbk=71d149eb3659bc427f5f0f58bd4ea213
 邵氏武侠,http://69.197.135.170:82/live/lbsswx.m3u8?jsbt=1765325123&jsbk=aece05029e5cffce1f5a79f22985c32c
