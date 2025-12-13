@@ -257,8 +257,10 @@ http://rihou.cc:555/tv/[FY]邵氏喜剧
 http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1 tvg-name="ELta综合" tvg-logo="https://isus.cc/share/logo/ELTA娛樂.png" group-title="港•澳•台",ELta综合
 http://iptv.4666888.xyz/iptv2A.php?id=49
-#EXTINF:-1 tvg-name="爱奇艺综艺" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/爱奇艺.png" group-title="港•澳•台",爱奇艺综艺
+#EXTINF:-1 tvg-name="Astro iQIYI" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/Astro%20%E7%88%B1%E5%A5%87%E8%89%BA.png" group-title="港•澳•台",Astro iQIYI
 http://iptv.4666888.xyz/iptv2A.php?id=21
+#EXTINF:-1 tvg-name="Astro iQIYI" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/Astro%20%E7%88%B1%E5%A5%87%E8%89%BA.png" group-title="港•澳•台",Astro iQIYI
+http://hls-pull-wicketpw.speedws.com/live/FdxVjlPRQ9qiI1Y0CS5PTDwFmKaI4zzwvkrCGRExGiQipUZPaC.flv
 #EXTINF:-1 tvg-name="中视经典" tvg-logo="https://logo.catvod.com/中视经典.png" group-title="港•澳•台",中视经典
 http://iptv.4666888.xyz/iptv2A.php?id=54
 #EXTINF:-1 tvg-name="台视综合" tvg-logo="https://logo.catvod.com/台视综合.png" group-title="港•澳•台",台视综合
@@ -447,6 +449,8 @@ http://156.239.254.7:5555/smt.php?id=hollywoodmovies_twn
 http://hls-pull-wicketpw.speedws.com/live/UfDkDElyf6NF7Osbvm6S5PTDh6zBtqHEXN0tPzXPcgHSvU4rZd.flv
 #EXTINF:-1 tvg-name="邵氏武侠" tvg-logo="https://logo.catvod.com/邵氏电影.png" group-title="港•澳•台",邵氏武侠
 http://hls-pull-wicketpw.speedws.com/live/eA48Gpq1tbEPvXnrtlCRll3ENbHOS5PTDdRtOtcGBwEdCNmLrP.flv
+#EXTINF:-1 tvg-name="音乐库抖直播" tvg-logo="https://logo.catvod.com/抖音.png" group-title="港•澳•台",音乐库抖直播
+http://rihou.cc:555/tv/音乐库抖直播
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视IPV6",CCTV1
 http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视IPV6",CCTV2
