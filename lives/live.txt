@@ -118,7 +118,10 @@ Now爆谷台,http://rihou.cc:555/tv/[Bx]Now爆谷
 Now爆谷台,http://rihou.cc:555/tv/[Hk]Now爆谷
 
 东森电影,http://hls-pull-wicketpw.speedws.com/live/bCfUAGCL9ukBOGb6dOi9TS5PTD9yKesDJWcvlAgBMV6uv722A6.flv
+东森电影,https://pull-vtt-1.videocc.net/live/11-fPHO0pIGaYYBkAJCvDT58Qty4vBeoqGUhqeq0TaMB9P.flv
+
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+东森电影,http://rihou.cc:555/tv/[Hk]东森电影
 
 黄金华剧,http://hls-pull-wicketpw.speedws.com/live/HZvZxcheOtbls4gDYtaTNRcYeQhgGTeXNBxInESYlFHHleooST.flv
 黄金华剧,http://rihou.cc:555/tv/[Hk]黄金华剧
@@ -167,7 +170,8 @@ Now爆谷台,http://rihou.cc:555/tv/[Hk]Now爆谷
 
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 ELta综合,http://iptv.4666888.xyz/iptv2A.php?id=49
-爱奇艺综艺,http://iptv.4666888.xyz/iptv2A.php?id=21
+Astro iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
+Astro iQIYI,http://hls-pull-wicketpw.speedws.com/live/FdxVjlPRQ9qiI1Y0CS5PTDwFmKaI4zzwvkrCGRExGiQipUZPaC.flv
 中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
 台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
@@ -272,6 +276,8 @@ TVBS,http://cmtv.netlib.re/channel/n6db37f50.m3u8?q=183.206.52.249
 
 邵氏电影,http://hls-pull-wicketpw.speedws.com/live/UfDkDElyf6NF7Osbvm6S5PTDh6zBtqHEXN0tPzXPcgHSvU4rZd.flv
 邵氏武侠,http://hls-pull-wicketpw.speedws.com/live/eA48Gpq1tbEPvXnrtlCRll3ENbHOS5PTDdRtOtcGBwEdCNmLrP.flv
+
+音乐库抖直播,http://rihou.cc:555/tv/音乐库抖直播
 
 央视IPV6,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
