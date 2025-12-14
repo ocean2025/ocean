@@ -449,6 +449,8 @@ http://156.239.254.7:5555/smt.php?id=hollywoodmovies_twn
 http://hls-pull-wicketpw.speedws.com/live/UfDkDElyf6NF7Osbvm6S5PTDh6zBtqHEXN0tPzXPcgHSvU4rZd.flv
 #EXTINF:-1 tvg-name="邵氏武侠" tvg-logo="https://logo.catvod.com/邵氏电影.png" group-title="港•澳•台",邵氏武侠
 http://hls-pull-wicketpw.speedws.com/live/eA48Gpq1tbEPvXnrtlCRll3ENbHOS5PTDdRtOtcGBwEdCNmLrP.flv
+#EXTINF:-1 tvg-name="经典音乐抖播" tvg-logo="https://logo.catvod.com/抖音.png" group-title="港•澳•台",经典音乐抖播
+http://rihou.cc:555/tv/经典音乐抖播
 #EXTINF:-1 tvg-name="音乐库抖直播" tvg-logo="https://logo.catvod.com/抖音.png" group-title="港•澳•台",音乐库抖直播
 http://rihou.cc:555/tv/音乐库抖直播
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视IPV6",CCTV1
