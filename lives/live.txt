@@ -277,6 +277,7 @@ TVBS,http://cmtv.netlib.re/channel/n6db37f50.m3u8?q=183.206.52.249
 邵氏电影,http://hls-pull-wicketpw.speedws.com/live/UfDkDElyf6NF7Osbvm6S5PTDh6zBtqHEXN0tPzXPcgHSvU4rZd.flv
 邵氏武侠,http://hls-pull-wicketpw.speedws.com/live/eA48Gpq1tbEPvXnrtlCRll3ENbHOS5PTDdRtOtcGBwEdCNmLrP.flv
 
+经典音乐抖播,http://rihou.cc:555/tv/经典音乐抖播
 音乐库抖直播,http://rihou.cc:555/tv/音乐库抖直播
 
 央视IPV6,#genre#
