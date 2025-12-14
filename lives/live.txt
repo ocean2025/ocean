@@ -158,10 +158,16 @@ Now爆谷台,http://rihou.cc:555/tv/[Hk]Now爆谷
 天映经典,http://rihou.cc:555/tv/[SX]天映经典
 八度空间,http://rihou.cc:555/tv/[SX]八度空间
 
+邵氏电影,http://hls-pull-wicketpw.speedws.com/live/UfDkDElyf6NF7Osbvm6S5PTDh6zBtqHEXN0tPzXPcgHSvU4rZd.flv
+邵氏武侠,http://hls-pull-wicketpw.speedws.com/live/eA48Gpq1tbEPvXnrtlCRll3ENbHOS5PTDdRtOtcGBwEdCNmLrP.flv
+
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub         
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub             
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+
+邵氏电影,http://iptv.4666888.xyz/iptv2A.php?id=39
+邵氏武侠,http://iptv.4666888.xyz/iptv2A.php?id=40
 
 邵氏电影,http://rihou.cc:555/tv/[FY]邵氏电影
 邵氏武侠,http://rihou.cc:555/tv/[FY]邵氏武侠
@@ -176,6 +182,10 @@ Astro iQIYI,http://hls-pull-wicketpw.speedws.com/live/FdxVjlPRQ9qiI1Y0CS5PTDwFmK
 台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
 无线娱乐,http://iptv.4666888.xyz/iptv2A.php?id=36
 有线综合,http://iptv.4666888.xyz/iptv2A.php?id=35
 RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
@@ -274,11 +284,8 @@ TVBS,http://cmtv.netlib.re/channel/n6db37f50.m3u8?q=183.206.52.249
 纬来电影,http://156.239.254.7:5555/smt.php?id=videolandmovie
 好莱坞电影,http://156.239.254.7:5555/smt.php?id=hollywoodmovies_twn
 
-邵氏电影,http://hls-pull-wicketpw.speedws.com/live/UfDkDElyf6NF7Osbvm6S5PTDh6zBtqHEXN0tPzXPcgHSvU4rZd.flv
-邵氏武侠,http://hls-pull-wicketpw.speedws.com/live/eA48Gpq1tbEPvXnrtlCRll3ENbHOS5PTDdRtOtcGBwEdCNmLrP.flv
-
-经典音乐抖播,http://rihou.cc:555/tv/经典音乐抖播
-音乐库抖直播,http://rihou.cc:555/tv/音乐库抖直播
+经典音乐抖播,http://rihou.cc:555/tv/抖播经典音乐
+音乐库抖直播,http://rihou.cc:555/tv/抖播音乐库播
 
 央视IPV6,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
