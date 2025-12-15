@@ -122,13 +122,13 @@ http://rihou.cc:555/tv/[Pd]八度空间
 #EXTINF:-1 tvg-name="pₒₚc电影" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/popc.png" group-title="港•澳•台",pₒₚc电影
 http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv
 #EXTINF:-1 tvg-name="pₒₚc电影" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/popc.png" group-title="港•澳•台",pₒₚc电影
-http://tl.061833.xyz/tl/popc
-#EXTINF:-1 tvg-name="pₒₚc电影" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/popc.png" group-title="港•澳•台",pₒₚc电影
-http://tl.061833.xyz/tl/popc
-#EXTINF:-1 tvg-name="pₒₚc电影" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/popc.png" group-title="港•澳•台",pₒₚc电影
 http://rihou.cc:555/tv/[Bx]pₒₚc电影
 #EXTINF:-1 tvg-name="pₒₚc电影" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/popc.png" group-title="港•澳•台",pₒₚc电影
 http://rihou.cc:555/tv/[Hk]pₒₚc电影
+#EXTINF:-1 tvg-name="pₒₚc电影" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/popc.png" group-title="港•澳•台",pₒₚc电影
+http://tl.061833.xyz/tl/popc
+#EXTINF:-1 tvg-name="pₒₚc电影" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/popc.png" group-title="港•澳•台",pₒₚc电影
+http://tl.061833.xyz/tl/popc
 #EXTINF:-1 tvg-name="Now星影" tvg-logo="https://isus.cc/share/logo/Now-星影台.png" group-title="港•澳•台",Now星影
 http://23.237.228.133/live2/xingyingtai.m3u8
 #EXTINF:-1 tvg-name="Now星影" tvg-logo="https://isus.cc/share/logo/Now-星影台.png" group-title="港•澳•台",Now星影
