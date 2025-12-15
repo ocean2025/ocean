@@ -15,49 +15,36 @@
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv
 TVBS新闻,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
-TVBS新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212314.flv
 
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS新闻,http://rihou.cc:555/tv/[SX]tvbS新闻
-TVBS新闻,http://rihou.cc:555/tv/[4G]tvbS新闻
 
 TVBS,http://hls-pull-wicketpw.speedws.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuoS5PTDMv.flv
 TVBS,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskkszx.flv
-TVBS,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212342.flv
 
 TVBS,http://rihou.cc:555/tv/[Hk]tvbS南闽
 TVBS,http://rihou.cc:555/tv/[Hk]tvbs闽南
-TVBS,http://rihou.cc:555/tv/[4G]tvbS闽南
 
 中天新闻,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdDBtzjdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
 中天新闻,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
 中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
-中天新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212312.flv
-中天新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212313.flv
 
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新闻
-中天新闻,http://rihou.cc:555/tv/[4G]中天新闻
-中天新闻,http://rihou.cc:555/tv/[4G]中天新聞
 
 寰宇新闻,http://hls-pull-wicketpw.speedws.com/live/3cDvCNnDBtzjBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
-寰宇新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212321.flv
 
 寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
-寰宇新闻,http://rihou.cc:555/tv/[4G]寰宇新闻
 
 中视新闻,http://hls-pull-wicketpw.speedws.com/live/hNsy4N2YkDBtzjwCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
-中视新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212320.flv
 
 中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
-中视新闻,http://rihou.cc:555/tv/[4G]中视新闻
 
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-镜新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212318.flv
 
-镜新闻,http://rihou.cc:555/tv/[4G]闽镜新闻
+镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
 
 中旺电视,http://hls-pull-wicketpw.speedws.com/live/VKq6owrTFuSWWiTpsPJEKXhZN44BwXSkfDtG4xs3ODBtzjyqBd.flv
 
@@ -97,11 +84,12 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 八度空间,http://rihou.cc:555/tv/[Pd]八度空间
 
 pₒₚc电影,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv
-pₒₚc电影,http://tl.061833.xyz/tl/popc
-pₒₚc电影,http://tl.061833.xyz/tl/popc
 
 pₒₚc电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
 pₒₚc电影,http://rihou.cc:555/tv/[Hk]pₒₚc电影
+
+pₒₚc电影,http://tl.061833.xyz/tl/popc
+pₒₚc电影,http://tl.061833.xyz/tl/popc
 
 Now星影,http://23.237.228.133/live2/xingyingtai.m3u8
 Now星影,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv
