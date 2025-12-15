@@ -15,36 +15,49 @@
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv
 TVBS新闻,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+TVBS新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212314.flv
 
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS新闻,http://rihou.cc:555/tv/[SX]tvbS新闻
+TVBS新闻,http://rihou.cc:555/tv/[4G]tvbS新闻
 
 TVBS,http://hls-pull-wicketpw.speedws.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuoS5PTDMv.flv
 TVBS,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskkszx.flv
+TVBS,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212342.flv
 
 TVBS,http://rihou.cc:555/tv/[Hk]tvbS南闽
 TVBS,http://rihou.cc:555/tv/[Hk]tvbs闽南
+TVBS,http://rihou.cc:555/tv/[4G]tvbS闽南
 
 中天新闻,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdDBtzjdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
 中天新闻,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
 中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
+中天新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212312.flv
+中天新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212313.flv
 
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新闻
+中天新闻,http://rihou.cc:555/tv/[4G]中天新闻
+中天新闻,http://rihou.cc:555/tv/[4G]中天新聞
 
 寰宇新闻,http://hls-pull-wicketpw.speedws.com/live/3cDvCNnDBtzjBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
+寰宇新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212321.flv
 
 寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
+寰宇新闻,http://rihou.cc:555/tv/[4G]寰宇新闻
 
 中视新闻,http://hls-pull-wicketpw.speedws.com/live/hNsy4N2YkDBtzjwCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
+中视新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212320.flv
 
 中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
+中视新闻,http://rihou.cc:555/tv/[4G]中视新闻
 
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+镜新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212318.flv
 
-镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
+镜新闻,http://rihou.cc:555/tv/[4G]闽镜新闻
 
 中旺电视,http://hls-pull-wicketpw.speedws.com/live/VKq6owrTFuSWWiTpsPJEKXhZN44BwXSkfDtG4xs3ODBtzjyqBd.flv
 
@@ -84,12 +97,11 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 八度空间,http://rihou.cc:555/tv/[Pd]八度空间
 
 pₒₚc电影,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv
+pₒₚc电影,http://tl.061833.xyz/tl/popc
+pₒₚc电影,http://tl.061833.xyz/tl/popc
 
 pₒₚc电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
 pₒₚc电影,http://rihou.cc:555/tv/[Hk]pₒₚc电影
-
-pₒₚc电影,http://tl.061833.xyz/tl/popc
-pₒₚc电影,http://tl.061833.xyz/tl/popc
 
 Now星影,http://23.237.228.133/live2/xingyingtai.m3u8
 Now星影,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv
@@ -890,3 +902,123 @@ NewTV-IPV6,#genre#
 九十九步退一步,https://vd2.bdstatic.com/mda-nbk88c8b5d4vsf2m/sc/cae_h264_delogo/1645443281073338534/mda-nbk88c8b5d4vsf2m.mp4
 好多倩_夜夜夜漫长,https://vd4.bdstatic.com/mda-mcm1j9nnz5xxyhar/720p/h264_cae/1621016873537262108/mda-mcm1j9nnz5xxyhar.mp4
 90年代,http://vdown2.kuwo.cn/resource//t5/0/eTNBMFltlx07LI3bUVOg01041201VIsY0E010.mp4
+
+歌曲MKV1,#genre#
+光头易-今夜你会不会想起我,http://em.21dtv.com/songs/60171025.mkv
+孤独诗人-渡我不渡她,http://em.21dtv.com/songs/60171008.mkv
+魏新雨-为你祈祷,http://em.21dtv.com/songs/60170995.mkv
+大海-相思千万里,http://em.21dtv.com/songs/60170871.mkv
+季彦霖-可不可以,http://em.21dtv.com/songs/60170843.mkv
+叶贺林-十指相扣不分离,http://em.21dtv.com/songs/60170774.mkv
+龚玥-静夜花语,http://em.21dtv.com/songs/60170691.mkv
+龚玥-难得糊涂,http://em.21dtv.com/songs/60170690.mkv
+龚玥-红尘客人,http://em.21dtv.com/songs/60170689.mkv
+龚玥-知了知了,http://em.21dtv.com/songs/60170688.mkv
+龚玥-弥陀声声,http://em.21dtv.com/songs/60170687.mkv
+龚玥-对不起,http://em.21dtv.com/songs/60170686.mkv
+龚玥-天边的牧羊人,http://em.21dtv.com/songs/60170685.mkv
+龚玥-大地的孩子,http://em.21dtv.com/songs/60170684.mkv
+龚玥-何愁人生无归期,http://em.21dtv.com/songs/60170683.mkv
+梁文音-那女孩对我说,http://em.21dtv.com/songs/60170654.mkv
+龚玥-不必相送,http://em.21dtv.com/songs/60170607.mkv
+陈雪凝-你的酒馆对我打了烊,http://em.21dtv.com/songs/60170585.mkv
+苏青山+媚儿菲菲-负心的人你在哪里,http://em.21dtv.com/songs/60170460.mkv
+王庆爽-文成公主,http://em.21dtv.com/songs/60170459.mkv
+李胜素-梨花颂,http://em.21dtv.com/songs/60170458.mkv
+央金兰泽-守望你是我的歌,http://em.21dtv.com/songs/60170457.mkv
+Polina Gagarina-贝加尔湖畔,http://em.21dtv.com/songs/60170456.mkv
+刘欢-璐璐,http://em.21dtv.com/songs/60170455.mkv
+吴青峰-那些花儿+望春风,http://em.21dtv.com/songs/60170454.mkv
+声入人心男团-真爱乐章,http://em.21dtv.com/songs/60170453.mkv
+杨乃文-推开世界的门,http://em.21dtv.com/songs/60170452.mkv
+杨坤-长子,http://em.21dtv.com/songs/60170451.mkv
+毕书尽-你,http://em.21dtv.com/songs/60170450.mkv
+许靖韵-梦伴,http://em.21dtv.com/songs/60170449.mkv
+BigYear大年-ing ing,http://em.21dtv.com/songs/60170448.mkv
+DJ何鹏-逝去的岁月,http://em.21dtv.com/songs/60170447.mkv
+S.I.N.G女团-传人,http://em.21dtv.com/songs/60170446.mkv
+九月天-南风北巷,http://em.21dtv.com/songs/60170445.mkv
+云硕-娇耳谣,http://em.21dtv.com/songs/60170444.mkv
+余昭源+叶里-初见,http://em.21dtv.com/songs/60170443.mkv
+叶思言-故乡的静夜思,http://em.21dtv.com/songs/60170442.mkv
+吴若希-日月存亡,http://em.21dtv.com/songs/60170441.mkv
+大哲-不想,http://em.21dtv.com/songs/60170440.mkv
+尾崎丰-I Love You,http://em.21dtv.com/songs/60170439.mkv
+张一然-如前,http://em.21dtv.com/songs/60170438.mkv
+张北北-给你唱过的歌,http://em.21dtv.com/songs/60170437.mkv
+无名原创音乐团队-千秋岁引,http://em.21dtv.com/songs/60170436.mkv
+朱浩仁+黄明志-谁说不可能,http://em.21dtv.com/songs/60170435.mkv
+杨荣辉-流浪到台北,http://em.21dtv.com/songs/60170434.mkv
+爱朵女孩-爱情万万岁,http://em.21dtv.com/songs/60170433.mkv
+王欣晨-UTOPIA梦托邦,http://em.21dtv.com/songs/60170432.mkv
+王爱华+枫舞-独恋君,http://em.21dtv.com/songs/60170431.mkv
+王艳薇+吕孝廷-我的心脉,http://em.21dtv.com/songs/60170430.mkv
+蔡依林-脑公,http://em.21dtv.com/songs/60170429.mkv
+许艺娜-如梦令,http://em.21dtv.com/songs/60170428.mkv
+阿斯满+岳正剑-植茶歌,http://em.21dtv.com/songs/60170427.mkv
+阿斯满+阿东-赞拉之歌,http://em.21dtv.com/songs/60170426.mkv
+飞歌+毒恋-云和雨的故事,http://em.21dtv.com/songs/60170425.mkv
+麻花豆浆-南风北巷,http://em.21dtv.com/songs/60170424.mkv
+GUMI-モザイクロール,http://em.21dtv.com/songs/60170423.mkv
+HANA-心有不甘,http://em.21dtv.com/songs/60170422.mkv
+One Ok Rock-Heartache,http://em.21dtv.com/songs/60170421.mkv
+Ryan.B+狄迪-小鹿乱撞,http://em.21dtv.com/songs/60170420.mkv
+T.a.t.A乐团-Say You Love Me,http://em.21dtv.com/songs/60170419.mkv
+Yunomi+Nicamoq-东京シュノーケル,http://em.21dtv.com/songs/60170418.mkv
+侯东+喻大维+刘成瑞+孙一杰+赵一桉+朱涵驿-Candy Girl,http://em.21dtv.com/songs/60170417.mkv
+侯志斌-曾住在心里的人,http://em.21dtv.com/songs/60170416.mkv
+刘继延-我啊,http://em.21dtv.com/songs/60170415.mkv
+孙伯纶-问明月,http://em.21dtv.com/songs/60170414.mkv
+廖昌永-佛缘之路,http://em.21dtv.com/songs/60170413.mkv
+慕容晓晓+郑文-花月恋,http://em.21dtv.com/songs/60170412.mkv
+时嘉+于洋-相思醉,http://em.21dtv.com/songs/60170411.mkv
+曾黎-多情人都把灵魂给了谁,http://em.21dtv.com/songs/60170410.mkv
+李润祺-如果你要毁灭世界,http://em.21dtv.com/songs/60170409.mkv
+程响-围城,http://em.21dtv.com/songs/60170408.mkv
+符龙飞-不能说,http://em.21dtv.com/songs/60170407.mkv
+群星-国宝一夜,http://em.21dtv.com/songs/60170406.mkv
+董雪-红衣姑娘,http://em.21dtv.com/songs/60170405.mkv
+蔡宗强(没朋友的球鞋侠)-我加上你,http://em.21dtv.com/songs/60170404.mkv
+蔡旻佑-问问爱情,http://em.21dtv.com/songs/60170403.mkv
+镜音リン-炉心融解,http://em.21dtv.com/songs/60170402.mkv
+鲁向卉-嘲笑孤单,http://em.21dtv.com/songs/60170401.mkv
+龚柯允-Say The Word,http://em.21dtv.com/songs/60170400.mkv
+李千那-暧昧林檎,http://em.21dtv.com/songs/60170399.mkv
+白安-钻石,http://em.21dtv.com/songs/60170398.mkv
+艾怡良-给朱利安,http://em.21dtv.com/songs/60170397.mkv
+Future-Jumpin on a Jet,http://em.21dtv.com/songs/60170396.mkv
+L.long+卫允-初见,http://em.21dtv.com/songs/60170395.mkv
+乌拉多恩-午夜,http://em.21dtv.com/songs/60170394.mkv
+于湉-都挺好,http://em.21dtv.com/songs/60170393.mkv
+任然-谢谢你,http://em.21dtv.com/songs/60170392.mkv
+初音ミク+GUMI-月光润色ガール,http://em.21dtv.com/songs/60170391.mkv
+夏阳-乐活族,http://em.21dtv.com/songs/60170390.mkv
+小艾神-暖暖的小幸福,http://em.21dtv.com/songs/60170389.mkv
+尹姝贻-快来我的身边,http://em.21dtv.com/songs/60170388.mkv
+尹姝贻-爱我吗,http://em.21dtv.com/songs/60170387.mkv
+山野(李昊瀚)-我不在,http://em.21dtv.com/songs/60170386.mkv
+慢慢说乐团-失眠电影院,http://em.21dtv.com/songs/60170385.mkv
+新乐尘符+李思雨+林俊呈-完美体贴,http://em.21dtv.com/songs/60170384.mkv
+李佳瑛+成林江措-前世姻缘今生的爱,http://em.21dtv.com/songs/60170383.mkv
+桑娜-撤回,http://em.21dtv.com/songs/60170382.mkv
+爱星人-无条件爱你,http://em.21dtv.com/songs/60170381.mkv
+王乃迎-我还行,http://em.21dtv.com/songs/60170380.mkv
+王梓钰(音阙诗听)-木桥小谣,http://em.21dtv.com/songs/60170379.mkv
+胡66-杀青,http://em.21dtv.com/songs/60170378.mkv
+贺一航-如果有一天,http://em.21dtv.com/songs/60170377.mkv
+马念先+9m88-你朝我的方向走来,http://em.21dtv.com/songs/60170376.mkv
+魏新雨-颜如玉,http://em.21dtv.com/songs/60170375.mkv
+黄麒Eros-初见,http://em.21dtv.com/songs/60170374.mkv
+KinKi Kids-Music Of Life,http://em.21dtv.com/songs/60170373.mkv
+Roselia-Brave Jewel,http://em.21dtv.com/songs/60170372.mkv
+高天鹤+王凯+余笛+鞠红川-II libro dell'amore,http://em.21dtv.com/songs/60170371.mkv
+饭谜力-扶桑安魂曲,http://em.21dtv.com/songs/60170370.mkv
+韩阿筎那-XX Boyfriend,http://em.21dtv.com/songs/60170369.mkv
+陈博豪-他她,http://em.21dtv.com/songs/60170368.mkv
+阿云嘎+郑云龙-I'll Cover You,http://em.21dtv.com/songs/60170367.mkv
+钟一彪-真的爱你,http://em.21dtv.com/songs/60170366.mkv
+郭静-只为遇见你,http://em.21dtv.com/songs/60170365.mkv
+邓文怡+邓力玮-有点甜,http://em.21dtv.com/songs/60170364.mkv
+邓丽君-晚风花香,http://em.21dtv.com/songs/60170363.mkv
+赵敬一-临摹,http://em.21dtv.com/songs/60170362.mkv
+胡杰夕-我们再也回不到从前,http://em.21dtv.com/songs/60170361.mkv
