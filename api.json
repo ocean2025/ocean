@@ -816,11 +816,29 @@
 			"changeable": 1
 		},
 		{
-			"key": "360资源",
-			"name": "🎈360资源┃蜂蜜",
+			"key": "电影天堂",
+			"name": "🎈电影天堂┃采集",
 			"type": 1,
 			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
-			"api": "https://360zy.com/api.php/seaxml/vod/",
+			"api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "天涯采集",
+			"name": "🎈天涯采集┃采集",
+			"type": 1,
+			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
+			"api": "http://tyyszy.com/api.php/provide/vod",
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "maotai",
+			"name": "🎈茅台┃采集",
+			"type": 1,
+			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
+			"api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -845,7 +863,7 @@
 		{
 			"key": "量子",
 			"name": "🎈量子┃蜂蜜",
-			"type": 0,
+			"type": 1,
 			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
 			"api": "https://cj.lziapi.com/api.php/provide/vod/",
 			"searchable": 1,
