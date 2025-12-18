@@ -1956,13 +1956,13 @@
 			"name": "live-m3u",
 			"type": 0,
 			"url": "./m3u/live.m3u",
-			"ua": "bingcha/1.1 (mianfeifenxiang) "
+			"ua": "okhttp/3"
 		},
 		{
 			"name": "live-txt",
 			"type": 0,
 			"url": "./lives/live.txt",
-			"ua": "bingcha/1.1 (mianfeifenxiang) ",
+			"ua": "okhttp/3",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://logo.catvod.com/{name}.png"
 		},
