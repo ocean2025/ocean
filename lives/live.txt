@@ -10,7 +10,10 @@
 凤凰资讯,http://rihou.cc:555/tv/[Bx]凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
+
+寰宇新闻,http://hls-pull-wicketpw.speedws.com/live/3cDvCNnDBtzjBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
+寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
 
 TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
@@ -22,8 +25,8 @@ TVBS新闻,http://rihou.cc:555/tv/[SX]tvbS新闻
 TVBS,http://hls-pull-wicketpw.speedws.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuoS5PTDMv.flv
 TVBS,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskkszx.flv
 
-TVBS,http://rihou.cc:555/tv/[Hk]tvbS南闽
 TVBS,http://rihou.cc:555/tv/[Hk]tvbs闽南
+TVBS,http://rihou.cc:555/tv/[Hk]tvbS南闽
 
 TVBS精采,http://hls-pull-wicketpw.speedws.com/live/0S5PTDYaU9Xvyn84tynbS8cp3vajDiOp3ZDqrurb4MEtTsSxi5.flv
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
@@ -39,9 +42,6 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 
 中旺电视,http://hls-pull-wicketpw.speedws.com/live/VKq6owrTFuSWWiTpsPJEKXhZN44BwXSkfDtG4xs3ODBtzjyqBd.flv
 中旺电视,http://rihou.cc:555/tv/[Hk]中旺电视
-
-寰宇新闻,http://hls-pull-wicketpw.speedws.com/live/3cDvCNnDBtzjBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
-寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
 
 中视新闻,http://hls-pull-wicketpw.speedws.com/live/hNsy4N2YkDBtzjwCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
 中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
@@ -91,14 +91,14 @@ pₒₚc电影,http://tl.061833.xyz/tl/popc
 pₒₚc电影,http://tl.061833.xyz/tl/popc
 
 Now星影,http://23.237.228.133/live2/xingyingtai.m3u8
-Now星影,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv
+Now星影,http://hls-pull-wicketpw.speedws.com/live/yU8AAUm9MpL5qwiSyewAkms5LtKjQp9G9LEk5mnls4gD1EgdRk.flv
 Now星影,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
 
 Now星影,http://rihou.cc:555/tv/[Bx]Now星影
 Now星影,http://rihou.cc:555/tv/[Hk]Now星影
 
 Now爆谷台,http://23.237.228.133/live2/baogutai.m3u8
-Now爆谷台,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow141.flv
+Now爆谷台,http://hls-pull-wicketpw.speedws.com/live/9kFYlsTAu8ScEZ4p2mWrkrHXa1Mu5yhBJ4DdZuc4Emzls4gDfF.flv
 Now爆谷台,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
 
 Now爆谷台,http://rihou.cc:555/tv/[Bx]Now爆谷
@@ -229,16 +229,6 @@ Astro欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-
-音乐仓库抖播,https://pull-m1.wxlivecdn.com/trtc_1400419933/orig_2078889055828125201_orig.flv?cdntagname=orig&combuf=qPSMpsPag1PeScfJ1xOLLdqROrfMBzeVmHLYmu2LkKIsCvP2jNbdb3T3fkNt95gwnA0z18aUatJ9jaZUR%2FfDUAv2dt0odM5lNLe016ipNtl9DsMxufbWIe5MpvCTmfpHCjjHDLeHRckE65dEjGr7BIDKkCDAgEFY2vJ4oFFgSZgL9Zle3GU8pjs2nQFFiYqg862QHDTKP8oEgi2H%2BIUhgr5Yi0S61gHmjaHWAFlAbE6OlbYxjfTy54wmiYNE&expt=&extbuf=vMLEfGTl1cCQVy%2FcC4Y1GqGTSomGOW36LF4gKc3AmNospWAOWnVdUV7X61nNDzG0fumrz6vpyzw3T2xGwQWOIMYU3OC0WfHa6u1ox4MA6XeLV0T%2FFXWmPIqQ3KHMJncL3MiJflKvoOOLKoiYJgcbuBPIDK36q5Eytn4XXrbbWNZKinP7hvb%2FkuxlWrKCvLx3QLj%2FCi4LT6F0zWcBMLo%3D&gid=&openid=CA2BCD0238896363A137AC5DBE7E87CC&q=4&sc=4&sv=2&txSecret=d60386cab82a56129ee3667362e221e7&txTime=6943608F&vcodec=2&wu=1&wxns=1&wxtoken=d86253f59aff66befc89bd0dd2d6fa77
-经典音乐抖播,https://csycdn.flv.wxqcloud.qq.com/trtc_1400419933/orig_2078889067778922110_orig.flv?cdntagname=orig&combuf=PW7x%2FlgWxP4tTmXemi1F0rQQt907QKyNrg%2Bl6zINJv8FUVWuh3yBTS%2BnYSi0oJ%2BLZIx3cbJp0tFjihGvvE9yNZDX7xaBDzVeagcWGEhbRXO2DeOR8E%2F7vIbozQu9%2FBvM8bFugsIfb2%2FPau00AyXHtqNLgbAf6jYeMIs%2B80ond9fSa%2FEh6lGn4s3OzLx%2B4DWcPGvDXUEKbDUvAsvb1qRIqt%2B94rnfAeurtAX9JdqtbS4Qaar0&expt=&extbuf=1R82AmJbl0afe3T4B5J2Nq5xP9Tb7TxyqDqS3ULv4uTzWDStdEPq4276RKGBZvg8tNP4TfTH7ov%2B71zi%2FRxGSmVctvPpeDp20tUEZPh2tzs7KskOYDJoXmXpCMxJL49aKT4TRpHLQ6u91A1whxkTaa9tlXnJlIUR46W6aOjcOeK%2B70tFqj5zx4eoC7WBVjX6lRT0YIvA5y%2F51BvQrsk%3D&gid=&openid=9D80890698AC0A0EFAA5243F18A536E9&q=3&sc=4&sv=1&txSecret=366aa1913c0169f78e4f792b947b6372&txTime=694360D2&vcodec=1&wu=1&wxns=1&wxtoken=e1353ce0ffa75ab350736239c26f7f23&TxLiveCode=cold_stream&svr_type=live_oc&tencent_test_client_ip=14.117.153.246
-经典老歌抖播,https://pull-flv-l6.douyincdn.com/radio/stream-406740186701758499_or4.flv?arch_hrchy=w1&exp_hrchy=w1&k=bbb3b7bdc0a611fa&major_anchor_level=common&t=1766543027&t_id=037-202512171023475E772BD4C70F96D9FF17-DZp063&unique_id=stream-406740186701758499_35_flv_or4&_session_id=037-202512171023475E772BD4C70F96D9FF17-DZp063.1765938227967.45205&rsi=1&abr_pts=-800
-音乐库播抖播,https://70d54d52dcedf947cccf02f380b3a66c.v.smtcdns.net/pull-flv-q11.douyincdn.com/third/stream-406739763442746173_or4.flv?arch_hrchy=h1&exp_hrchy=h1&expire=1766542025&major_anchor_level=common&rtm_expr_tag=empty_device_type&sign=0d24be5c2c31fe6a3c7403abc4054e70&t_id=037-202512171007057248427C36DD37768C3B-CZa9HU&unique_id=stream-406739763442746173_829_flv_or4&_session_id=359-202512171007155128922595E75B7E0AC8.1765937235512.14418&rsi=0&abr_pts=-800&TxLiveCode=cold_stream&svr_type=live_oc&tencent_test_client_ip=14.117.153.246&dispatch_from=OC_MGR183.60.147.180&utime=1765937240864&TxDispType=7&txTliveMsg=S5;XA_EIC2;XA_EIC2;
-
-音乐仓库抖播,http://rihou.cc:555/tv/抖播音乐仓库
-经典音乐抖播,http://rihou.cc:555/tv/抖播经典音乐
-经典老歌抖播,http://rihou.cc:555/tv/抖播经典老歌
-音乐库播抖播,http://rihou.cc:555/tv/抖播音乐库播
 
 央视IPV6,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
@@ -850,6 +840,17 @@ NewTV-IPV6,#genre#
 九十九步退一步,https://vd2.bdstatic.com/mda-nbk88c8b5d4vsf2m/sc/cae_h264_delogo/1645443281073338534/mda-nbk88c8b5d4vsf2m.mp4
 好多倩_夜夜夜漫长,https://vd4.bdstatic.com/mda-mcm1j9nnz5xxyhar/720p/h264_cae/1621016873537262108/mda-mcm1j9nnz5xxyhar.mp4
 90年代,http://vdown2.kuwo.cn/resource//t5/0/eTNBMFltlx07LI3bUVOg01041201VIsY0E010.mp4
+
+经典Dj嗨歌,#genre#
+经典Dj嗨歌01,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c0531dbca1064f037001992f48d0cd_258.mp4
+经典Dj嗨歌02,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c643e2bc5a744f03700199467b4c09_258.mp4
+经典Dj嗨歌03,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c6443abd17df4f03700199467cffa5_258.mp4
+经典Dj嗨歌04,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c644c7bc5a044f03700199467f364e_258.mp4
+经典Dj嗨歌05,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c64536bc37604f03700199467f7a63_258.mp4
+经典Dj嗨歌06,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8c6469e07c6590103700199468fad62_258.mp4
+经典Dj嗨歌07,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c64721bd88e84f037001994687eb6c_258.mp4
+经典Dj嗨歌08,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8e215ade7dc860103700199b330ed3a_258.mp4
+经典Dj嗨歌09,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8e884a6e896c30103700199cc4951c3_258.mp4
 
 歌曲MKV1,#genre#
 光头易-今夜你会不会想起我,http://em.21dtv.com/songs/60171025.mkv
