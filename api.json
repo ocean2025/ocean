@@ -1,5 +1,5 @@
 {
-	"spider": "./spider.jar;md5;08590ae4fedd954fed6ae80eb46a621a",
+	"spider": "./spider.jar;md5;30f04c2d4d0d1110ceb0caf8cf33d659",
 	"wallpaper": "./88.jpeg",
 	"logo": "./77.jpg",
 	"sites": [
@@ -628,40 +628,13 @@
 			}
 		},
 		{
-			"key": "优质",
-			"name": "🥝优质┃qjApp",
-			"type": 3,
-			"jar": "./jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
-			"api": "csp_Xdai",
-			"playerType": 2,
-			"ext": "7lj763gg402i7942503g83j2g04i8090khhh8451ik902l6l53510hg9gi410i5607974jhk994283883904gk88l3k549h1g87i754kkjh3jhki2g8724k064g85411gigljkl3g620"
-		},
-		{
 			"key": "yizys",
-			"name": "🥝驿站┃qjApp",
+			"name": "🥝yizys┃qjApp",
 			"type": 3,
 			"jar": "./jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
 			"api": "csp_Xdai",
 			"playerType": 2,
 			"ext": "7lj763gg402i7942582ljiigh454jh9ig1ggi70ljhjk3977455343k5gi1508190gik13k1i01i949j614hkij5g0g404k3k9796k4gl2h3jhl527952jkg76g95k5ilkkkjhh8k261236896432i458hkk4i756kk2gg3i"
-		},
-		{
-			"key": "主角",
-			"name": "🥝主角┃qjAPP",
-			"type": 3,
-			"jar": "./jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
-			"api": "csp_Muou",
-			"playerType": 2,
-			"ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
-		},
-		{
-			"key": "永夜",
-			"name": "🥝永夜┃qjApp",
-			"type": 3,
-			"jar": "./jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
-			"api": "csp_Xdai",
-			"playerType": 2,
-			"ext": "7lj763gg402i7942503g9g9jhi57888hk5k6i953j08i6g7403154lg0g14k5k5748i00ih5ij4k96j26k4ik9j7g5g441k2g933220lk6k7j7gl76j1"
 		},
 		{
 			"key": "柠檬",
@@ -671,6 +644,24 @@
 			"api": "csp_Nmvod",
 			"playerType": 2,
 			"ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+		},
+		{
+			"key": "YY",
+			"name": "🥝YY┃qjApp",
+			"type": 3,
+			"jar": "./jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+			"api": "csp_Xdai",
+			"playerType": 2,
+			"ext": "7lj763gg402i7942503g9g9jhi57888hk5k6i953j08i6g7403154lg0g14k5k5748i00ih5ij4k96j26k4ik9j7g5g441k2g933220lk6k7j7gl76j1"
+		},
+		{
+			"key": "永夜",
+			"name": "🥝永夜┃qjApp",
+			"type": 3,
+			"jar": "./jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+			"api": "csp_Xdai",
+			"playerType": 2,
+			"ext": "7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"
 		},
 		{
 			"key": "厂长影视",

@@ -126,7 +126,7 @@
 			"key": "py_央视片库",
 			"name": "🌏cctv片库┃xspy",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;08590ae4fedd954fed6ae80eb46a621a",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;30f04c2d4d0d1110ceb0caf8cf33d659",
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/央视片库.py",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -136,7 +136,7 @@
 			"key": "猎手影视",
 			"name": "🔥猎手┃xs影视py",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;08590ae4fedd954fed6ae80eb46a621a",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;30f04c2d4d0d1110ceb0caf8cf33d659",
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/猎手影视.py",
 			"searchable": 1,
 			"changeable": 1,
@@ -146,7 +146,7 @@
 		{
 			"key": "py_饭团PY",
 			"name": "😢饭团┃PY",
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;08590ae4fedd954fed6ae80eb46a621a",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;30f04c2d4d0d1110ceb0caf8cf33d659",
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/饭团影视.py",
 			"filterable": 1,
 			"quickSearch": 1,
@@ -157,7 +157,7 @@
 			"key": "哔哩直播",
 			"name": "🔥哔哩┃xs直播py",
 			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;08590ae4fedd954fed6ae80eb46a621a",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;30f04c2d4d0d1110ceb0caf8cf33d659",
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/哔哩直播.py"
 		},
 		{
@@ -288,26 +288,8 @@
 			"api": "csp_LiteApple"
 		},
 		{
-			"key": "优质",
-			"name": "🌟优质┃qjApp",
-			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
-			"api": "csp_Xdai",
-			"playerType": 2,
-			"ext": "7lj763gg402i7942503g83j2g04i8090khhh8451ik902l6l53510hg9gi410i5607974jhk994283883904gk88l3k549h1g87i754kkjh3jhki2g8724k064g85411gigljkl3g620"
-		},
-		{
-			"key": "kafeiys",
-			"name": "🌟狂风┃qjAPP",
-			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
-			"api": "csp_Xdai",
-			"playerType": 2,
-			"ext": "7lj763gg402i7942422493i0g712948hk8k7i75hj59g6l73010l0lkhkj0h0g5i48i208k1il0gihj36j48k9j0g4gj04h6g233200hh2k593g471j368g73ill1i5ig9g790"
-		},
-		{
 			"key": "yizys",
-			"name": "🌟驿站┃qjApp",
+			"name": "🥝yizys┃qjApp",
 			"type": 3,
 			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
 			"api": "csp_Xdai",
@@ -315,26 +297,17 @@
 			"ext": "7lj763gg402i7942582ljiigh454jh9ig1ggi70ljhjk3977455343k5gi1508190gik13k1i01i949j614hkij5g0g404k3k9796k4gl2h3jhl527952jkg76g95k5ilkkkjhh8k261236896432i458hkk4i756kk2gg3i"
 		},
 		{
-			"key": "主角",
-			"name": "🌟主角┃qjAPP",
+			"key": "柠檬",
+			"name": "🥝柠檬┃qjApp",
 			"type": 3,
 			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
-			"api": "csp_Muou",
+			"api": "csp_Nmvod",
 			"playerType": 2,
-			"ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
+			"ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
 		},
 		{
-			"key": "柚子",
-			"name": "🌟柚子┃qjApp",
-			"type": 3,
-			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
-			"api": "csp_Xdai",
-			"playerType": 2,
-			"ext": "7lj763gg402i7942463j9j9jh7498j9gl6k6i952i1i66j6l46590lklll457g593li27lkkhj0gh0j56j48kkj2kglg4gi6g744207ihj9793jl77j368g03kh11k10g8"
-		},
-		{
-			"key": "永夜",
-			"name": "🌟永夜┃qjApp",
+			"key": "YY",
+			"name": "🥝YY┃qjApp",
 			"type": 3,
 			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
 			"api": "csp_Xdai",
@@ -342,13 +315,13 @@
 			"ext": "7lj763gg402i7942503g9g9jhi57888hk5k6i953j08i6g7403154lg0g14k5k5748i00ih5ij4k96j26k4ik9j7g5g441k2g933220lk6k7j7gl76j1"
 		},
 		{
-			"key": "柠檬",
-			"name": "🌟柠檬┃qjApp",
+			"key": "永夜",
+			"name": "🥝永夜┃qjApp",
 			"type": 3,
 			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/jars/qj8.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
-			"api": "csp_Nmvod",
+			"api": "csp_Xdai",
 			"playerType": 2,
-			"ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+			"ext": "7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"
 		},
 		{
 			"key": "三六零弹幕",
@@ -376,7 +349,7 @@
 			"key": "电影天堂",
 			"name": "🎈电影天堂┃采集",
 			"type": 1,
-			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
 			"api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
 			"searchable": 1,
 			"changeable": 1
@@ -385,7 +358,7 @@
 			"key": "天涯采集",
 			"name": "🎈天涯采集┃采集",
 			"type": 1,
-			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
 			"api": "http://tyyszy.com/api.php/provide/vod",
 			"searchable": 1,
 			"changeable": 1
@@ -394,7 +367,7 @@
 			"key": "maotai",
 			"name": "🎈茅台┃采集",
 			"type": 1,
-			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
 			"api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/",
 			"searchable": 1,
 			"changeable": 1
