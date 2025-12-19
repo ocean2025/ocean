@@ -14,30 +14,37 @@
 
 寰宇新闻,http://hls-pull-wicketpw.speedws.com/live/3cDvCNnDBtzjBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
 寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
+寰宇新闻,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
 
 TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
-TVBS新闻,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
-
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
+TVBS新闻,http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
+TVBS新闻,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
+
+TVBS新闻,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 TVBS新闻,http://rihou.cc:555/tv/[SX]tvbS新闻
 
 TVBS,http://hls-pull-wicketpw.speedws.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuoS5PTDMv.flv
-TVBS,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskkszx.flv
-
 TVBS,http://rihou.cc:555/tv/[Hk]tvbs闽南
+TVBS,http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
+TVBS,http://220.135.64.124:5050/li-4gtv-4gtv073/index.m3u8?proxy=true
+
+TVBS,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskkszx.flv
 TVBS,http://rihou.cc:555/tv/[Hk]tvbS南闽
 
 TVBS精采,http://hls-pull-wicketpw.speedws.com/live/0S5PTDYaU9Xvyn84tynbS8cp3vajDiOp3ZDqrurb4MEtTsSxi5.flv
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 
 中天新闻,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdDBtzjdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
 中天新闻,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
-中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
-
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
+中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
+
+中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新闻
 
 中旺电视,http://hls-pull-wicketpw.speedws.com/live/VKq6owrTFuSWWiTpsPJEKXhZN44BwXSkfDtG4xs3ODBtzjyqBd.flv
@@ -45,9 +52,15 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 
 中视新闻,http://hls-pull-wicketpw.speedws.com/live/hNsy4N2YkDBtzjwCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
 中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
+中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
 
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
+镜新闻,http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
+
+华视新闻,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
+华视新闻,http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
+华视新闻,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 莲花卫视,https://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
@@ -184,6 +197,7 @@ Astro iQIYI,http://hls-pull-wicketpw.speedws.com/live/FdxVjlPRQ9qiI1Y0CS5PTDwFmK
 Astro iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
 中视经典,http://hls-pull-wicketpw.speedws.com/live/zAthppEa5aMFZgQlNFyheRnIiY7fAr6L3vfRzS5PTDL4Wsyec7.flv
 中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
+中视经典,http://220.135.64.124:5050/li-4gtv-4gtv080/index.m3u8?proxy=true
 台视综合,http://hls-pull-wicketpw.speedws.com/live/1fAAda17L41fqlzFEVKaY5nPKNqvLwxkfwKIcIMBeBbKtYRRdqX.flv
 台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 八度空间,http://hls-pull-wicketpw.speedws.com/live/SEVQ0bRXMnAMbTbILeAhqwls4gDpwd0zWAf8afKXj0F625wjNc.flv
@@ -192,7 +206,6 @@ Astro iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 靖洋戏剧,http://hls-pull-wicketpw.speedws.com/live/kzhROyIqAycjNS5PTDFQLOuapdHlFHHyrTenKIiwObxuYQCNevM.flv
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
-靖天电影,http://hls-pull-wicketpw.speedws.com/live/GXPI9pS5PTDUOUD57kT4TKIwvg42mMQvSI7vZM0WIH8WcBfUHU.flv
 靖天电影,http://hls-pull-wicketpw.speedws.com/live/GXPI9pS5PTDUOUD57kT4TKIwvg42mMQvSI7vZM0WIH8WcBfUHU.flv
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 ROCK_Action,http://hls-pull-wicketpw.speedws.com/live/G1WNdbnkClg4c5eHhuq6kyUFJVhdgKKzF7vODS5PTDHTgBLBtO.flv
@@ -205,10 +218,13 @@ RTHK-31,http://hls-pull-wicketpw.speedws.com/live/LfN6YUZUCujLNYAAbTwZNcgmoY0FTL
 RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
 民视,http://hls-pull-wicketpw.speedws.com/live/ERadomiHhS5PTDVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+民视,http://220.135.64.124:5050/4gtv-4gtv002/index.m3u8?proxy=true
 民视影剧,http://hls-pull-wicketpw.speedws.com/live/z0Vp6Rj91d9fVMBBepN5tL45yIvw8S5PTDOTgHyml5y7Sy7uhf.flv
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
+民视影剧,http://220.135.64.124:5050/li-litv-ftv09/index.m3u8?proxy=true
 民视综艺,http://hls-pull-wicketpw.speedws.com/live/BS5PTDwPYRIqqXXJgXWP1gjAmfzcnR7j1Esvo9FdVssKd8VgDS.flv
 民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
+民视综艺,http://220.135.64.124:5050/li-4gtv-4gtv004/index.m3u8?proxy=true
 重温经典,https://cdn6.101.qzz.io/163189/cwjd
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
 
@@ -227,6 +243,7 @@ Astro欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
 非凡新闻,http://hls-pull-wicketpw.speedws.com/live/mQRsAQ2XS5PTDjlOQbPmgwbdL1yQtRKQNzseg7A179VgMYF7dn.flv
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
+非凡新闻,http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 
