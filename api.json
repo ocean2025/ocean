@@ -33,7 +33,7 @@
 		},
 		{
 			"key": "小苹果OK",
-			"name": "🍎苹果┃OK1080P",
+			"name": "🎈苹果┃OK1080P",
 			"type": 3,
 			"jar": "./jars/ok.jpg;md5;f451a24e8faf419df5085e5c6e9908cc",
 			"api": "csp_XpgGuard",
@@ -184,6 +184,40 @@
 			"quickSearch": 1,
 			"searchable": 1,
 			"type": 3
+		},
+		{
+			"key": "Gz360",
+			"name": "🍎瓜子┃Apple",
+			"type": 3,
+			"jar": "./jars/Gz360.jar;md5;1099f9cedab19f487ac8fc283d9ca447",
+			"api": "csp_Gz360",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "数字",
+			"name": "🍎数字┃Apple",
+			"type": 3,
+			"jar": "./jars/Bf.jar;md5;a36a8baf22f8805f08dd4e3a6d8de2b9",
+			"api": "csp_AppGet",
+			"quickSearch": 1,
+			"ext": {
+				"url": "http://app1-0-0.87333.cc",
+				"dataKey": "VwsHxkCViDXEExWa",
+				"dataIv": "VwsHxkCViDXEExWa"
+			}
+		},
+		{
+			"key": "闪影",
+			"name": "🍎闪影┃Apple",
+			"type": 3,
+			"jar": "./jars/Bf.jar;md5;a36a8baf22f8805f08dd4e3a6d8de2b9",
+			"api": "csp_AppYs",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
 		},
 		{
 			"key": "奇优影视",
@@ -1953,6 +1987,22 @@
 			"name": "live-txt",
 			"type": 0,
 			"url": "./lives/live.txt",
+			"ua": "okhttp/3",
+			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+			"logo": "https://logo.catvod.com/{name}.png"
+		},
+		{
+			"name": "小苹果线路直播",
+			"type": 0,
+			"url": "http://d.jsy777.top/box/tvzb9.txt",
+			"ua": "okhttp/5.0.0-alpha.14",
+			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+			"logo": "https://logo.catvod.com/{name}.png"
+		},
+		{
+			"name": "天微线路直播",
+			"type": 0,
+			"url": "http://rihou.cc:555/gggg.nzk",
 			"ua": "okhttp/3",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://logo.catvod.com/{name}.png"
