@@ -1,7 +1,8 @@
-港•澳•台,#genre#
+港澳台•资讯,#genre#
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://zb.xpgtv.net/ysp/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://23.237.228.133/live2/fenghuangzixun.m3u8
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
@@ -15,10 +16,12 @@
 
 寰宇新闻,http://hls-pull-wicketpw.speedws.com/live/3cDvCNnDBtzjBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
 寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
+寰宇新闻,http://zb.xpgtv.net/ysp/smt.php?id=huanyuxinwen_twn
 寰宇新闻,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
 
 TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
+TVBS新闻,http://zb.xpgtv.net/ysp/smt.php?id=tvbs_n
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS新闻,http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
 TVBS新闻,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
@@ -27,6 +30,7 @@ TVBS新闻,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 TVBS新闻,http://rihou.cc:555/tv/[SX]tvbS新闻
 
 TVBS,http://hls-pull-wicketpw.speedws.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuoS5PTDMv.flv
+TVBS,http://zb.xpgtv.net/ysp/smt.php?id=tvbs
 TVBS,http://23.237.228.133/live/chengshidianshi.m3u8
 TVBS,http://rihou.cc:555/tv/[Hk]tvbs闽南
 TVBS,http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
@@ -40,6 +44,7 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 
 中天新闻,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdDBtzjdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新闻,http://zb.xpgtv.net/ysp/smt.php?id=ctinews
 中天新闻,http://23.237.228.133/live2/zhongtianxinwen.m3u8
 中天新闻,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
@@ -49,6 +54,8 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 
 中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新闻
+
+中天亚洲台,http://zb.xpgtv.net/ysp/smt.php?id=ctiasia_twn
 
 中旺电视,http://hls-pull-wicketpw.speedws.com/live/VKq6owrTFuSWWiTpsPJEKXhZN44BwXSkfDtG4xs3ODBtzjyqBd.flv
 中旺电视,http://rihou.cc:555/tv/[Hk]中旺电视
@@ -61,9 +68,19 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
 镜新闻,http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
 
+民视新闻台,http://zb.xpgtv.net/ysp/smt.php?id=ftvnew_taiwan
+民视台湾台,http://zb.xpgtv.net/ysp/smt.php?id=ftvtaiwan_twn
+
+华视,http://zb.xpgtv.net/ysp/smt.php?id=ctshd_twn
+
 华视新闻,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
 华视新闻,http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
 华视新闻,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+
+东森新闻,http://zb.xpgtv.net/ysp/smt.php?id=ettvnews
+GTV八大第一台,http://zb.xpgtv.net/ysp/smt.php?id=badafirst
+三立台湾台,http://zb.xpgtv.net/ysp/smt.php?id=sanlitaiwan
+年代新闻,http://zb.xpgtv.net/ysp/smt.php?id=niandainews_twn
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 莲花卫视,https://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
@@ -72,6 +89,7 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
 凤凰中文,http://hls-pull-wicketpw.speedws.com/live/gwS5kbEwNmWObygXxkddls4gDYr0rZAqkFgLZRwPewJMVnfHy8.flv
+凤凰中文,http://zb.xpgtv.net/ysp/smt.php?id=phoenixtv_hd
 凤凰中文,http://23.237.228.133/live2/fenghuangzhongwen.m3u8
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
@@ -86,6 +104,7 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://hls-pull-wicketpw.speedws.com/live/dVyl2y8FNl6KDX7hesuxPOQwZUFY48H0jWLIRls4gDgUTYwb5D.flv
+凤凰香港,http://zb.xpgtv.net/ysp/smt.php?id=hkphoenix_twn
 
 凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
@@ -99,6 +118,47 @@ CCTV1,http://rihou.cc:555/tv/[Pd]央视综合
 CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 八度空间,http://rihou.cc:555/tv/[Pd]八度空间
 
+凤凰资讯,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd
+凤凰中文,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
+凤凰香港,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn
+八度空间,https://cdn9.163189.xyz/smt1.1.php?id=TV8
+
+凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
+凤凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
+八度空间,https://cdn9.163189.xyz/smt3.1.1.php?id=TV8
+
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
+
+凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
+八度空间,https://smt.1678520.xyz/smt3.2.1.php?id=TV8
+
+八度空间,http://rihou.cc:555/tv/[SX]八度空间
+八度空间,http://zb.xpgtv.net/ysp/smt.php?id=TV8
+CH8综合,http://zb.xpgtv.net/ysp/smt.php?id=Channel8HD
+CH8综合,http://zb.xpgtv.net/ysp/smt.php?id=Mewatch_ch8
+
+非凡新闻,http://hls-pull-wicketpw.speedws.com/live/mQRsAQ2XS5PTDjlOQbPmgwbdL1yQtRKQNzseg7A179VgMYF7dn.flv
+非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
+非凡新闻,http://zb.xpgtv.net/ysp/smt.php?id=feifannews_twn
+非凡新闻,http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
+
+无线新闻台,http://zb.xpgtv.net/ysp/smt.php?id=inews_twn
+HOY资讯台,http://zb.xpgtv.net/ysp/smt.php?id=hoycaijing_twn
+
+CGTN,http://zb.xpgtv.net/ysp/smt.php?id=CGTN
+CNN International,http://zb.xpgtv.net/ysp/smt.php?id=Cnn
+CNBC,http://zb.xpgtv.net/ysp/smt.php?id=cnbc_twn
+CNA,http://zb.xpgtv.net/ysp/smt.php?id=cna
+BBC World News,http://zb.xpgtv.net/ysp/smt.php?id=bbcnews_twn
+BBC World News,http://zb.xpgtv.net/ysp/smt.php?id=Bbcnews
+
+港澳台•影视,#genre#
 pₒₚc电影,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv
 
 pₒₚc电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
@@ -130,6 +190,7 @@ Now jelli,http://rihou.cc:555/tv/[Hk]Now紫金
 
 东森电影,http://hls-pull-wicketpw.speedws.com/live/bCfUAGCL9ukBOGb6dOi9TS5PTD9yKesDJWcvlAgBMV6uv722A6.flv
 东森电影,https://pull-vtt-1.videocc.net/live/11-fPHO0pIGaYYBkAJCvDT58Qty4vBeoqGUhqeq0TaMB9P.flv
+东森电影,http://zb.xpgtv.net/ysp/smt.php?id=ettvmovie
 
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 东森电影,http://rihou.cc:555/tv/[Hk]东森电影
@@ -140,37 +201,24 @@ Now jelli,http://rihou.cc:555/tv/[Hk]Now紫金
 cm+,http://hls-pull-wicketpw.speedws.com/live/iUJnBYKU9riuj2Jlibsdwb5m69FKfols4gDgNC19xXfFvAn4GP.flv
 cm+,http://rihou.cc:555/tv/[Hk]cm电影
 
-凤凰资讯,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd
-凤凰中文,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
-凤凰香港,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn
 天映频道,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
 天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
-八度空间,https://cdn9.163189.xyz/smt1.1.php?id=TV8
 
-凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
-凤凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
 天映频道,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
 天映经典,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
-八度空间,https://cdn9.163189.xyz/smt3.1.1.php?id=TV8
 
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
-八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
 
-凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
-凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 天映频道,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
-八度空间,https://smt.1678520.xyz/smt3.2.1.php?id=TV8
 
 天映频道,http://rihou.cc:555/tv/[SX]天映频道
 天映经典,http://rihou.cc:555/tv/[SX]天映经典
-八度空间,http://rihou.cc:555/tv/[SX]八度空间
+
+天映频道,http://zb.xpgtv.net/ysp/smt.php?id=Celestialindo
+天映经典,http://zb.xpgtv.net/ysp/smt.php?id=Celestial2
+天映频道,http://zb.xpgtv.net/ysp/smt.php?id=ctv18_twn
 
 邵氏电影,http://hls-pull-wicketpw.speedws.com/live/UfDkDElyf6NF7Osbvm6S5PTDh6zBtqHEXN0tPzXPcgHSvU4rZd.flv
 邵氏武侠,http://hls-pull-wicketpw.speedws.com/live/eA48Gpq1tbEPvXnrtlCRll3ENbHOS5PTDdRtOtcGBwEdCNmLrP.flv
@@ -194,21 +242,36 @@ cm+,http://rihou.cc:555/tv/[Hk]cm电影
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
 
+龙华戏剧,http://zb.xpgtv.net/ysp/smt.php?id=lunghuaxiju_twn
+龙华偶像,http://zb.xpgtv.net/ysp/smt.php?id=lunghuaidol_twn
+
 ELta综合,http://hls-pull-wicketpw.speedws.com/live/0WZkF5aXiP9zuzNrbyrESsIkaqfL0hkGpJS5PTDqFQ7poRQYW7.flv
 ELta综合,http://iptv.4666888.xyz/iptv2A.php?id=49
 Astro iQIYI,https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
 Astro iQIYI,http://rihou.cc:555/tv/[SX]Astro爱奇
 Astro iQIYI,http://hls-pull-wicketpw.speedws.com/live/FdxVjlPRQ9qiI1Y0CS5PTDwFmKaI4zzwvkrCGRExGiQipUZPaC.flv
 Astro iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
+Astro iQIYI,http://zb.xpgtv.net/ysp/smt.php?id=Qiyi
+TVBS欢乐台,http://zb.xpgtv.net/ysp/smt.php?id=tvbshuanle_twn
+中天娱乐,http://zb.xpgtv.net/ysp/smt.php?id=ctient
+中天综合,http://zb.xpgtv.net/ysp/smt.php?id=ctizhonghe
 中视经典,http://hls-pull-wicketpw.speedws.com/live/zAthppEa5aMFZgQlNFyheRnIiY7fAr6L3vfRzS5PTDL4Wsyec7.flv
 中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
 中视经典,http://220.135.64.124:5050/li-4gtv-4gtv080/index.m3u8?proxy=true
+中视,http://zb.xpgtv.net/ysp/smt.php?id=zhongshihd_twn
 台视综合,http://hls-pull-wicketpw.speedws.com/live/1fAAda17L41fqlzFEVKaY5nPKNqvLwxkfwKIcIMBeBbKtYRRdqX.flv
 台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
+台视综合,http://zb.xpgtv.net/ysp/smt.php?id=ttvzhonghe
+GTV八大综合台,http://zb.xpgtv.net/ysp/smt.php?id=badazhonghe
+GTV八大戏剧台,http://zb.xpgtv.net/ysp/smt.php?id=badadrama
+三立戏剧台,http://zb.xpgtv.net/ysp/smt.php?id=sanlixiju_twn
+东森综合,http://zb.xpgtv.net/ysp/smt.php?id=ettvzhonghe
+东森戏剧,http://zb.xpgtv.net/ysp/smt.php?id=ettvdrama
 八度空间,http://hls-pull-wicketpw.speedws.com/live/SEVQ0bRXMnAMbTbILeAhqwls4gDpwd0zWAf8afKXj0F625wjNc.flv
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
 澳视澳门,http://hls-pull-wicketpw.speedws.com/live/QXMnr77reTmmbWiTQjlNFc2rcUOawcB5vQls4gDtD8Z686YrsM.flv
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 靖洋戏剧,http://hls-pull-wicketpw.speedws.com/live/kzhROyIqAycjNS5PTDFQLOuapdHlFHHyrTenKIiwObxuYQCNevM.flv
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
 靖天电影,http://hls-pull-wicketpw.speedws.com/live/GXPI9pS5PTDUOUD57kT4TKIwvg42mMQvSI7vZM0WIH8WcBfUHU.flv
@@ -221,8 +284,10 @@ ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
 有线综合,http://iptv.4666888.xyz/iptv2A.php?id=35
 RTHK-31,http://hls-pull-wicketpw.speedws.com/live/LfN6YUZUCujLNYAAbTwZNcgmoY0FTLE4wnkls4gD3nVtHcTXws.flv
 RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
+RTHK-31,http://zb.xpgtv.net/ysp/smt.php?id=rhk31_twn
 民视,http://hls-pull-wicketpw.speedws.com/live/ERadomiHhS5PTDVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+民视,http://zb.xpgtv.net/ysp/smt.php?id=ftvhd_taiwan
 民视,http://220.135.64.124:5050/4gtv-4gtv002/index.m3u8?proxy=true
 民视影剧,http://hls-pull-wicketpw.speedws.com/live/z0Vp6Rj91d9fVMBBepN5tL45yIvw8S5PTDOTgHyml5y7Sy7uhf.flv
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
@@ -238,19 +303,63 @@ Astro AEC,https://smt.1678520.xyz/smt3.2.1.php?id=AEC
 Astro QJ,https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
 Astro欢喜台,https://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 
+Astro AOD,http://zb.xpgtv.net/ysp/smt.php?id=Aodhd
+Astro AEC,http://zb.xpgtv.net/ysp/smt.php?id=AEC
+Astro QJ,http://zb.xpgtv.net/ysp/smt.php?id=Quanjia
+Astro MTV,http://zb.xpgtv.net/ysp/smt.php?id=AstroMTV
+
 Astro AOD,http://rihou.cc:555/tv/[SX]Astroaod
 Astro AEC,http://rihou.cc:555/tv/[SX]AstroAec
 Astro QJ,http://rihou.cc:555/tv/[SX]Astro_QJ
 Astro欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 
-美亚电影,http://rihou.cc:555/tv/[Bx]美亚电影
+美亚电影台,http://zb.xpgtv.net/ysp/smt.php?id=meiyamovie_twn
+美亚电影台,http://rihou.cc:555/tv/[Bx]美亚电影
+
 美亚电影,http://hls-pull-wicketpw.speedws.com/live/IcmEedVfQlHHUXtdsqvDLaKLpE639j7xCDHMM7lsS5PTDJ9OQm.flv
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
-非凡新闻,http://hls-pull-wicketpw.speedws.com/live/mQRsAQ2XS5PTDjlOQbPmgwbdL1yQtRKQNzseg7A179VgMYF7dn.flv
-非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
-非凡新闻,http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
-澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+
+CCTV-6,http://zb.xpgtv.net/ysp/smt.php?id=cctv6
+
+龙详时代,http://zb.xpgtv.net/ysp/smt.php?id=lungxiangtime_twn
+
+纬来综合台,http://zb.xpgtv.net/ysp/smt.php?id=videolandzonghe
+纬来日本台,http://zb.xpgtv.net/ysp/smt.php?id=videolandjapan
+纬来电影台,http://zb.xpgtv.net/ysp/smt.php?id=videolandmovie
+纬来体育台,http://zb.xpgtv.net/ysp/smt.php?id=videolandsport
+爱尔达体育2台,http://zb.xpgtv.net/ysp/smt.php?id=eltasport2_twn
+爱尔达体育3台,http://zb.xpgtv.net/ysp/smt.php?id=eltasport3_twn
+
+HBO,http://zb.xpgtv.net/ysp/smt.php?id=hbohd_twn
+Hollywood,http://zb.xpgtv.net/ysp/smt.php?id=hollywoodmovies_twn
+CINEMAX,http://zb.xpgtv.net/ysp/smt.php?id=cinemax_twn
+AXN,http://zb.xpgtv.net/ysp/smt.php?id=axn_twn
+TLC Asia,http://zb.xpgtv.net/ysp/smt.php?id=tlc_twn
+年代MUCH,http://zb.xpgtv.net/ysp/smt.php?id=ettvwestern
+Star Movies HD,http://zb.xpgtv.net/ysp/smt.php?id=starmovies_raj
+HBO Family,http://zb.xpgtv.net/ysp/smt.php?id=Hbofamily
+Warner TV,http://zb.xpgtv.net/ysp/smt.php?id=WarnerTV
+HBO Signature,http://zb.xpgtv.net/ysp/smt.php?id=Hbosignature
+HBO Hits,http://zb.xpgtv.net/ysp/smt.php?id=Hbohitshd
+Thrill,http://zb.xpgtv.net/ysp/smt.php?id=Thrill
+TvN,http://zb.xpgtv.net/ysp/smt.php?id=TVN
+
+动物星球,http://zb.xpgtv.net/ysp/smt.php?id=animalplanet_twn
+Discovery,http://zb.xpgtv.net/ysp/smt.php?id=discoverytwn_twn
+CI,http://zb.xpgtv.net/ysp/smt.php?id=ci_twn
+博斯无限,http://zb.xpgtv.net/ysp/smt.php?id=bosiunlimited_twn
+EYETV旅游,http://zb.xpgtv.net/ysp/smt.php?id=eyetvtravel_twn
+EYETV戏剧,http://zb.xpgtv.net/ysp/smt.php?id=eyetvxiju_twn
+Asia Travel,http://zb.xpgtv.net/ysp/smt.php?id=asiatravel_twn
+FTV,http://zb.xpgtv.net/ysp/smt.php?id=fashiontv_twn
+BBC Earth,http://zb.xpgtv.net/ysp/smt.php?id=bbcearth_twn
+BBC Lifestyle,http://zb.xpgtv.net/ysp/smt.php?id=bbclifestyle_twn
+
+靖天卡通台,http://zb.xpgtv.net/ysp/smt.php?id=jingtiancartoon_twn
+Yoyo,http://zb.xpgtv.net/ysp/smt.php?id=yoyo_twn
+Momo,http://zb.xpgtv.net/ysp/smt.php?id=momo1_twn
+Cartoon Network,http://zb.xpgtv.net/ysp/smt.php?id=Cn
 
 央视IPV6,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
@@ -580,44 +689,6 @@ CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 青海卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
 吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 黑龙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
-
-北京频道IPV6,#genre#
-北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
-北京体育,http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
-北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
-北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
-北京纪实,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
-
-江苏频道,#genre#
-江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2983110475_-1591539074/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8?icpid=3&RTS=1668597777&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-徐州新闻综合,http://z.b.bkpcp.top/m.php?id=xzxwzh
-徐州公共频道,http://iptv.666230.xyz/iptv/jsyd.php/xzgg
-
-徐州新闻综合,http://stream3.huaihai.tv/xwzh1t/playlist.m3u8?_upt=de0514c61700072045
-徐州新闻综合,http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
-徐州经济生活,http://stream3.huaihai.tv/xz2t/sd/live.m3u8
-徐州公共频道,http://stream3.huaihai.tv/xz4t/sd/live.m3u8
-徐州文艺影视,http://stream3.huaihai.tv/xz3t/sd/live.m3u8
-
-东方财经,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfcj_4000.m3u8
-东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
-第一财经,https://mgtv.ottiptv.cc/migu/608780988.m3u8?migutoken=0c7df30d952e5d120406d3eb259cd5e26ec6aa86037008719de147cc6fbc34e877c3e3d7b9617267f35521bdddc4c5995e6fc0583816a5df1bfe19814868525e736733676761a4b2d4db618e84
-第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2025091908013429b62173a5e24f8ea1f310d5ed32e792&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6c828d22c926cc843970f3f1c7455bea&ddCalcu=a6eceb815285804d72c21cf932f60c7c9834
-第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
-
-上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
-金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
-
-河南频道,#genre#
-河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1669700385&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-梨园频道,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ly_4000.m3u8
-武术世界,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/wssj_4000.m3u8
-文物宝库,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/wwbk_4000.m3u8
-
-梨园频道,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/ly_4000.m3u8
-武术世界,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/wssj_4000.m3u8
-文物宝库,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/wwbk_4000.m3u8
 
 电影轮播,#genre#
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
