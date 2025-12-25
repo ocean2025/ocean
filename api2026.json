@@ -371,6 +371,15 @@
 			}
 		},
 		{
+			"key": "极速资源",
+			"name": "🎈极速资源┃采集",
+			"type": 1,
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
+			"api": "https://jszyapi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
 			"key": "豆瓣采集资源",
 			"name": "🎈豆瓣┃蜂蜜",
 			"type": 1,
@@ -435,6 +444,24 @@
 			"name": "🎈非凡┃蜂蜜",
 			"type": 1,
 			"api": "http://cj.ffzyapi.com/api.php/provide/vod",
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "光速资源",
+			"name": "🎈光速资源┃采集",
+			"type": 1,
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
+			"api": "http://api.guangsuapi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "7ced0073619101d397b5c86fc3578ed4",
+			"name": "🎈火狐2K┃采集",
+			"type": 1,
+			"jar": "https://raw.githubusercontent.com/ocean2025/ocean/main/custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
+			"api": "https://hhzyapi.com/api.php/provide/vod/",
 			"searchable": 1,
 			"changeable": 1
 		},
