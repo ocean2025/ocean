@@ -207,7 +207,7 @@ http://rihou.cc:555/tv/[SX]tvbS新闻
 http://zb.xpgtv.net/ysp/smt.php?id=hoycaijing_twn
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="港澳台•资讯",CGTN
 http://zb.xpgtv.net/ysp/smt.php?id=CGTN
-#EXTINF:-1 tvg-name="TAIWAN" tvg-logo="https://logo.catvod.com/台视.png" group-title="港澳台•影视",TAIWAN
+#EXTINF:-1 tvg-name="TAIWAN" tvg-logo="https://logo.catvod.com/台视.png" group-title="港澳台•资讯",TAIWAN
 http://rihou.cc:555/tv/[Hk]闽南综合
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="https://isus.cc/share/logo/CNN-News.png" group-title="港澳台•资讯",CNN International
 http://zb.xpgtv.net/ysp/smt.php?id=Cnn
