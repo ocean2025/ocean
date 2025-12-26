@@ -199,6 +199,10 @@ http://iptv.4666888.xyz/iptv2A.php?id=44
 http://zb.xpgtv.net/ysp/smt.php?id=feifannews_twn
 #EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://logo.catvod.com/非凡新闻.png" group-title="港澳台•资讯",非凡新闻
 http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://logo.catvod.com/无线新闻台.png" group-title="港澳台•资讯",无线新闻台
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://logo.catvod.com/无线新闻台.png" group-title="港澳台•资讯",无线新闻台
+https://bxtv.3a.ink/mytv/mytvts3.333.php?id=wxxw
 #EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://logo.catvod.com/娱乐新闻台.png" group-title="港澳台•资讯",娱乐新闻台
 https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 #EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://logo.catvod.com/娱乐新闻台.png" group-title="港澳台•资讯",娱乐新闻台
@@ -231,6 +235,24 @@ https://bxtv.3a.ink/mytv/mytvts3.333.php?id=popc
 http://rihou.cc:555/tv/[Bx]pₒₚc电影
 #EXTINF:-1 tvg-name="pₒₚc电影" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/popc.png" group-title="港澳台•影视",pₒₚc电影
 http://rihou.cc:555/tv/[Hk]pₒₚc电影
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
+http://zb.xpgtv.net/ysp/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
+http://bxtv.3a.ink/api.php?id=meiya
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
+https://bxtv.3a.ink/mytv/mytvts3.333.php?id=meiya
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
+http://rihou.cc:555/tv/[Bx]美亚电影
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
+http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
+https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
+http://rihou.cc:555/tv/[SX]美亚电影
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影台
+http://iptv.4666888.xyz/iptv2A.php?id=30
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="港澳台•影视",CCTV-6
+http://zb.xpgtv.net/ysp/smt.php?id=cctv6
 #EXTINF:-1 tvg-name="Now星影" tvg-logo="https://isus.cc/share/logo/Now-星影台.png" group-title="港澳台•影视",Now星影
 http://rihou.cc:555/tv/[Hk]Now星影
 #EXTINF:-1 tvg-name="Now星影" tvg-logo="https://isus.cc/share/logo/Now-星影台.png" group-title="港澳台•影视",Now星影
@@ -421,6 +443,10 @@ http://220.135.64.124:5050/li-4gtv-4gtv004/index.m3u8?proxy=true
 https://cdn6.101.qzz.io/163189/cwjd
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://logo.catvod.com/重温经典.png" group-title="港澳台•影视",重温经典
 http://rihou.cc:555/tv/[Pd]重温经典
+#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://logo.catvod.com/千禧经典台.png" group-title="港澳台•影视",千禧经典台
+http://bxtv.3a.ink/api.php?id=qxjd
+#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://logo.catvod.com/千禧经典台.png" group-title="港澳台•影视",千禧经典台
+https://bxtv.3a.ink/mytv/mytvts3.333.php?id=qxjd
 #EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/Astro%20AOD%20352.png" group-title="港澳台•影视",Astro AOD
 https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
 #EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/Astro%20AEC.png" group-title="港澳台•影视",Astro AEC
@@ -445,24 +471,6 @@ http://rihou.cc:555/tv/[SX]AstroAec
 http://rihou.cc:555/tv/[SX]Astro_QJ
 #EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/Astro%20%E6%AC%A2%E5%96%9C%E5%8F%B0.png" group-title="港澳台•影视",Astro欢喜台
 http://rihou.cc:555/tv/[SX]Astro欢喜
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
-http://zb.xpgtv.net/ysp/smt.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
-http://bxtv.3a.ink/api.php?id=meiya
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
-https://bxtv.3a.ink/mytv/mytvts3.333.php?id=meiya
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
-http://rihou.cc:555/tv/[Bx]美亚电影
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
-http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
-https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
-http://rihou.cc:555/tv/[SX]美亚电影
-#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影台
-http://iptv.4666888.xyz/iptv2A.php?id=30
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="港澳台•影视",CCTV-6
-http://zb.xpgtv.net/ysp/smt.php?id=cctv6
 #EXTINF:-1 tvg-name="龙详时代" tvg-logo="https://logo.catvod.com/龙祥时代.png" group-title="港澳台•影视",龙详时代
 http://zb.xpgtv.net/ysp/smt.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="EYETV旅游" tvg-logo="https://logo.catvod.com/EYETV旅游.png" group-title="港澳台•影视",EYETV旅游
