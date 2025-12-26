@@ -6,7 +6,8 @@
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-
+凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
+凤凰资讯,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhzx
 凤凰资讯,http://rihou.cc:555/tv/[Bx]凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
@@ -21,16 +22,12 @@ TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新闻,http://zb.xpgtv.net/ysp/smt.php?id=tvbs_n
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS新闻,http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
-TVBS新闻,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
-
-TVBS新闻,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
-TVBS新闻,http://rihou.cc:555/tv/[SX]tvbS新闻
+TVBS新闻,http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprVKsZ60CHqgjYOaOYV5JSmoP2.flv
 
 TVBS,http://zb.xpgtv.net/ysp/smt.php?id=tvbs
-TVBS,http://hls-pull-wicketpw.speedws.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuoS5PTDMv.flv
 TVBS,http://rihou.cc:555/tv/[Hk]tvbs闽南
+TVBS,http://hls-pull-wicketpw.speedws.com/live/XhyG6NWlxFUuLXA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuozFwNyMv.flv
 TVBS,http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
-TVBS,http://220.135.64.124:5050/li-4gtv-4gtv073/index.m3u8?proxy=true
 
 TVBS,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskkszx.flv
 TVBS,http://rihou.cc:555/tv/[Hk]tvbS南闽
@@ -39,24 +36,16 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 
 中天新闻,http://zb.xpgtv.net/ysp/smt.php?id=ctinews
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+中天新闻,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=ztxw
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
-中天新闻,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdDBtzjdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
-中天新闻,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
-
-中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
-中天新闻,http://rihou.cc:555/tv/[Hk]中天新闻
+中天新闻,http://hls-pull-wicketpw.speedws.com/live/ogVoQHdDBtzjdsH4o82zyFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-19.m3u8
 
 中天亚洲台,http://zb.xpgtv.net/ysp/smt.php?id=ctiasia_twn
-
-中旺电视,http://hls-pull-wicketpw.speedws.com/live/VKq6owrTFuSWWiTpsPJEKXhZN44BwXSkfDtG4xs3ODBtzjyqBd.flv
-中旺电视,http://rihou.cc:555/tv/[Hk]中旺电视
-
-中视新闻,http://hls-pull-wicketpw.speedws.com/live/hNsy4N2YkDBtzjwCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
-中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
-中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
 
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
@@ -73,6 +62,9 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 
 东森新闻,http://zb.xpgtv.net/ysp/smt.php?id=ettvnews
 年代新闻,http://zb.xpgtv.net/ysp/smt.php?id=niandainews_twn
+中旺电视,http://rihou.cc:555/tv/[Hk]中旺电视
+中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
+中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 莲花卫视,https://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
@@ -85,6 +77,8 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 
+凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
+凤凰中文,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhzw
 凤凰中文,http://rihou.cc:555/tv/[Bx]凤凰中文
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
@@ -94,6 +88,8 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://zb.xpgtv.net/ysp/smt.php?id=hkphoenix_twn
 
+凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+凤凰香港,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhhk
 凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
@@ -135,9 +131,12 @@ CH8综合,http://zb.xpgtv.net/ysp/smt.php?id=Mewatch_ch8
 非凡新闻,http://zb.xpgtv.net/ysp/smt.php?id=feifannews_twn
 非凡新闻,http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
 
+娱乐新闻台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+娱乐新闻台,http://rihou.cc:555/tv/[SX]tvbS新闻
 HOY资讯台,http://zb.xpgtv.net/ysp/smt.php?id=hoycaijing_twn
 
 CGTN,http://zb.xpgtv.net/ysp/smt.php?id=CGTN
+TAIWAN,http://rihou.cc:555/tv/[Hk]闽南综合
 CNN International,http://zb.xpgtv.net/ysp/smt.php?id=Cnn
 CNBC,http://zb.xpgtv.net/ysp/smt.php?id=cnbc_twn
 CNA,http://zb.xpgtv.net/ysp/smt.php?id=cna
@@ -148,24 +147,24 @@ BBC World News,http://zb.xpgtv.net/ysp/smt.php?id=Bbcnews
 pₒₚc电影,http://tl.061833.xyz/tl/popc
 pₒₚc电影,http://tl.061833.xyz/tl/popc
 
-pₒₚc电影,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoils4gDAFMTOK5qG1aVgIFlFV4ZW.flv
-
+pₒₚc电影,http://bxtv.3a.ink/api.php?id=popc
+pₒₚc电影,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=popc
 pₒₚc电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
 pₒₚc电影,http://rihou.cc:555/tv/[Hk]pₒₚc电影
 
+Now星影,http://rihou.cc:555/tv/[Hk]Now星影
+Now星影,http://rihou.cc:555/tv/[Bx]Now星影
+
 Now星影,http://23.237.228.133/live2/xingyingtai.m3u8
-Now星影,http://hls-pull-wicketpw.speedws.com/live/yU8AAUm9MpL5qwiSyewAkms5LtKjQp9G9LEk5mnls4gD1EgdRk.flv
+Now星影,https://livepull2.longone.com.cn/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagnowkks0086.flv
 Now星影,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
 
-Now星影,http://rihou.cc:555/tv/[Bx]Now星影
-Now星影,http://rihou.cc:555/tv/[Hk]Now星影
+Now爆谷台,http://rihou.cc:555/tv/[Hk]Now爆谷
+Now爆谷台,http://rihou.cc:555/tv/[Bx]Now爆谷
 
 Now爆谷台,http://23.237.228.133/live2/baogutai.m3u8
-Now爆谷台,http://hls-pull-wicketpw.speedws.com/live/9kFYlsTAu8ScEZ4p2mWrkrHXa1Mu5yhBJ4DdZuc4Emzls4gDfF.flv
+Now爆谷台,https://livepull2.longone.com.cn/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagnowkks0085.flv
 Now爆谷台,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
-
-Now爆谷台,http://rihou.cc:555/tv/[Bx]Now爆谷
-Now爆谷台,http://rihou.cc:555/tv/[Hk]Now爆谷
 
 Now华剧台,http://23.237.228.133/live2/nowhuajv.m3u8
 Now华剧台,http://hls-pull-wicketpw.speedws.com/live/T54mtfnV46CgYjlYrvgcEKyUDBtzjb1daenJuHJ233JV8upmKZ.flv
@@ -218,12 +217,23 @@ cm+,http://rihou.cc:555/tv/[Hk]cm电影
 邵氏动作,http://rihou.cc:555/tv/[FY]邵氏动作
 邵氏喜剧,http://rihou.cc:555/tv/[FY]邵氏喜剧
 
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
-龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
-
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华戏剧,http://zb.xpgtv.net/ysp/smt.php?id=lunghuaxiju_twn
+龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
+龙华经典,https://cdn8.163189.xyz/163189/lhjd
+龙华洋片,https://cdn8.163189.xyz/163189/lhyp
 龙华偶像,http://zb.xpgtv.net/ysp/smt.php?id=lunghuaidol_twn
+龙华偶像,https://cdn8.163189.xyz/163189/lhox
+龙华日韩,https://cdn8.163189.xyz/163189/lhrh
+
+龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
+龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华洋片,http://rihou.cc:555/tv/[Pd]龙华洋片
+龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
+
 
 ELta综合,http://iptv.4666888.xyz/iptv2A.php?id=49
 Astro iQIYI,https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
@@ -282,8 +292,12 @@ Astro QJ,http://rihou.cc:555/tv/[SX]Astro_QJ
 Astro欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 
 美亚电影,http://zb.xpgtv.net/ysp/smt.php?id=meiyamovie_twn
+美亚电影,http://bxtv.3a.ink/api.php?id=meiya
+美亚电影,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=meiya
 美亚电影,http://rihou.cc:555/tv/[Bx]美亚电影
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+美亚电影,http://rihou.cc:555/tv/[SX]美亚电影
 
 美亚电影台,http://iptv.4666888.xyz/iptv2A.php?id=30
 
@@ -321,6 +335,8 @@ BBC Earth,http://zb.xpgtv.net/ysp/smt.php?id=bbcearth_twn
 BBC Lifestyle,http://zb.xpgtv.net/ysp/smt.php?id=bbclifestyle_twn
 
 靖天卡通台,http://zb.xpgtv.net/ysp/smt.php?id=jingtiancartoon_twn
+龙华卡通,https://cdn8.163189.xyz/163189/lhkt
+龙华卡通,http://rihou.cc:555/tv/[Pd]龙华卡通
 Yoyo,http://zb.xpgtv.net/ysp/smt.php?id=yoyo_twn
 Momo,http://zb.xpgtv.net/ysp/smt.php?id=momo1_twn
 HBO Family,http://zb.xpgtv.net/ysp/smt.php?id=Hbofamily
@@ -466,6 +482,14 @@ CCTV4,http://iptv.4666888.xyz/iptv2A.php?id=10
 CCTV13,http://iptv.4666888.xyz/iptv2A.php?id=11
 CCTV14,http://iptv.4666888.xyz/iptv2A.php?id=12
 CCTV16,http://iptv.4666888.xyz/iptv2A.php?id=32
+
+CCTV1,http://bxtv.3a.ink/api.php?id=cctv1
+CCTV2,http://bxtv.3a.ink/api.php?id=cctv2
+CCTV3,http://bxtv.3a.ink/api.php?id=cctv3
+
+CCTV1,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv1
+CCTV2,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv2
+CCTV3,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv3
 
 CCTV1,http://j.s.bkpcp.top/jj/cctv1
 CCTV2,http://j.s.bkpcp.top/jj/cctv2
