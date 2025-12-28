@@ -91,18 +91,30 @@ http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
 http://zb.xpgtv.net/ysp/smt.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://logo.catvod.com/民视台湾台.png" group-title="港澳台•资讯",民视台湾台
 http://zb.xpgtv.net/ysp/smt.php?id=ftvtaiwan_twn
+#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://logo.catvod.com/年代新闻.png" group-title="港澳台•资讯",年代新闻
+http://zb.xpgtv.net/ysp/smt.php?id=niandainews_twn
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://logo.catvod.com/华视.png" group-title="港澳台•资讯",华视
 http://zb.xpgtv.net/ysp/smt.php?id=ctshd_twn
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="港澳台•资讯",东森新闻
 http://zb.xpgtv.net/ysp/smt.php?id=ettvnews
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://logo.catvod.com/年代新闻.png" group-title="港澳台•资讯",年代新闻
-http://zb.xpgtv.net/ysp/smt.php?id=niandainews_twn
 #EXTINF:-1 tvg-name="中旺电视" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/ZhongwangTV.png" group-title="港澳台•资讯",中旺电视
 http://rihou.cc:555/tv/[Hk]中旺电视
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="港澳台•资讯",中视新闻
 http://rihou.cc:555/tv/[Hk]中视新闻
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="港澳台•资讯",中视新闻
 http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="港澳台•资讯",CCTV1
+https://cdn6.101.qzz.io/163189/cctv1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="港澳台•资讯",CCTV1
+http://rihou.cc:555/tv/[Pd]央视综合
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="港澳台•资讯",CCTV4
+http://iptv.4666888.xyz/iptv2A.php?id=10
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="港澳台•资讯",CCTV4
+http://go.bkpcp.top/mg/cctv4
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="港澳台•资讯",CCTV13
+http://iptv.4666888.xyz/iptv2A.php?id=11
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="港澳台•资讯",CCTV13
+http://go.bkpcp.top/mg/cctv13
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://logo.catvod.com/香港卫视.png" group-title="港澳台•资讯",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="莲花卫视" tvg-logo="https://logo.catvod.com/莲花卫视.png" group-title="港澳台•资讯",莲花卫视
@@ -141,14 +153,10 @@ http://rihou.cc:555/tv/[Bx]凤凰香港
 http://rihou.cc:555/tv/[Pd]凤凰香港
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="港澳台•资讯",凤凰香港
 http://rihou.cc:555/tv/[PL]凤凰香港
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="港澳台•资讯",CCTV1
-https://cdn6.101.qzz.io/163189/cctv1
 #EXTINF:-1 tvg-name="CH8综合" tvg-logo="https://isus.cc/share/logo/MEWATCH-8.png" group-title="港澳台•资讯",CH8综合
 https://cdn6.101.qzz.io/163189/ch8
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/八度空间.png" group-title="港澳台•资讯",八度空间
 https://cdn6.101.qzz.io/163189/8tv
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="港澳台•资讯",CCTV1
-http://rihou.cc:555/tv/[Pd]央视综合
 #EXTINF:-1 tvg-name="CH8综合" tvg-logo="https://isus.cc/share/logo/MEWATCH-8.png" group-title="港澳台•资讯",CH8综合
 http://rihou.cc:555/tv/[Pd]CH8综合
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/八度空间.png" group-title="港澳台•资讯",八度空间
@@ -236,23 +244,61 @@ http://rihou.cc:555/tv/[Bx]pₒₚc电影
 #EXTINF:-1 tvg-name="pₒₚc电影" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/popc.png" group-title="港澳台•影视",pₒₚc电影
 http://rihou.cc:555/tv/[Hk]pₒₚc电影
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
-http://zb.xpgtv.net/ysp/smt.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
 http://bxtv.3a.ink/api.php?id=meiya
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
 https://bxtv.3a.ink/mytv/mytvts3.333.php?id=meiya
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
 http://rihou.cc:555/tv/[Bx]美亚电影
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
-http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
-https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
-http://rihou.cc:555/tv/[SX]美亚电影
-#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影台
+#EXTINF:-1 tvg-name="美亚电影台HD" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影台HD
 http://iptv.4666888.xyz/iptv2A.php?id=30
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="港澳台•影视",CCTV-6
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影台
+http://zb.xpgtv.net/ysp/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影台
+http://tl.061833.xyz/tl/null-5
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影台
+http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影台
+https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影台
+http://rihou.cc:555/tv/[SX]美亚电影
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
+https://cdn9.163189.xyz/smt1.1.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典
+https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
+https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典
+https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
+http://php.jdshipin.com:8880/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典
+http://php.jdshipin.com:8880/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
+https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典
+https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
+http://rihou.cc:555/tv/[SX]天映频道
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典
+http://rihou.cc:555/tv/[SX]天映经典
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
+http://zb.xpgtv.net/ysp/smt.php?id=ctv18_twn
+#EXTINF:-1 tvg-name="天映电影频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映电影频道
+http://zb.xpgtv.net/ysp/smt.php?id=Celestialindo
+#EXTINF:-1 tvg-name="天映经典CCM" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典CCM
+http://zb.xpgtv.net/ysp/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="天映经典CCM" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典CCM
+http://tl.061833.xyz/tl/null-1
+#EXTINF:-1 tvg-name="中国电影频道" tvg-logo="https://logo.catvod.com/中国电影频道.png" group-title="港澳台•影视",中国电影频道
+http://tl.061833.xyz/tl/null-6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="港澳台•影视",CCTV6
 http://zb.xpgtv.net/ysp/smt.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="港澳台•影视",CCTV6
+http://go.bkpcp.top/mg/cctv6
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="港澳台•影视",CCTV8
+http://23.237.228.134/live5/CCTV8.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="港澳台•影视",CCTV8
+http://go.bkpcp.top/mg/cctv8
 #EXTINF:-1 tvg-name="Now星影" tvg-logo="https://isus.cc/share/logo/Now-星影台.png" group-title="港澳台•影视",Now星影
 http://rihou.cc:555/tv/[Hk]Now星影
 #EXTINF:-1 tvg-name="Now星影" tvg-logo="https://isus.cc/share/logo/Now-星影台.png" group-title="港澳台•影视",Now星影
@@ -291,32 +337,6 @@ http://zb.xpgtv.net/ysp/smt.php?id=ettvmovie
 http://hls-pull-wicketpw.speedws.com/live/HZvZxcheOtbls4gDYtaTNRcYeQhgGTeXNBxInESYlFHHleooST.flv
 #EXTINF:-1 tvg-name="黄金华剧" tvg-logo="https://isus.cc/share/logo/星視界/TVB 黄金华剧台.png" group-title="港澳台•影视",黄金华剧
 http://rihou.cc:555/tv/[Hk]黄金华剧
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
-https://cdn9.163189.xyz/smt1.1.php?id=Celestial
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典
-https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
-https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典
-https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
-http://php.jdshipin.com:8880/smt.php?id=Celestial
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典
-http://php.jdshipin.com:8880/smt.php?id=Celestial2
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
-https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典
-https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
-http://rihou.cc:555/tv/[SX]天映频道
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典
-http://rihou.cc:555/tv/[SX]天映经典
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典
-http://zb.xpgtv.net/ysp/smt.php?id=Celestial2
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
-http://zb.xpgtv.net/ysp/smt.php?id=ctv18_twn
-#EXTINF:-1 tvg-name="天映电影频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映电影频道
-http://zb.xpgtv.net/ysp/smt.php?id=Celestialindo
 #EXTINF:-1 tvg-name="邵氏电影" tvg-logo="https://logo.catvod.com/邵氏电影.png" group-title="港澳台•影视",邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="邵氏武侠" tvg-logo="https://logo.catvod.com/邵氏电影.png" group-title="港澳台•影视",邵氏武侠
@@ -447,6 +467,14 @@ http://rihou.cc:555/tv/[Pd]重温经典
 http://bxtv.3a.ink/api.php?id=qxjd
 #EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://logo.catvod.com/千禧经典台.png" group-title="港澳台•影视",千禧经典台
 https://bxtv.3a.ink/mytv/mytvts3.333.php?id=qxjd
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="港澳台•影视",CCTV3
+http://iptv.4666888.xyz/iptv2A.php?id=9
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="港澳台•影视",CCTV3
+http://23.237.228.134/live5/CCTV3.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="港澳台•影视",CCTV15
+http://go.bkpcp.top/mg/cctv15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="港澳台•影视",CCTV15
+http://23.237.228.134/live3/CCTV15.m3u8
 #EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/Astro%20AOD%20352.png" group-title="港澳台•影视",Astro AOD
 https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
 #EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/Astro%20AEC.png" group-title="港澳台•影视",Astro AEC
@@ -473,26 +501,14 @@ http://rihou.cc:555/tv/[SX]Astro_QJ
 http://rihou.cc:555/tv/[SX]Astro欢喜
 #EXTINF:-1 tvg-name="龙详时代" tvg-logo="https://logo.catvod.com/龙祥时代.png" group-title="港澳台•影视",龙详时代
 http://zb.xpgtv.net/ysp/smt.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-name="EYETV旅游" tvg-logo="https://logo.catvod.com/EYETV旅游.png" group-title="港澳台•影视",EYETV旅游
-http://zb.xpgtv.net/ysp/smt.php?id=eyetvtravel_twn
 #EXTINF:-1 tvg-name="EYETV戏剧" tvg-logo="https://logo.catvod.com/EYETV戏剧.png" group-title="港澳台•影视",EYETV戏剧
 http://zb.xpgtv.net/ysp/smt.php?id=eyetvxiju_twn
-#EXTINF:-1 tvg-name="Asia Travel" tvg-logo="https://logo.catvod.com/亚洲旅游台.png" group-title="港澳台•影视",Asia Travel
-http://zb.xpgtv.net/ysp/smt.php?id=asiatravel_twn
 #EXTINF:-1 tvg-name="纬来综合台" tvg-logo="https://logo.catvod.com/纬来综合台.png" group-title="港澳台•影视",纬来综合台
 http://zb.xpgtv.net/ysp/smt.php?id=videolandzonghe
 #EXTINF:-1 tvg-name="纬来日本台" tvg-logo="https://logo.catvod.com/纬来日本台.png" group-title="港澳台•影视",纬来日本台
 http://zb.xpgtv.net/ysp/smt.php?id=videolandjapan
 #EXTINF:-1 tvg-name="纬来电影台" tvg-logo="https://logo.catvod.com/纬来电影台.png" group-title="港澳台•影视",纬来电影台
 http://zb.xpgtv.net/ysp/smt.php?id=videolandmovie
-#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://logo.catvod.com/纬来体育台.png" group-title="港澳台•影视",纬来体育台
-http://zb.xpgtv.net/ysp/smt.php?id=videolandsport
-#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://logo.catvod.com/爱尔达体育2台.png" group-title="港澳台•影视",爱尔达体育2台
-http://zb.xpgtv.net/ysp/smt.php?id=eltasport2_twn
-#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://logo.catvod.com/爱尔达体育3台.png" group-title="港澳台•影视",爱尔达体育3台
-http://zb.xpgtv.net/ysp/smt.php?id=eltasport3_twn
-#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://logo.catvod.com/博斯无限.png" group-title="港澳台•影视",博斯无限
-http://zb.xpgtv.net/ysp/smt.php?id=bosiunlimited_twn
 #EXTINF:-1 tvg-name="年代MUCH" tvg-logo="https://logo.catvod.com/年代MUCH.png" group-title="港澳台•影视",年代MUCH
 http://zb.xpgtv.net/ysp/smt.php?id=ettvwestern
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://logo.catvod.com/HBO.png" group-title="港澳台•影视",HBO
@@ -513,32 +529,84 @@ http://zb.xpgtv.net/ysp/smt.php?id=Hbosignature
 http://zb.xpgtv.net/ysp/smt.php?id=Hbohitshd
 #EXTINF:-1 tvg-name="Thrill" tvg-logo="https://isus.cc/share/logo/ondemandkorea/CJ%20Drama%20Thriller.png" group-title="港澳台•影视",Thrill
 http://zb.xpgtv.net/ysp/smt.php?id=Thrill
-#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://logo.catvod.com/动物星球.png" group-title="港澳台•影视",动物星球
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="体育记录少儿",CCTV5
+http://zb.xpgtv.net/ysp/smt.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="体育记录少儿",CCTV5
+http://go.bkpcp.top/mg/cctv5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="体育记录少儿",CCTV5+
+http://zb.xpgtv.net/ysp/smt.php?id=cctv5plus
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="体育记录少儿",CCTV5+
+http://go.bkpcp.top/mg/cctv5p
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="体育记录少儿",CCTV16
+http://go.bkpcp.top/mg/cctv16
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://logo.catvod.com/纬来体育台.png" group-title="体育记录少儿",纬来体育台
+http://zb.xpgtv.net/ysp/smt.php?id=videolandsport
+#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://logo.catvod.com/爱尔达体育2台.png" group-title="体育记录少儿",爱尔达体育2台
+http://zb.xpgtv.net/ysp/smt.php?id=eltasport2_twn
+#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://logo.catvod.com/爱尔达体育3台.png" group-title="体育记录少儿",爱尔达体育3台
+http://zb.xpgtv.net/ysp/smt.php?id=eltasport3_twn
+#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://logo.catvod.com/博斯无限.png" group-title="体育记录少儿",博斯无限
+http://zb.xpgtv.net/ysp/smt.php?id=bosiunlimited_twn
+#EXTINF:-1 tvg-name="博斯运动" tvg-logo="https://logo.catvod.com/博斯运动.png" group-title="体育记录少儿",博斯运动
+http://iptv.4666888.xyz/iptv2A.php?id=6
+#EXTINF:-1 tvg-name="astroFootball" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/astroFootball.png" group-title="体育记录少儿",astroFootball
+http://iptv.4666888.xyz/iptv2A.php?id=4
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="体育记录少儿",CCTV9
+http://go.bkpcp.top/mg/cctv9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="体育记录少儿",CCTV9
+http://23.237.228.134/live5/CCTV9.m3u8
+#EXTINF:-1 tvg-name="EYETV旅游" tvg-logo="https://logo.catvod.com/EYETV旅游.png" group-title="体育记录少儿",EYETV旅游
+http://zb.xpgtv.net/ysp/smt.php?id=eyetvtravel_twn
+#EXTINF:-1 tvg-name="Asia Travel" tvg-logo="https://logo.catvod.com/亚洲旅游台.png" group-title="体育记录少儿",Asia Travel
+http://zb.xpgtv.net/ysp/smt.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://logo.catvod.com/动物星球.png" group-title="体育记录少儿",动物星球
 http://zb.xpgtv.net/ysp/smt.php?id=animalplanet_twn
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/Discovery+Channel.png" group-title="港澳台•影视",Discovery
+#EXTINF:-1 tvg-name="国家地理" tvg-logo="https://logo.catvod.com/国家地理.png" group-title="体育记录少儿",国家地理
+http://tl.061833.xyz/tl/lovenaturehd
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/Discovery+Channel.png" group-title="体育记录少儿",Discovery
 http://zb.xpgtv.net/ysp/smt.php?id=discoverytwn_twn
-#EXTINF:-1 tvg-name="CI" tvg-logo="https://logo.catvod.com/CI.png" group-title="港澳台•影视",CI
+#EXTINF:-1 tvg-name="CI" tvg-logo="https://logo.catvod.com/CI.png" group-title="体育记录少儿",CI
 http://zb.xpgtv.net/ysp/smt.php?id=ci_twn
-#EXTINF:-1 tvg-name="FTV" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/fashion.png" group-title="港澳台•影视",FTV
+#EXTINF:-1 tvg-name="FTV" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/fashion.png" group-title="体育记录少儿",FTV
 http://zb.xpgtv.net/ysp/smt.php?id=fashiontv_twn
-#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://logo.catvod.com/BBCEarth.png" group-title="港澳台•影视",BBC Earth
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://logo.catvod.com/BBCEarth.png" group-title="体育记录少儿",BBC Earth
 http://zb.xpgtv.net/ysp/smt.php?id=bbcearth_twn
-#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://logo.catvod.com/BBCLifestyle.png" group-title="港澳台•影视",BBC Lifestyle
+#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://logo.catvod.com/BBCLifestyle.png" group-title="体育记录少儿",BBC Lifestyle
 http://zb.xpgtv.net/ysp/smt.php?id=bbclifestyle_twn
-#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://logo.catvod.com/靖天卡通台.png" group-title="港澳台•影视",靖天卡通台
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="体育记录少儿",CCTV14
+http://iptv.4666888.xyz/iptv2A.php?id=12
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="体育记录少儿",CCTV14
+http://go.bkpcp.top/mg/cctv14
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://logo.catvod.com/靖天卡通台.png" group-title="体育记录少儿",靖天卡通台
 http://zb.xpgtv.net/ysp/smt.php?id=jingtiancartoon_twn
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://logo.catvod.com/龙华卡通.png" group-title="港澳台•影视",龙华卡通
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://logo.catvod.com/龙华卡通.png" group-title="体育记录少儿",龙华卡通
 https://cdn8.163189.xyz/163189/lhkt
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://logo.catvod.com/龙华卡通.png" group-title="港澳台•影视",龙华卡通
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://logo.catvod.com/龙华卡通.png" group-title="体育记录少儿",龙华卡通
 http://rihou.cc:555/tv/[Pd]龙华卡通
-#EXTINF:-1 tvg-name="Yoyo" tvg-logo="https://logo.catvod.com/东森幼幼台.png" group-title="港澳台•影视",Yoyo
+#EXTINF:-1 tvg-name="Yoyo" tvg-logo="https://logo.catvod.com/东森幼幼台.png" group-title="体育记录少儿",Yoyo
 http://zb.xpgtv.net/ysp/smt.php?id=yoyo_twn
-#EXTINF:-1 tvg-name="Momo" tvg-logo="https://isus.cc/share/logo/MOMO-%E8%A6%AA%E5%AD%90%E5%8F%B0.png" group-title="港澳台•影视",Momo
+#EXTINF:-1 tvg-name="Momo" tvg-logo="https://isus.cc/share/logo/MOMO-%E8%A6%AA%E5%AD%90%E5%8F%B0.png" group-title="体育记录少儿",Momo
 http://zb.xpgtv.net/ysp/smt.php?id=momo1_twn
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/HBO%20Family%20HD.png" group-title="港澳台•影视",HBO Family
+#EXTINF:-1 tvg-name="Nick少儿" tvg-logo="https://isus.cc/share/logo/LITV/Nickelodeon.png" group-title="体育记录少儿",Nick少儿
+http://tl.061833.xyz/tl/nickelodeon
+#EXTINF:-1 tvg-name="Nick儿童" tvg-logo="https://isus.cc/share/logo/Nick-Jr..png" group-title="体育记录少儿",Nick儿童
+http://tl.061833.xyz/tl/nickjr
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/HBO%20Family%20HD.png" group-title="体育记录少儿",HBO Family
 http://zb.xpgtv.net/ysp/smt.php?id=Hbofamily
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/CN%E5%8D%A1%E9%80%9A.png" group-title="港澳台•影视",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/CN%E5%8D%A1%E9%80%9A.png" group-title="体育记录少儿",Cartoon Network
 http://zb.xpgtv.net/ysp/smt.php?id=Cn
+#EXTINF:-1 tvg-name="倒霉特熊" tvg-logo="https://logo.catvod.com/倒霉特熊.png" group-title="体育记录少儿",倒霉特熊
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+#EXTINF:-1 tvg-name="反转星球" tvg-logo="https://logo.catvod.com/反转星球.png" group-title="体育记录少儿",反转星球
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+#EXTINF:-1 tvg-name="狮子王国" tvg-logo="https://logo.catvod.com/狮子王国.png" group-title="体育记录少儿",狮子王国
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+#EXTINF:-1 tvg-name="熊大熊二" tvg-logo="https://logo.catvod.com/熊大熊二.png" group-title="体育记录少儿",熊大熊二
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+#EXTINF:-1 tvg-name="云朵妈妈" tvg-logo="https://logo.catvod.com/云朵妈妈.png" group-title="体育记录少儿",云朵妈妈
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+#EXTINF:-1 tvg-name="猪侠英雄" tvg-logo="https://logo.catvod.com/猪侠英雄.png" group-title="体育记录少儿",猪侠英雄
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视IPV6",CCTV1
 http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视IPV6",CCTV2
@@ -1309,18 +1377,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1555906766_991991415/
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw517872146_-1764712284/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8?icpid=3&RTS=1674380633&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://logo.catvod.com/精品大剧.png" group-title="NewTV-IPV6",精品大剧
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1755993626_-1194432913/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8?icpid=3&RTS=1674386166&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-name="倒霉特熊" tvg-logo="https://logo.catvod.com/倒霉特熊.png" group-title="少儿",倒霉特熊
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-#EXTINF:-1 tvg-name="反转星球" tvg-logo="https://logo.catvod.com/反转星球.png" group-title="少儿",反转星球
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-#EXTINF:-1 tvg-name="狮子王国" tvg-logo="https://logo.catvod.com/狮子王国.png" group-title="少儿",狮子王国
-https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-#EXTINF:-1 tvg-name="熊大熊二" tvg-logo="https://logo.catvod.com/熊大熊二.png" group-title="少儿",熊大熊二
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-#EXTINF:-1 tvg-name="云朵妈妈" tvg-logo="https://logo.catvod.com/云朵妈妈.png" group-title="少儿",云朵妈妈
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-#EXTINF:-1 tvg-name="猪侠英雄" tvg-logo="https://logo.catvod.com/猪侠英雄.png" group-title="少儿",猪侠英雄
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 #EXTINF:-1 tvg-name="谁不是" tvg-logo="https://logo.catvod.com/谁不是.png" group-title="直播mp4",谁不是
 https://f002.backblazeb2.com/file/lirg168/mtv/谁不是.mp4
 #EXTINF:-1 tvg-name="怀旧合集" tvg-logo="https://logo.catvod.com/怀旧合集.png" group-title="直播mp4",怀旧合集
