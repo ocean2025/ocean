@@ -54,6 +54,8 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 民视新闻台,http://zb.xpgtv.net/ysp/smt.php?id=ftvnew_taiwan
 民视台湾台,http://zb.xpgtv.net/ysp/smt.php?id=ftvtaiwan_twn
 
+年代新闻,http://zb.xpgtv.net/ysp/smt.php?id=niandainews_twn
+
 华视,http://zb.xpgtv.net/ysp/smt.php?id=ctshd_twn
 
 华视新闻,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
@@ -61,10 +63,16 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 华视新闻,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 
 东森新闻,http://zb.xpgtv.net/ysp/smt.php?id=ettvnews
-年代新闻,http://zb.xpgtv.net/ysp/smt.php?id=niandainews_twn
 中旺电视,http://rihou.cc:555/tv/[Hk]中旺电视
 中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
 中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
+
+CCTV1,https://cdn6.101.qzz.io/163189/cctv1
+CCTV4,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV1,http://rihou.cc:555/tv/[Pd]央视综合
+CCTV4,http://go.bkpcp.top/mg/cctv4
+CCTV13,http://go.bkpcp.top/mg/cctv13
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 莲花卫视,https://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
@@ -94,11 +102,9 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
 
-CCTV1,https://cdn6.101.qzz.io/163189/cctv1
 CH8综合,https://cdn6.101.qzz.io/163189/ch8
 八度空间,https://cdn6.101.qzz.io/163189/8tv
 
-CCTV1,http://rihou.cc:555/tv/[Pd]央视综合
 CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 八度空间,http://rihou.cc:555/tv/[Pd]八度空间
 
@@ -154,17 +160,44 @@ pₒₚc电影,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=popc
 pₒₚc电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
 pₒₚc电影,http://rihou.cc:555/tv/[Hk]pₒₚc电影
 
-美亚电影,http://zb.xpgtv.net/ysp/smt.php?id=meiyamovie_twn
 美亚电影,http://bxtv.3a.ink/api.php?id=meiya
 美亚电影,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=meiya
 美亚电影,http://rihou.cc:555/tv/[Bx]美亚电影
-美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-美亚电影,http://rihou.cc:555/tv/[SX]美亚电影
 
-美亚电影台,http://iptv.4666888.xyz/iptv2A.php?id=30
+美亚电影台HD,http://iptv.4666888.xyz/iptv2A.php?id=30
 
-CCTV-6,http://zb.xpgtv.net/ysp/smt.php?id=cctv6
+美亚电影台,http://zb.xpgtv.net/ysp/smt.php?id=meiyamovie_twn
+美亚电影台,http://tl.061833.xyz/tl/null-5
+美亚电影台,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+美亚电影台,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+美亚电影台,http://rihou.cc:555/tv/[SX]美亚电影
+
+天映频道,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
+天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+
+天映频道,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
+天映经典,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
+
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+
+天映频道,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+
+天映频道,http://rihou.cc:555/tv/[SX]天映频道
+天映经典,http://rihou.cc:555/tv/[SX]天映经典
+
+天映频道,http://zb.xpgtv.net/ysp/smt.php?id=ctv18_twn
+
+天映电影频道,http://zb.xpgtv.net/ysp/smt.php?id=Celestialindo
+天映经典CCM,http://zb.xpgtv.net/ysp/smt.php?id=Celestial2
+天映经典CCM,http://tl.061833.xyz/tl/null-1
+
+中国电影频道,http://tl.061833.xyz/tl/null-6
+CCTV6,http://zb.xpgtv.net/ysp/smt.php?id=cctv6
+CCTV6,http://go.bkpcp.top/mg/cctv6
+CCTV8,http://23.237.228.134/live5/CCTV8.m3u8
+CCTV8,http://go.bkpcp.top/mg/cctv8
 
 Now星影,http://rihou.cc:555/tv/[Hk]Now星影
 Now星影,http://rihou.cc:555/tv/[Bx]Now星影
@@ -192,28 +225,9 @@ Now jelli,http://rihou.cc:555/tv/[Hk]Now紫金
 东森电影,https://pull-vtt-1.videocc.net/live/11-fPHO0pIGaYYBkAJCvDT58Qty4vBeoqGUhqeq0TaMB9P.flv
 东森电影,http://rihou.cc:555/tv/[Hk]东森电影
 
+黄金华剧,http://tl.061833.xyz/tl/null-9
 黄金华剧,http://hls-pull-wicketpw.speedws.com/live/HZvZxcheOtbls4gDYtaTNRcYeQhgGTeXNBxInESYlFHHleooST.flv
 黄金华剧,http://rihou.cc:555/tv/[Hk]黄金华剧
-
-天映频道,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
-天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
-
-天映频道,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
-天映经典,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
-
-天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
-
-天映频道,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
-天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
-
-天映频道,http://rihou.cc:555/tv/[SX]天映频道
-天映经典,http://rihou.cc:555/tv/[SX]天映经典
-
-天映经典,http://zb.xpgtv.net/ysp/smt.php?id=Celestial2
-天映频道,http://zb.xpgtv.net/ysp/smt.php?id=ctv18_twn
-
-天映电影频道,http://zb.xpgtv.net/ysp/smt.php?id=Celestialindo
 
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub         
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
@@ -244,7 +258,6 @@ Now jelli,http://rihou.cc:555/tv/[Hk]Now紫金
 龙华洋片,http://rihou.cc:555/tv/[Pd]龙华洋片
 龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
 龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
-
 
 ELta综合,http://iptv.4666888.xyz/iptv2A.php?id=49
 Astro iQIYI,https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
@@ -290,6 +303,11 @@ RTHK-31,http://zb.xpgtv.net/ysp/smt.php?id=rhk31_twn
 千禧经典台,http://bxtv.3a.ink/api.php?id=qxjd
 千禧经典台,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=qxjd
 
+CCTV3,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV15,http://go.bkpcp.top/mg/cctv15
+CCTV15,http://23.237.228.134/live3/CCTV15.m3u8
+
 Astro AOD,https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
 Astro AEC,https://smt.1678520.xyz/smt3.2.1.php?id=AEC
 Astro QJ,https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
@@ -306,17 +324,13 @@ Astro QJ,http://rihou.cc:555/tv/[SX]Astro_QJ
 Astro欢喜台,http://rihou.cc:555/tv/[SX]Astro欢喜
 
 龙详时代,http://zb.xpgtv.net/ysp/smt.php?id=lungxiangtime_twn
-EYETV旅游,http://zb.xpgtv.net/ysp/smt.php?id=eyetvtravel_twn
+
 EYETV戏剧,http://zb.xpgtv.net/ysp/smt.php?id=eyetvxiju_twn
-Asia Travel,http://zb.xpgtv.net/ysp/smt.php?id=asiatravel_twn
 
 纬来综合台,http://zb.xpgtv.net/ysp/smt.php?id=videolandzonghe
 纬来日本台,http://zb.xpgtv.net/ysp/smt.php?id=videolandjapan
 纬来电影台,http://zb.xpgtv.net/ysp/smt.php?id=videolandmovie
-纬来体育台,http://zb.xpgtv.net/ysp/smt.php?id=videolandsport
-爱尔达体育2台,http://zb.xpgtv.net/ysp/smt.php?id=eltasport2_twn
-爱尔达体育3台,http://zb.xpgtv.net/ysp/smt.php?id=eltasport3_twn
-博斯无限,http://zb.xpgtv.net/ysp/smt.php?id=bosiunlimited_twn
+
 年代MUCH,http://zb.xpgtv.net/ysp/smt.php?id=ettvwestern
 
 HBO,http://zb.xpgtv.net/ysp/smt.php?id=hbohd_twn
@@ -329,20 +343,48 @@ HBO Signature,http://zb.xpgtv.net/ysp/smt.php?id=Hbosignature
 HBO Hits,http://zb.xpgtv.net/ysp/smt.php?id=Hbohitshd
 Thrill,http://zb.xpgtv.net/ysp/smt.php?id=Thrill
 
+体育记录少儿,#genre#
+CCTV5,http://zb.xpgtv.net/ysp/smt.php?id=cctv5
+CCTV5+,http://zb.xpgtv.net/ysp/smt.php?id=cctv5plus
+CCTV5,http://go.bkpcp.top/mg/cctv5
+CCTV5+,http://go.bkpcp.top/mg/cctv5p
+CCTV16,http://go.bkpcp.top/mg/cctv16
+纬来体育台,http://zb.xpgtv.net/ysp/smt.php?id=videolandsport
+爱尔达体育2台,http://zb.xpgtv.net/ysp/smt.php?id=eltasport2_twn
+爱尔达体育3台,http://zb.xpgtv.net/ysp/smt.php?id=eltasport3_twn
+博斯无限,http://zb.xpgtv.net/ysp/smt.php?id=bosiunlimited_twn
+博斯运动,http://iptv.4666888.xyz/iptv2A.php?id=6
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+
+CCTV9,http://go.bkpcp.top/mg/cctv9
+CCTV9,http://23.237.228.134/live5/CCTV9.m3u8
+EYETV旅游,http://zb.xpgtv.net/ysp/smt.php?id=eyetvtravel_twn
+Asia Travel,http://zb.xpgtv.net/ysp/smt.php?id=asiatravel_twn
 动物星球,http://zb.xpgtv.net/ysp/smt.php?id=animalplanet_twn
+国家地理,http://tl.061833.xyz/tl/lovenaturehd
 Discovery,http://zb.xpgtv.net/ysp/smt.php?id=discoverytwn_twn
 CI,http://zb.xpgtv.net/ysp/smt.php?id=ci_twn
 FTV,http://zb.xpgtv.net/ysp/smt.php?id=fashiontv_twn
 BBC Earth,http://zb.xpgtv.net/ysp/smt.php?id=bbcearth_twn
 BBC Lifestyle,http://zb.xpgtv.net/ysp/smt.php?id=bbclifestyle_twn
 
+CCTV14,http://iptv.4666888.xyz/iptv2A.php?id=12
+CCTV14,http://go.bkpcp.top/mg/cctv14
 靖天卡通台,http://zb.xpgtv.net/ysp/smt.php?id=jingtiancartoon_twn
 龙华卡通,https://cdn8.163189.xyz/163189/lhkt
 龙华卡通,http://rihou.cc:555/tv/[Pd]龙华卡通
 Yoyo,http://zb.xpgtv.net/ysp/smt.php?id=yoyo_twn
 Momo,http://zb.xpgtv.net/ysp/smt.php?id=momo1_twn
+Nick少儿,http://tl.061833.xyz/tl/nickelodeon
+Nick儿童,http://tl.061833.xyz/tl/nickjr
 HBO Family,http://zb.xpgtv.net/ysp/smt.php?id=Hbofamily
 Cartoon Network,http://zb.xpgtv.net/ysp/smt.php?id=Cn
+倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+猪侠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 
 央视IPV6,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
@@ -758,14 +800,6 @@ NewTV-IPV6,#genre#
 家庭剧场,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1555906766_991991415/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8?icpid=3&RTS=1674385966&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 潮妈辣婆,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw517872146_-1764712284/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8?icpid=3&RTS=1674380633&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 精品大剧,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1755993626_-1194432913/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8?icpid=3&RTS=1674386166&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-
-少儿,#genre#
-倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-猪侠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 
 直播mp4,#genre#
 谁不是,https://f002.backblazeb2.com/file/lirg168/mtv/谁不是.mp4
