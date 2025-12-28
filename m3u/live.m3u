@@ -334,6 +334,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=48
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://logo.catvod.com/东森电影.png" group-title="港澳台•影视",东森电影
 http://zb.xpgtv.net/ysp/smt.php?id=ettvmovie
 #EXTINF:-1 tvg-name="黄金华剧" tvg-logo="https://isus.cc/share/logo/星視界/TVB 黄金华剧台.png" group-title="港澳台•影视",黄金华剧
+http://tl.061833.xyz/tl/null-9
+#EXTINF:-1 tvg-name="黄金华剧" tvg-logo="https://isus.cc/share/logo/星視界/TVB 黄金华剧台.png" group-title="港澳台•影视",黄金华剧
 http://hls-pull-wicketpw.speedws.com/live/HZvZxcheOtbls4gDYtaTNRcYeQhgGTeXNBxInESYlFHHleooST.flv
 #EXTINF:-1 tvg-name="黄金华剧" tvg-logo="https://isus.cc/share/logo/星視界/TVB 黄金华剧台.png" group-title="港澳台•影视",黄金华剧
 http://rihou.cc:555/tv/[Hk]黄金华剧
@@ -529,83 +531,83 @@ http://zb.xpgtv.net/ysp/smt.php?id=Hbosignature
 http://zb.xpgtv.net/ysp/smt.php?id=Hbohitshd
 #EXTINF:-1 tvg-name="Thrill" tvg-logo="https://isus.cc/share/logo/ondemandkorea/CJ%20Drama%20Thriller.png" group-title="港澳台•影视",Thrill
 http://zb.xpgtv.net/ysp/smt.php?id=Thrill
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="体育记录少儿",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="体育记录",CCTV5
 http://zb.xpgtv.net/ysp/smt.php?id=cctv5
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="体育记录少儿",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="体育记录",CCTV5
 http://go.bkpcp.top/mg/cctv5
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="体育记录少儿",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="体育记录",CCTV5+
 http://zb.xpgtv.net/ysp/smt.php?id=cctv5plus
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="体育记录少儿",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="体育记录",CCTV5+
 http://go.bkpcp.top/mg/cctv5p
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="体育记录少儿",CCTV16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="体育记录",CCTV16
 http://go.bkpcp.top/mg/cctv16
-#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://logo.catvod.com/纬来体育台.png" group-title="体育记录少儿",纬来体育台
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://logo.catvod.com/纬来体育台.png" group-title="体育记录",纬来体育台
 http://zb.xpgtv.net/ysp/smt.php?id=videolandsport
-#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://logo.catvod.com/爱尔达体育2台.png" group-title="体育记录少儿",爱尔达体育2台
+#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://logo.catvod.com/爱尔达体育2台.png" group-title="体育记录",爱尔达体育2台
 http://zb.xpgtv.net/ysp/smt.php?id=eltasport2_twn
-#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://logo.catvod.com/爱尔达体育3台.png" group-title="体育记录少儿",爱尔达体育3台
+#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://logo.catvod.com/爱尔达体育3台.png" group-title="体育记录",爱尔达体育3台
 http://zb.xpgtv.net/ysp/smt.php?id=eltasport3_twn
-#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://logo.catvod.com/博斯无限.png" group-title="体育记录少儿",博斯无限
+#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://logo.catvod.com/博斯无限.png" group-title="体育记录",博斯无限
 http://zb.xpgtv.net/ysp/smt.php?id=bosiunlimited_twn
-#EXTINF:-1 tvg-name="博斯运动" tvg-logo="https://logo.catvod.com/博斯运动.png" group-title="体育记录少儿",博斯运动
+#EXTINF:-1 tvg-name="博斯运动" tvg-logo="https://logo.catvod.com/博斯运动.png" group-title="体育记录",博斯运动
 http://iptv.4666888.xyz/iptv2A.php?id=6
-#EXTINF:-1 tvg-name="astroFootball" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/astroFootball.png" group-title="体育记录少儿",astroFootball
+#EXTINF:-1 tvg-name="astroFootball" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/astroFootball.png" group-title="体育记录",astroFootball
 http://iptv.4666888.xyz/iptv2A.php?id=4
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="体育记录少儿",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="体育记录",CCTV9
 http://go.bkpcp.top/mg/cctv9
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="体育记录少儿",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="体育记录",CCTV9
 http://23.237.228.134/live5/CCTV9.m3u8
-#EXTINF:-1 tvg-name="EYETV旅游" tvg-logo="https://logo.catvod.com/EYETV旅游.png" group-title="体育记录少儿",EYETV旅游
+#EXTINF:-1 tvg-name="EYETV旅游" tvg-logo="https://logo.catvod.com/EYETV旅游.png" group-title="体育记录",EYETV旅游
 http://zb.xpgtv.net/ysp/smt.php?id=eyetvtravel_twn
-#EXTINF:-1 tvg-name="Asia Travel" tvg-logo="https://logo.catvod.com/亚洲旅游台.png" group-title="体育记录少儿",Asia Travel
+#EXTINF:-1 tvg-name="Asia Travel" tvg-logo="https://logo.catvod.com/亚洲旅游台.png" group-title="体育记录",Asia Travel
 http://zb.xpgtv.net/ysp/smt.php?id=asiatravel_twn
-#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://logo.catvod.com/动物星球.png" group-title="体育记录少儿",动物星球
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://logo.catvod.com/动物星球.png" group-title="体育记录",动物星球
 http://zb.xpgtv.net/ysp/smt.php?id=animalplanet_twn
-#EXTINF:-1 tvg-name="国家地理" tvg-logo="https://logo.catvod.com/国家地理.png" group-title="体育记录少儿",国家地理
+#EXTINF:-1 tvg-name="国家地理" tvg-logo="https://logo.catvod.com/国家地理.png" group-title="体育记录",国家地理
 http://tl.061833.xyz/tl/lovenaturehd
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/Discovery+Channel.png" group-title="体育记录少儿",Discovery
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/Discovery+Channel.png" group-title="体育记录",Discovery
 http://zb.xpgtv.net/ysp/smt.php?id=discoverytwn_twn
-#EXTINF:-1 tvg-name="CI" tvg-logo="https://logo.catvod.com/CI.png" group-title="体育记录少儿",CI
+#EXTINF:-1 tvg-name="CI" tvg-logo="https://logo.catvod.com/CI.png" group-title="体育记录",CI
 http://zb.xpgtv.net/ysp/smt.php?id=ci_twn
-#EXTINF:-1 tvg-name="FTV" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/fashion.png" group-title="体育记录少儿",FTV
+#EXTINF:-1 tvg-name="FTV" tvg-logo="https://f002.backblazeb2.com/file/oceans/m3u/fashion.png" group-title="体育记录",FTV
 http://zb.xpgtv.net/ysp/smt.php?id=fashiontv_twn
-#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://logo.catvod.com/BBCEarth.png" group-title="体育记录少儿",BBC Earth
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://logo.catvod.com/BBCEarth.png" group-title="体育记录",BBC Earth
 http://zb.xpgtv.net/ysp/smt.php?id=bbcearth_twn
-#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://logo.catvod.com/BBCLifestyle.png" group-title="体育记录少儿",BBC Lifestyle
+#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://logo.catvod.com/BBCLifestyle.png" group-title="体育记录",BBC Lifestyle
 http://zb.xpgtv.net/ysp/smt.php?id=bbclifestyle_twn
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="体育记录少儿",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="少儿频道",CCTV14
 http://iptv.4666888.xyz/iptv2A.php?id=12
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="体育记录少儿",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="少儿频道",CCTV14
 http://go.bkpcp.top/mg/cctv14
-#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://logo.catvod.com/靖天卡通台.png" group-title="体育记录少儿",靖天卡通台
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://logo.catvod.com/靖天卡通台.png" group-title="少儿频道",靖天卡通台
 http://zb.xpgtv.net/ysp/smt.php?id=jingtiancartoon_twn
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://logo.catvod.com/龙华卡通.png" group-title="体育记录少儿",龙华卡通
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://logo.catvod.com/龙华卡通.png" group-title="少儿频道",龙华卡通
 https://cdn8.163189.xyz/163189/lhkt
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://logo.catvod.com/龙华卡通.png" group-title="体育记录少儿",龙华卡通
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://logo.catvod.com/龙华卡通.png" group-title="少儿频道",龙华卡通
 http://rihou.cc:555/tv/[Pd]龙华卡通
-#EXTINF:-1 tvg-name="Yoyo" tvg-logo="https://logo.catvod.com/东森幼幼台.png" group-title="体育记录少儿",Yoyo
+#EXTINF:-1 tvg-name="Yoyo" tvg-logo="https://logo.catvod.com/东森幼幼台.png" group-title="少儿频道",Yoyo
 http://zb.xpgtv.net/ysp/smt.php?id=yoyo_twn
-#EXTINF:-1 tvg-name="Momo" tvg-logo="https://isus.cc/share/logo/MOMO-%E8%A6%AA%E5%AD%90%E5%8F%B0.png" group-title="体育记录少儿",Momo
+#EXTINF:-1 tvg-name="Momo" tvg-logo="https://isus.cc/share/logo/MOMO-%E8%A6%AA%E5%AD%90%E5%8F%B0.png" group-title="少儿频道",Momo
 http://zb.xpgtv.net/ysp/smt.php?id=momo1_twn
-#EXTINF:-1 tvg-name="Nick少儿" tvg-logo="https://isus.cc/share/logo/LITV/Nickelodeon.png" group-title="体育记录少儿",Nick少儿
+#EXTINF:-1 tvg-name="Nick少儿" tvg-logo="https://isus.cc/share/logo/LITV/Nickelodeon.png" group-title="少儿频道",Nick少儿
 http://tl.061833.xyz/tl/nickelodeon
-#EXTINF:-1 tvg-name="Nick儿童" tvg-logo="https://isus.cc/share/logo/Nick-Jr..png" group-title="体育记录少儿",Nick儿童
+#EXTINF:-1 tvg-name="Nick儿童" tvg-logo="https://isus.cc/share/logo/Nick-Jr..png" group-title="少儿频道",Nick儿童
 http://tl.061833.xyz/tl/nickjr
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/HBO%20Family%20HD.png" group-title="体育记录少儿",HBO Family
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/HBO%20Family%20HD.png" group-title="少儿频道",HBO Family
 http://zb.xpgtv.net/ysp/smt.php?id=Hbofamily
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/CN%E5%8D%A1%E9%80%9A.png" group-title="体育记录少儿",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/CN%E5%8D%A1%E9%80%9A.png" group-title="少儿频道",Cartoon Network
 http://zb.xpgtv.net/ysp/smt.php?id=Cn
-#EXTINF:-1 tvg-name="倒霉特熊" tvg-logo="https://logo.catvod.com/倒霉特熊.png" group-title="体育记录少儿",倒霉特熊
+#EXTINF:-1 tvg-name="倒霉特熊" tvg-logo="https://logo.catvod.com/倒霉特熊.png" group-title="少儿频道",倒霉特熊
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-#EXTINF:-1 tvg-name="反转星球" tvg-logo="https://logo.catvod.com/反转星球.png" group-title="体育记录少儿",反转星球
+#EXTINF:-1 tvg-name="反转星球" tvg-logo="https://logo.catvod.com/反转星球.png" group-title="少儿频道",反转星球
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-#EXTINF:-1 tvg-name="狮子王国" tvg-logo="https://logo.catvod.com/狮子王国.png" group-title="体育记录少儿",狮子王国
+#EXTINF:-1 tvg-name="狮子王国" tvg-logo="https://logo.catvod.com/狮子王国.png" group-title="少儿频道",狮子王国
 https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-#EXTINF:-1 tvg-name="熊大熊二" tvg-logo="https://logo.catvod.com/熊大熊二.png" group-title="体育记录少儿",熊大熊二
+#EXTINF:-1 tvg-name="熊大熊二" tvg-logo="https://logo.catvod.com/熊大熊二.png" group-title="少儿频道",熊大熊二
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-#EXTINF:-1 tvg-name="云朵妈妈" tvg-logo="https://logo.catvod.com/云朵妈妈.png" group-title="体育记录少儿",云朵妈妈
+#EXTINF:-1 tvg-name="云朵妈妈" tvg-logo="https://logo.catvod.com/云朵妈妈.png" group-title="少儿频道",云朵妈妈
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-#EXTINF:-1 tvg-name="猪侠英雄" tvg-logo="https://logo.catvod.com/猪侠英雄.png" group-title="体育记录少儿",猪侠英雄
+#EXTINF:-1 tvg-name="猪侠英雄" tvg-logo="https://logo.catvod.com/猪侠英雄.png" group-title="少儿频道",猪侠英雄
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视IPV6",CCTV1
 http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
