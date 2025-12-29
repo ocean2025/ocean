@@ -262,6 +262,8 @@ https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影台
 http://rihou.cc:555/tv/[SX]美亚电影
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
+http://zb.xpgtv.net/ysp/smt.php?id=ctv18_twn
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
 https://cdn9.163189.xyz/smt1.1.php?id=Celestial
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典
 https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
@@ -281,13 +283,11 @@ https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 http://rihou.cc:555/tv/[SX]天映频道
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典
 http://rihou.cc:555/tv/[SX]天映经典
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映频道
-http://zb.xpgtv.net/ysp/smt.php?id=ctv18_twn
 #EXTINF:-1 tvg-name="天映电影频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳台•影视",天映电影频道
 http://zb.xpgtv.net/ysp/smt.php?id=Celestialindo
-#EXTINF:-1 tvg-name="天映经典CCM" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典CCM
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典CCM
 http://zb.xpgtv.net/ysp/smt.php?id=Celestial2
-#EXTINF:-1 tvg-name="天映经典CCM" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典CCM
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳台•影视",天映经典CCM
 http://tl.061833.xyz/tl/null-1
 #EXTINF:-1 tvg-name="中国电影频道" tvg-logo="https://logo.catvod.com/中国电影频道.png" group-title="港澳台•影视",中国电影频道
 http://tl.061833.xyz/tl/null-6
