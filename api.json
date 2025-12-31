@@ -2035,9 +2035,9 @@
 			"logo": "https://logo.catvod.com/{name}.png"
 		},
 		{
-			"name": "BX直播",
+			"name": "catvod",
 			"type": 0,
-			"url": "https://bxtv.3a.ink/live.txt",
+			"url": "https://live.catvod.com/tv.m3u",
 			"ua": "okhttp/3",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://logo.catvod.com/{name}.png"
@@ -2046,6 +2046,14 @@
 			"name": "天微线路直播",
 			"type": 0,
 			"url": "http://rihou.cc:555/gggg.nzk",
+			"ua": "okhttp/3",
+			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+			"logo": "https://logo.catvod.com/{name}.png"
+		},
+		{
+			"name": "BX直播",
+			"type": 0,
+			"url": "https://bxtv.3a.ink/live.txt",
 			"ua": "okhttp/3",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://logo.catvod.com/{name}.png"
