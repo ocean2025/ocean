@@ -224,10 +224,14 @@ pₒₚc电影,http://rihou.cc:555/tv/[Hk]pₒₚc电影
 天映经典CCM,http://zb.xpgtv.net/ysp/smt.php?id=Celestial2
 
 中国电影频道,http://tl.061833.xyz/tl/null-6
-CCTV6,https://iptv.catvod.com/live.php?id=CCTV-6
 CCTV6,http://go.bkpcp.top/mg/cctv6
+CCTV6,https://live.catvod.com/live.php?id=cctv6
 CCTV8,http://23.237.228.134/live5/CCTV8.m3u8
 CCTV8,http://go.bkpcp.top/mg/cctv8
+
+CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
+CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
+CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0
 
 东森电影,https://live.catvod.com/live.php?id=ettvmovie
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
@@ -282,10 +286,6 @@ CCTV8,http://go.bkpcp.top/mg/cctv8
 
 龙华戏剧,http://zb.xpgtv.net/ysp/smt.php?id=lunghuaxiju_twn
 龙华偶像,http://zb.xpgtv.net/ysp/smt.php?id=lunghuaidol_twn
-
-CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
-CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
-CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0
 
 亚洲武侠,https://cdn6.101.qzz.io/163189/yzwx
 亚洲武侠,https://live.catvod.com/iptv.php?id=yzwx01
