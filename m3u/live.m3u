@@ -346,13 +346,19 @@ http://zb.xpgtv.net/ysp/smt.php?id=Celestial2
 #EXTINF:-1 tvg-name="中国电影频道" tvg-logo="https://logo.catvod.com/中国电影频道.png" group-title="港澳台•影视",中国电影频道
 http://tl.061833.xyz/tl/null-6
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="港澳台•影视",CCTV6
-https://iptv.catvod.com/live.php?id=CCTV-6
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="港澳台•影视",CCTV6
 http://go.bkpcp.top/mg/cctv6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="港澳台•影视",CCTV6
+https://live.catvod.com/live.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="港澳台•影视",CCTV8
 http://23.237.228.134/live5/CCTV8.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="港澳台•影视",CCTV8
 http://go.bkpcp.top/mg/cctv8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="港澳台•影视",CHC影迷电影
+https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="港澳台•影视",CHC动作电影
+https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="港澳台•影视",CHC家庭影院
+https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://logo.catvod.com/东森电影.png" group-title="港澳台•影视",东森电影
 http://iptv.4666888.xyz/iptv2A.php?id=48
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://logo.catvod.com/东森电影.png" group-title="港澳台•影视",东森电影
@@ -439,12 +445,6 @@ https://live.catvod.com/live.php?id=lunghuaidol_twn
 http://zb.xpgtv.net/ysp/smt.php?id=lunghuaxiju_twn
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://logo.catvod.com/龙华偶像.png" group-title="港澳台•影视",龙华偶像
 http://zb.xpgtv.net/ysp/smt.php?id=lunghuaidol_twn
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="港澳台•影视",CHC影迷电影
-https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="港澳台•影视",CHC动作电影
-https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="港澳台•影视",CHC家庭影院
-https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0
 #EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="https://logo.catvod.com/亚洲卫视.png" group-title="港澳台•影视",亚洲武侠
 https://cdn6.101.qzz.io/163189/yzwx
 #EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="https://logo.catvod.com/亚洲卫视.png" group-title="港澳台•影视",亚洲武侠
