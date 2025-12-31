@@ -1170,7 +1170,7 @@ http://23.237.228.134/live5/CCTV5.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视频道",CCTV5+
 http://23.237.228.134/live5/CCTV5p.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视频道",CCTV6
-http://23.237.228.133/live/CCTV6_MG.m3u8
+http://23.237.228.134/live5/CCTV6.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视频道",CCTV7
 http://23.237.228.134/live5/CCTV7.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视频道",CCTV8
