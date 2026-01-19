@@ -6,7 +6,7 @@
 凤凰资讯,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhzx
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
-凤凰资讯,http://23.128.116.71:5589/live.php?id=phoenixinfo_hd&h=23.128.116.71&p=22364&token=1768721659.c3f06a62040e479a70cd584081ef223566e4c1ec71139d59ece86ff6efebd49e
+凤凰资讯,https://live.catvod.com/iptv.php?id=phzx01
 凤凰资讯,http://rihou.cc:555/tv/[Bx]凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
@@ -15,7 +15,7 @@
 
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
-TVBS新闻,http://107.173.38.42:28278/tvbs_n/playlist.m3u8
+TVBS新闻,https://live.catvod.com/live.php?id=tvbs_n
 TVBS新闻,http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
 
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
@@ -26,7 +26,7 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 中天新闻,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=ztxw
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
-中天新闻,http://107.173.38.42:28278/ctinews/playlist.m3u8
+中天新闻,https://live.catvod.com/live.php?id=ctinews
 中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
 
 镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
@@ -100,34 +100,34 @@ CH8综合,http://zb.xpgtv.net/ysp/smt.php?id=Channel8HD
 CH8综合,http://zb.xpgtv.net/ysp/smt.php?id=Mewatch_ch8
 
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
-非凡新闻,http://107.173.38.42:28278/feifannews_twn/playlist.m3u8
+非凡新闻,https://live.catvod.com/live.php?id=feifannews_twn
 非凡新闻,http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
 
 寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
 寰宇新闻,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
-寰宇新闻,http://107.173.38.42:28278/huanyuxinwen_twn/playlist.m3u8
+寰宇新闻,https://live.catvod.com/live.php?id=huanyuxinwen_twn
 
-TVBS,http://23.128.116.71:5589/live.php?id=tvbs&h=23.128.116.71&p=22364&token=1768721659.a88950c4e0a4556cbd4899528c3db0cdddbaab14830994502a5f29d70ed9f70a
+TVBS,https://live.catvod.com/live.php?id=tvbs
 TVBS,http://rihou.cc:555/tv/[Hk]tvbs闽南
 TVBS,http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
 
-中天亚洲台,http://23.128.116.71:5589/live.php?id=ctiasia_twn&h=23.128.116.71&p=22364&token=1768721659.f12dc7120398b4b44c5af3edfe1c046aaf537707329af6c888e94b0347972cd3
+中天亚洲台,https://live.catvod.com/live.php?id=ctiasia_twn
 
-民视新闻台,http://107.173.38.42:28278/ftvnew_taiwan/playlist.m3u8
-民视台湾台,http://107.173.38.42:28278/ftvtaiwan_twn/playlist.m3u8
-年代新闻,http://107.173.38.42:28278/niandainews_twn/playlist.m3u8
-壹新闻,http://107.173.38.42:28278/yinews/playlist.m3u8
+民视新闻台,https://live.catvod.com/live.php?id=ftvnew_taiwan
+民视台湾台,https://live.catvod.com/live.php?id=ftvtaiwan_twn
+年代新闻,https://live.catvod.com/live.php?id=niandainews_twn
+壹新闻,https://live.catvod.com/live.php?id=yinews
 壹新闻,http://rihou.cc:555/tv/[Hk]闽壹新闻
-华视,http://107.173.38.42:28278/ctshd_twn/playlist.m3u8
+华视,https://live.catvod.com/live.php?id=ctshd_twn
 华视新闻,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
 华视新闻,http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
 华视新闻,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
-东森新闻,http://107.173.38.42:28278/ettvnews/playlist.m3u8
+东森新闻,https://live.catvod.com/live.php?id=ettvnews
 中旺电视,http://194.147.100.173/p.php/?id=W0NJQQ
 中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
-中视新闻,http://107.173.38.42:28278/zhongshinews_twn/playlist.m3u8
+中视新闻,https://live.catvod.com/live.php?id=zhongshinews_twn
 中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
-JET综合,http://107.173.38.42:28278/jet/playlist.m3u8
+JET综合,https://live.catvod.com/live.php?id=jet
 
 无线新闻台,https://cdn6.101.qzz.io/163189/wxxw
 无线新闻台,http://bxtv.3a.ink/api.php?id=wxxw
@@ -137,14 +137,14 @@ JET综合,http://107.173.38.42:28278/jet/playlist.m3u8
 HOY资讯台,https://live.catvod.com/iptv.php?id=hoytv01
 HOY资讯台,https://live.catvod.com/iptv.php?id=hoytv02
 
-CGTN,http://107.173.38.42:28278/CGTN/playlist.m3u8
+CGTN,https://live.catvod.com/live.php?id=CGTN
 TAIWAN,http://rihou.cc:555/tv/[Hk]闽南综合
-CNN Internation,http://107.173.38.42:28278/Cnn/playlist.m3u8
-CNN,http://107.173.38.42:28278/cnn_twn/playlist.m3u8
-CNBC,http://107.173.38.42:28278/cnbc_twn/playlist.m3u8
-CNA,http://107.173.38.42:28278/cna/playlist.m3u8
-BBC World News,http://107.173.38.42:28278/bbcnews_twn/playlist.m3u8
-BBC News,http://107.173.38.42:28278/Bbcnews/playlist.m3u8
+CNN Internation,https://live.catvod.com/live.php?id=Cnn
+CNN,https://live.catvod.com/live.php?id=cnn_twn
+CNBC,https://live.catvod.com/live.php?id=cnbc_twn
+CNA,https://live.catvod.com/live.php?id=cna
+BBC World News,https://live.catvod.com/live.php?id=bbcnews_twn
+BBC News,https://live.catvod.com/live.php?id=Bbcnews
 
 港澳台•影视,#genre#
 pₒₚc电影,http://tl.061833.xyz/tl/popc
@@ -163,7 +163,7 @@ pₒₚc电影,http://rihou.cc:555/tv/[Hk]pₒₚc电影
 
 美亚电影台,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 美亚电影台,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-美亚电影台,http://107.173.38.42:28278/meiyamovie_twn/playlist.m3u8
+美亚电影台,https://live.catvod.com/live.php?id=meiyamovie_twn
 美亚电影台,http://rihou.cc:555/tv/[SX]美亚电影
 
 天映频道,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
@@ -239,7 +239,7 @@ CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%
 龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
 龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
 
-龙华电影,http://107.173.38.42:28278/xingwei_movie/playlist.m3u8
+龙华电影,https://live.catvod.com/iptv.php?id=lhdy01
 龙华戏剧,https://live.catvod.com/iptv.php?id=lhxj01
 龙华经典,https://live.catvod.com/iptv.php?id=lhjd01
 龙华洋片,https://live.catvod.com/iptv.php?id=lhyp01
@@ -320,7 +320,7 @@ GTV八大戏剧台,https://live.catvod.com/live.php?id=badadrama
 东森综合,https://live.catvod.com/live.php?id=ettvzhonghe
 东森戏剧,https://live.catvod.com/live.php?id=ettvdrama
 
-TVBS欢乐台,http://23.128.116.71:5589/live.php?id=tvbshuanle_twn&h=23.128.116.71&p=22364&token=1768721659.60c576088aa2331e9b0ab043cb4f59ceb8e5bb7243f751e350260ae479ae16e5
+TVBS欢乐台,https://live.catvod.com/live.php?id=tvbshuanle_twn
 中天娱乐,https://live.catvod.com/live.php?id=ctient
 中天综合,https://live.catvod.com/live.php?id=ctizhonghe
 龙祥时代,https://live.catvod.com/live.php?id=lungxiangtime_twn
@@ -330,7 +330,7 @@ EYETV戏剧,https://live.catvod.com/live.php?id=eyetvxiju_twn
 纬来电影台,https://live.catvod.com/live.php?id=videolandmovie
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern
 年代MUCH,https://live.catvod.com/live.php?id=niandaitv_twn
-HBO,https://live.catvod.com/live.php?id=hbohd_twn
+HBO,https://live.catvod.com/live.php?id=Hbo
 Hollywood,https://live.catvod.com/live.php?id=hollywoodmovies_twn
 CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn
 AXN,https://live.catvod.com/live.php?id=axn_twn
