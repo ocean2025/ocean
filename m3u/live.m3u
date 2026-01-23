@@ -23,7 +23,7 @@ http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
 http://iptv.4666888.xyz/iptv2A.php?id=47
 http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="港澳台•资讯",中天新闻
-http://rihou.cc:555/tv/[Hk]中天新聞
+http://rihou.cc:555/tv/[Hv]中天新聞
 http://bxtv.3a.ink/api.php?id=ztxw
 https://bxtv.3a.ink/mytv/mytvts3.333.php?id=ztxw
 http://rihou.cc:555/tv/[Bx]中天新闻
@@ -191,7 +191,7 @@ http://rihou.cc:555/tv/[Bx]pₒₚc电影
 http://bxtv.3a.ink/api.php?id=popc
 https://bxtv.3a.ink/mytv/mytvts3.333.php?id=popc
 https://live.catvod.com/iptv.php?id=popc
-http://rihou.cc:555/tv/[Hk]pₒₚc电影
+http://rihou.cc:555/tv/[Hv]pₒₚc电影
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影台.png" group-title="港澳台•影视",美亚电影
 http://tl.061833.xyz/tl/null-5
 http://rihou.cc:555/tv/[Bx]美亚电影
@@ -251,7 +251,7 @@ https://live.catvod.com/live.php?id=ettvmovie
 http://rihou.cc:555/tv/[Hk]东森电影
 #EXTINF:-1 tvg-name="黄金华剧" tvg-logo="https://isus.cc/share/logo/星視界/TVB 黄金华剧台.png" group-title="港澳台•影视",黄金华剧
 http://tl.061833.xyz/tl/null-9
-http://rihou.cc:555/tv/[Hk]黄金华剧
+http://rihou.cc:555/tv/[Hv]黄金华剧
 #EXTINF:-1 tvg-name="邵氏电影" tvg-logo="https://logo.catvod.com/邵氏电影.png" group-title="港澳台•影视",邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 http://iptv.4666888.xyz/iptv2A.php?id=39
@@ -300,15 +300,15 @@ https://live.catvod.com/iptv.php?id=lhrh01
 https://cdn6.101.qzz.io/163189/yzwx
 https://live.catvod.com/iptv.php?id=yzwx01
 #EXTINF:-1 tvg-name="Now星影" tvg-logo="https://isus.cc/share/logo/Now-星影台.png" group-title="港澳台•影视",Now星影
-http://rihou.cc:555/tv/[Hk]Now星影
+http://rihou.cc:555/tv/[Hv]Now星影
 http://rihou.cc:555/tv/[Bx]Now星影
 #EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://isus.cc/share/logo/Now-爆谷台.png" group-title="港澳台•影视",Now爆谷台
-http://rihou.cc:555/tv/[Hk]Now爆谷
+http://rihou.cc:555/tv/[Hv]Now爆谷
 http://rihou.cc:555/tv/[Bx]Now爆谷
 #EXTINF:-1 tvg-name="Now华剧台" tvg-logo="https://isus.cc/share/logo/星視界/Now华剧台.png" group-title="港澳台•影视",Now华剧台
-http://rihou.cc:555/tv/[Hk]Now华剧
+http://rihou.cc:555/tv/[Hv]Now华剧
 #EXTINF:-1 tvg-name="Now jelli" tvg-logo="https://isus.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/Now%20jelli%E7%B4%AB%E9%87%91%E5%9B%BD%E9%99%85%E5%8F%B0.png" group-title="港澳台•影视",Now jelli
-http://rihou.cc:555/tv/[Hk]Now紫金
+http://rihou.cc:555/tv/[Hv]Now紫金
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="港澳台•影视",CCTV3
 http://iptv.4666888.xyz/iptv2A.php?id=9
 http://go.bkpcp.top/mg/cctv3
