@@ -1,5 +1,5 @@
 {
-	"spider": "./spider.jar;md5;74d2bc9c086c0e87eba3e1b17560a55f",
+	"spider": "./spider.jar;md5;70bb590f5260f500d35bfc123de8651f",
 	"wallpaper": "./88.jpeg",
 	"logo": "./77.jpg",
 	"sites": [
@@ -12,6 +12,18 @@
 			"changeable": 1,
 			"quickSearch": 0,
 			"filterable": 0
+		},
+		{
+			"key": "农民影视PY",
+			"name": "🔥农民影视┃PY",
+			"type": 3,
+			"api": "./py/农民影视.py"
+		},
+		{
+			"key": "可可影视PY",
+			"name": "🔥可可影视┃PY",
+			"type": 3,
+			"api": "./py/可可影视.py"
 		},
 		{
 			"key": "瓜子影视",
@@ -406,8 +418,8 @@
 			"key": "采集之王",
 			"name": "🔥采集｜xs合集",
 			"type": 3,
-			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/lib/drpy2.min.js",
-			"ext": "https://raw.githubusercontent.com/ocean2025/ocean/main/js/采集之王.js?type=url&params=.https://raw.githubusercontent.com/ocean2025/ocean/main/json/采集静态.json$1$1"
+			"api": "./lib/drpy2.min.js",
+			"ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
 		},
 		{
 			"key": "荐片",
@@ -419,15 +431,6 @@
 			"changeable": 1,
 			"playerType": 2,
 			"api": "csp_JPJGuard"
-		},
-		{
-			"key": "极速资源",
-			"name": "🎈极速资源┃采集",
-			"type": 1,
-			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
-			"api": "https://jszyapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"changeable": 1
 		},
 		{
 			"key": "hipy_js_采集之王[合]0",
@@ -450,16 +453,6 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0
-		},
-		{
-			"key": "豆瓣采集资源",
-			"name": "🎈豆瓣┃蜂蜜",
-			"type": 1,
-			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
-			"api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
-			"playerType": 1,
-			"searchable": 1,
-			"changeable": 1
 		},
 		{
 			"key": "电影天堂",
@@ -521,24 +514,6 @@
 			"type": 1,
 			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
 			"api": "http://cj.ffzyapi.com/api.php/provide/vod",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "光速资源",
-			"name": "🎈光速资源┃采集",
-			"type": 1,
-			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
-			"api": "http://api.guangsuapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "7ced0073619101d397b5c86fc3578ed4",
-			"name": "🎈火狐2K┃采集",
-			"type": 1,
-			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
-			"api": "https://hhzyapi.com/api.php/provide/vod/",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -1608,15 +1583,7 @@
 			"type": 0,
 			"url": "./lives/live.txt",
 			"ua": "okhttp/3",
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"logo": "https://logo.catvod.com/{name}.png"
-		},
-		{
-			"name": "小苹果线路直播",
-			"type": 0,
-			"url": "http://d.jsy777.top/box/tvzb9.txt",
-			"ua": "okhttp/5.0.0-alpha.14",
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
 			"logo": "https://logo.catvod.com/{name}.png"
 		},
 		{
@@ -1624,15 +1591,7 @@
 			"type": 0,
 			"url": "http://iptv.4666888.xyz/FYTV.txt",
 			"ua": "okhttp/1.31",
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"logo": "https://logo.catvod.com/{name}.png"
-		},
-		{
-			"name": "catvod",
-			"type": 0,
-			"url": "https://live.catvod.com/tv.m3u",
-			"ua": "okhttp/3",
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
 			"logo": "https://logo.catvod.com/{name}.png"
 		},
 		{

@@ -1,5 +1,5 @@
 {
-	"spider": "./custom_spider.jar;md5;74d2bc9c086c0e87eba3e1b17560a55f",
+	"spider": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
 	"wallpaper": "./88.jpeg",
 	"logo": "./77.jpg",
 	"sites": [
@@ -13,6 +13,18 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "18+"
+		},
+		{
+			"key": "农民影视PY",
+			"name": "🔥农民影视┃PY",
+			"type": 3,
+			"api": "./py/农民影视.py"
+		},
+		{
+			"key": "可可影视PY",
+			"name": "🔥可可影视┃PY",
+			"type": 3,
+			"api": "./py/可可影视.py"
 		},
 		{
 			"key": "瓜子影视py",
@@ -33,9 +45,17 @@
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/星芽短剧.py"
 		},
 		{
+			"key": "金牌影视",
+			"name": "🔥金牌｜xs影视",
+			"jar": "./spider.jar;md5;70bb590f5260f500d35bfc123de8651f",
+			"type": 3,
+			"api": "csp_Jpys",
+			"ext": "https://hnytxj.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+		},
+		{
 			"key": "py_饭团PY",
 			"name": "😢饭团┃PY",
-			"jar": "./spider.jar;md5;74d2bc9c086c0e87eba3e1b17560a55f",
+			"jar": "./spider.jar;md5;70bb590f5260f500d35bfc123de8651f",
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/饭团影视.py",
 			"filterable": 1,
 			"quickSearch": 1,
@@ -55,7 +75,7 @@
 			"key": "猎手影视",
 			"name": "🔥猎手┃xs影视py",
 			"type": 3,
-			"jar": "./spider.jar;md5;74d2bc9c086c0e87eba3e1b17560a55f",
+			"jar": "./spider.jar;md5;70bb590f5260f500d35bfc123de8651f",
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/猎手影视.py",
 			"searchable": 1,
 			"changeable": 1,
@@ -90,7 +110,7 @@
 			"key": "py_央视片库",
 			"name": "🌏cctv片库┃xspy",
 			"type": 3,
-			"jar": "./spider.jar;md5;74d2bc9c086c0e87eba3e1b17560a55f",
+			"jar": "./spider.jar;md5;70bb590f5260f500d35bfc123de8651f",
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/央视片库.py",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -100,7 +120,7 @@
 			"key": "哔哩直播",
 			"name": "🔥哔哩┃xs直播py",
 			"type": 3,
-			"jar": "./spider.jar;md5;74d2bc9c086c0e87eba3e1b17560a55f",
+			"jar": "./spider.jar;md5;70bb590f5260f500d35bfc123de8651f",
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/哔哩直播.py"
 		},
 		{
@@ -114,6 +134,78 @@
 			"name": "🔥网络直播┃PY",
 			"type": 3,
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/网络直播.py"
+		},
+		{
+			"key": "聚合直播PY",
+			"name": "🔥聚合直播┃PY",
+			"type": 3,
+			"api": "./py/聚合直播.py"
+		},
+		{
+			"key": "短剧聚合PY",
+			"name": "🔥短剧聚合┃PY",
+			"type": 3,
+			"api": "./py/短剧聚合.py"
+		},
+		{
+			"key": "嘀嗒影视PY",
+			"name": "🔥嘀嗒影视┃PY",
+			"type": 3,
+			"api": "./py/嘀嗒影视.py"
+		},
+		{
+			"key": "毒舌影视PY",
+			"name": "🔥毒舌影视┃PY",
+			"type": 3,
+			"api": "./py/毒舌影视.py"
+		},
+		{
+			"key": "枫叶影院PY",
+			"name": "🔥枫叶影院┃PY",
+			"type": 3,
+			"api": "./py/枫叶影院.py"
+		},
+		{
+			"key": "华数TVPY",
+			"name": "🔥华数TV┃PY",
+			"type": 3,
+			"api": "./py/华数TV.py"
+		},
+		{
+			"key": "努努影院PY",
+			"name": "🔥努努影院┃PY",
+			"type": 3,
+			"api": "./py/努努影院.py"
+		},
+		{
+			"key": "七猫影视PY",
+			"name": "🔥七猫影视┃PY",
+			"type": 3,
+			"api": "./py/七猫影视.py"
+		},
+		{
+			"key": "麒麟影视PY",
+			"name": "🔥麒麟影视┃PY",
+			"type": 3,
+			"api": "./py/麒麟影视.py"
+		},
+		{
+			"key": "热播APPPY",
+			"name": "🔥热播APP┃PY",
+			"type": 3,
+			"api": "./py/热播APP.py"
+		},
+		{
+			"key": "哇哇APPPY",
+			"name": "🔥哇哇APP┃PY",
+			"type": 3,
+			"api": "./py/哇哇APP.py"
+		},
+		{
+			"key": "星辰影院PY",
+			"name": "🔥星辰影院┃PY",
+			"type": 3,
+			"api": "./py/星辰影院.py"
 		},
 		{
 			"key": "csp_Qiyou",
@@ -160,22 +252,10 @@
 			}
 		},
 		{
-			"key": "极速资源",
-			"name": "🎈极速资源┃采集",
-			"type": 1,
-			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
-			"api": "https://jszyapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "豆瓣采集资源",
-			"name": "🎈豆瓣┃蜂蜜",
-			"type": 1,
-			"api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
-			"playerType": 1,
-			"searchable": 1,
-			"changeable": 1
+			"key": "采集聚合PY",
+			"name": "🔥采集聚合┃PY",
+			"type": 3,
+			"api": "./py/采集聚合.py"
 		},
 		{
 			"key": "电影天堂",
@@ -233,24 +313,6 @@
 			"name": "🎈非凡┃蜂蜜",
 			"type": 1,
 			"api": "http://cj.ffzyapi.com/api.php/provide/vod",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "光速资源",
-			"name": "🎈光速资源┃采集",
-			"type": 1,
-			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
-			"api": "http://api.guangsuapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "7ced0073619101d397b5c86fc3578ed4",
-			"name": "🎈火狐2K┃采集",
-			"type": 1,
-			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
-			"api": "https://hhzyapi.com/api.php/provide/vod/",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -1274,15 +1336,7 @@
 			"type": 0,
 			"url": "./lives/live.txt",
 			"ua": "okhttp/3",
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"logo": "https://logo.catvod.com/{name}.png"
-		},
-		{
-			"name": "小苹果线路直播",
-			"type": 0,
-			"url": "http://d.jsy777.top/box/tvzb9.txt",
-			"ua": "okhttp/5.0.0-alpha.14",
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
 			"logo": "https://logo.catvod.com/{name}.png"
 		},
 		{
@@ -1290,15 +1344,7 @@
 			"type": 0,
 			"url": "http://iptv.4666888.xyz/FYTV.txt",
 			"ua": "okhttp/1.31",
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"logo": "https://logo.catvod.com/{name}.png"
-		},
-		{
-			"name": "catvod",
-			"type": 0,
-			"url": "https://live.catvod.com/tv.m3u",
-			"ua": "okhttp/3",
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
 			"logo": "https://logo.catvod.com/{name}.png"
 		},
 		{

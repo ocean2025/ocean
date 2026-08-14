@@ -24,7 +24,7 @@
 		{
 			"name": "AV",
 			"type": 0,
-			"url": "./lives/listx.m3u"
+			"url": "./lives/livex.m3u"
 		},
 		{
 			"name": "直播",
@@ -73,23 +73,45 @@
 			"ext": "./js/lf_live1.txt"
 		},
 		{
-			"key": "极速资源",
-			"name": "🎈极速资源┃采集",
-			"type": 1,
-			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
-			"api": "https://jszyapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"changeable": 1
+			"key": "熊猫视频PY",
+			"name": "🔥熊猫视频┃PY",
+			"type": 3,
+			"api": "./py2/熊猫视频.py"
 		},
 		{
-			"key": "豆瓣采集资源",
-			"name": "🎈豆瓣┃蜂蜜",
-			"type": 1,
-			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
-			"api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
-			"playerType": 1,
+			"key": "神秘电影PY",
+			"name": "🔥神秘电影┃PY",
+			"type": 3,
+			"api": "./py2/神秘电影.py"
+		},
+		{
+			"key": "hipy_js_36直播[密]",
+			"name": "36直播[密](drpy_t3)",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
 			"searchable": 1,
-			"changeable": 1
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./js/36直播[密].js"
+		},
+		{
+			"key": "色播聚合PY",
+			"name": "🔥色播聚合┃PY",
+			"type": 3,
+			"api": "./py2/色播聚合.py"
+		},
+		{
+			"key": "妲己PY",
+			"name": "🔥妲己┃PY",
+			"type": 3,
+			"api": "./py2/妲己.py"
+		},
+		{
+			"key": "怦然心动PY",
+			"name": "🔥怦然心动┃PY",
+			"type": 3,
+			"api": "./py2/怦然心动.py"
 		},
 		{
 			"key": "电影天堂",
@@ -168,21 +190,10 @@
 			"ext": "https://raw.githubusercontent.com/ocean2025/ocean/main/js/采集之王[合].js?type=url&params=../json/采集[密]静态.json"
 		},
 		{
-			"key": "hipy_js_36直播[密]",
-			"name": "36直播[密](drpy_t3)",
-			"type": 3,
-			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://raw.githubusercontent.com/ocean2025/ocean/main/js/36直播[密].js"
-		},
-		{
 			"key": "量子",
 			"name": "量子",
-			"type": 1,
-			"api": "https://cj.lziapi.com/api.php/provide/vod/",
+			"type": 0,
+			"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
 			"searchable": 1,
 			"changeable": 1,
 			"categories": [
@@ -201,30 +212,12 @@
 			]
 		},
 		{
-			"key": "光速资源",
-			"name": "🎈光速资源┃采集",
-			"type": 1,
-			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
-			"api": "http://api.guangsuapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "7ced0073619101d397b5c86fc3578ed4",
-			"name": "🎈火狐2K┃采集",
-			"type": 1,
-			"jar": "./custom_spider.jar;md5;b11a2ce9eb2bbe268343edf57810f558",
-			"api": "https://hhzyapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
 			"key": "美少女",
 			"name": "*🔞美少女",
 			"type": 0,
 			"api": "https://www.msnii.com/api/xml.php",
-			"searchable": 1,
-			"quickSearch": 1,
+			"searchable": 0,
+			"quickSearch": 0,
 			"filterable": 1,
 			"jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
 		},
@@ -241,24 +234,24 @@
 			"name": "*🔞淫水机资源",
 			"type": 0,
 			"api": "https://www.xrbsp.com/api/xml.php",
-			"searchable": 1,
-			"quickSearch": 1
+			"searchable": 0,
+			"quickSearch": 0
 		},
 		{
 			"key": "*香奶儿资源",
 			"name": "*🔞香奶儿资源",
 			"type": 0,
 			"api": "https://www.gdlsp.com/api/xml.php",
-			"searchable": 1,
-			"quickSearch": 1
+			"searchable": 0,
+			"quickSearch": 0
 		},
 		{
 			"key": "*乐播资源",
 			"name": "*🔞乐播资源",
 			"type": 1,
 			"api": "https://lbapi9.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
+			"searchable": 0,
+			"quickSearch": 0
 		},
 		{
 			"key": "KpgxdyE",
@@ -283,16 +276,6 @@
 			"name": "🔞78乐播",
 			"type": 0,
 			"api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0
-		},
-		{
-			"key": "大地采集",
-			"name": "🔞大地av",
-			"type": 0,
-			"api": "https://dadiapi.com/apple_m3u8.php",
-			"playUrl": "https://play.dadiapi.com/watch?url=",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0
