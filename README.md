@@ -15,4 +15,8 @@ https://cdn.jsdelivr.net/gh/ocean2025/ocean@main/api2026.json
 
 https://gh-proxy.com/https://raw.githubusercontent.com/ocean2025/ocean/main/api.json
 
+https://gh-proxy.com/https://raw.githubusercontent.com/ocean2025/ocean/main/config.json
+
+https://gh-proxy.com/https://raw.githubusercontent.com/ocean2025/ocean/main/api2026.json
+
 https://raw.githubusercontent.com/ocean2025/ocean/main/api.json
