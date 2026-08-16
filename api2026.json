@@ -4,21 +4,33 @@
 	"logo": "./77.jpg",
 	"sites": [
 		{
-			"key": "豆豆",
-			"name": "🇨🇳豆瓣┃主页",
+			"key": "Douban",
+			"name": "🏠豆瓣[导航]",
 			"type": 3,
-			"api": "./lib/lf_search3_min.js",
-			"changeable": 1,
+			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"api": "csp_Douban",
 			"searchable": 0,
 			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "18+"
+			"filterable": 1,
+			"indexs": 1,
+			"ext": "https://raw.githubusercontent.com/ocean2025/ocean/main/json/douban.json"
 		},
 		{
-			"key": "农民影视PY",
-			"name": "🔥农民影视┃PY",
+			"key": "枫叶影院PY",
+			"name": "🔥枫叶影院┃PY",
 			"type": 3,
-			"api": "./py/农民影视.py"
+			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/枫叶影院.py"
+		},
+		{
+			"key": "猎手影视",
+			"name": "🔥猎手┃xs影视py",
+			"type": 3,
+			"jar": "./spider.jar;md5;e2a184456ddb6d6fae75706645f0bc45",
+			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/猎手影视.py",
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"key": "可可影视PY",
@@ -45,14 +57,6 @@
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/星芽短剧.py"
 		},
 		{
-			"key": "金牌影视",
-			"name": "🔥金牌｜xs影视",
-			"jar": "./spider.jar;md5;70bb590f5260f500d35bfc123de8651f",
-			"type": 3,
-			"api": "csp_Jpys",
-			"ext": "https://hnytxj.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-		},
-		{
 			"key": "py_饭团PY",
 			"name": "😢饭团┃PY",
 			"jar": "./spider.jar;md5;70bb590f5260f500d35bfc123de8651f",
@@ -70,17 +74,6 @@
 			"api": "csp_Nmvod",
 			"playerType": 2,
 			"ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-		},
-		{
-			"key": "猎手影视",
-			"name": "🔥猎手┃xs影视py",
-			"type": 3,
-			"jar": "./spider.jar;md5;70bb590f5260f500d35bfc123de8651f",
-			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/猎手影视.py",
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1,
-			"filterable": 1
 		},
 		{
 			"key": "剧下饭",
@@ -130,6 +123,33 @@
 			"api": "https://raw.githubusercontent.com/ocean2025/ocean/main/py/爱听音乐.py"
 		},
 		{
+			"key": "飞猫KTV",
+			"name": "🎤飞猫KTV[2K]",
+			"type": 3,
+			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"api": "csp_FeimaoKtv",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"changeable": 0,
+			"ext": "{\"host\":\"https://ktv.catvod.site\",\"key\":\"ktv_jIO7myCOGTEYCLByS9ABrBXGOmxK6D8_\"}"
+		},
+		{
+			"key": "酷狗音乐",
+			"name": "🐶酷狗[音乐]",
+			"type": 3,
+			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"api": "csp_Kugou",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"filterable": 1
+		},
+		{
 			"key": "网络直播",
 			"name": "🔥网络直播┃PY",
 			"type": 3,
@@ -154,28 +174,10 @@
 			"api": "./py/嘀嗒影视.py"
 		},
 		{
-			"key": "毒舌影视PY",
-			"name": "🔥毒舌影视┃PY",
-			"type": 3,
-			"api": "./py/毒舌影视.py"
-		},
-		{
-			"key": "枫叶影院PY",
-			"name": "🔥枫叶影院┃PY",
-			"type": 3,
-			"api": "./py/枫叶影院.py"
-		},
-		{
 			"key": "华数TVPY",
 			"name": "🔥华数TV┃PY",
 			"type": 3,
 			"api": "./py/华数TV.py"
-		},
-		{
-			"key": "努努影院PY",
-			"name": "🔥努努影院┃PY",
-			"type": 3,
-			"api": "./py/努努影院.py"
 		},
 		{
 			"key": "七猫影视PY",
@@ -184,22 +186,10 @@
 			"api": "./py/七猫影视.py"
 		},
 		{
-			"key": "麒麟影视PY",
-			"name": "🔥麒麟影视┃PY",
-			"type": 3,
-			"api": "./py/麒麟影视.py"
-		},
-		{
 			"key": "热播APPPY",
 			"name": "🔥热播APP┃PY",
 			"type": 3,
 			"api": "./py/热播APP.py"
-		},
-		{
-			"key": "哇哇APPPY",
-			"name": "🔥哇哇APP┃PY",
-			"type": 3,
-			"api": "./py/哇哇APP.py"
 		},
 		{
 			"key": "星辰影院PY",
@@ -237,6 +227,72 @@
 			"api": "csp_Xdai",
 			"playerType": 2,
 			"ext": "7lj763gg0939795i007gi48hk112jji7g1k69j079jj06g721j461kk7h703431g079j0g9hi15lg2j6232lk993i1g416hlg87i7l09i8khi6ij749j0lg77l9g154kg2gljkl1g625"
+		},
+		{
+			"key": "枫叶",
+			"name": "🍁枫叶[2K]",
+			"type": 3,
+			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"api": "csp_FengYe",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "https://www.vip1949.com/"
+		},
+		{
+			"key": "山楂",
+			"name": "🍬山楂[2K]",
+			"type": 3,
+			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"api": "csp_PianKu8",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "剧圈99",
+			"name": "📺剧圈[2K]",
+			"type": 3,
+			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"api": "csp_App99",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"host": "http://124.221.3.182:19987/app/bn",
+				"appkey": "d1f0c269eab74d93821fffc9befdbbba",
+				"versionName": "1.2.0",
+				"name": "剧圈圈",
+				"package": "com.qingtangxiaozhuan.xyz",
+				"buildNumber": "2002",
+				"buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+			}
+		},
+		{
+			"key": "热播影视",
+			"name": "📺热播[影视]",
+			"type": 3,
+			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"api": "csp_AppRJ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"url": "http://v.rbotv.cn"
+			}
+		},
+		{
+			"key": "独播",
+			"name": "🎯独播[影视]",
+			"type": 3,
+			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"api": "csp_Duboku",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
 		},
 		{
 			"key": "三六零弹幕",
@@ -325,15 +381,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./txt/token.txt"
-		},
-		{
-			"key": "AList",
-			"name": "🎈AList┃蜂蜜",
-			"type": 3,
-			"api": "csp_AList",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "./json/alist.json"
 		},
 		{
 			"key": "WebDAV",
@@ -457,6 +504,16 @@
 			"name": "web聚合",
 			"type": 3,
 			"url": "Web"
+		},
+		{
+			"name": "手动解析①",
+			"type": 0,
+			"url": "https://jx.xmflv.com/?url=",
+			"ext": {
+				"header": {
+					"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+				}
+			}
 		},
 		{
 			"name": "ocean",
