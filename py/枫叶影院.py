@@ -227,6 +227,13 @@ class Spider(BaseSpider):
                 ep_list.reverse()
                 if ep_list and i < len(play_from):
                     play_url.append('#'.join(ep_list))
+            # ========== 自定义通道排序：包含关键词 自营t > 自营y > 自营r ==========
+            keywords = ["自营t", "自营y", "自营r"]
+            paired = list(zip(play_from, play_url))
+            paired.sort(key=lambda x: next((i for i, kw in enumerate(keywords) if kw in x[0]), 999))
+            play_from = [p[0] for p in paired]
+            play_url = [p[1] for p in paired]
+            # ========== 排序结束 ==========                    
             valid_from = [pf for i, pf in enumerate(play_from) if i < len(play_url)]
             result["list"].append({
                 "vod_id": vid, "vod_name": vod_name, "vod_pic": vod_pic,

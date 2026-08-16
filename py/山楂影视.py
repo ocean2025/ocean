@@ -219,6 +219,13 @@ class Spider(Spider):
             if x:
                 w.append(n.get(i, '未知线路'))
                 e.append(x)
+        # ========== 自定义通道排序：包含关键词 1080P > 超清 ==========
+        keywords = ["1080P", "超清"]
+        paired = list(zip(w, e))
+        paired.sort(key=lambda x: next((i for i, kw in enumerate(keywords) if kw in x[0]), 999))
+        w = [p[0] for p in paired]
+        e = [p[1] for p in paired]
+        # ========== 排序结束 ==========        
         vod['vod_play_from'] = '$$$'.join(w)
         vod['vod_play_url'] = '$$$'.join(e)
         return {'list': [vod]}
