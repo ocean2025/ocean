@@ -281,6 +281,16 @@
 			"filterable": 0
 		},
 		{
+			"key": "大地采集",
+			"name": "🔞大地av",
+			"type": 0,
+			"api": "https://dadiapi.com/apple_m3u8.php",
+			"playUrl": "https://play.dadiapi.com/watch?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0
+		},
+		{
 			"key": "gdlsp",
 			"name": "🔞成人01",
 			"type": 0,
@@ -1725,6 +1735,11 @@
 					"category": 1,
 					"name": "dns_cache_timeout",
 					"value": "600000000"
+				},
+				{
+					"category": 4,
+					"name": "max-buffer-size",
+					"value": "15728640"
 				}
 			]
 		},
@@ -1775,6 +1790,11 @@
 					"category": 4,
 					"name": "reconnect",
 					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "max-buffer-size",
+					"value": "15728640"
 				},
 				{
 					"category": 4,
@@ -1866,6 +1886,10 @@
 		"vivovip.mmszxc.top",
 		"qiu.xixiqiu.com",
 		"cdnjs.hnfenxun.com",
-		"cms.qdwght.com"
+		"cms.qdwght.com",
+		"wan.51img1.com",
+		"iqiyi.hbuioo.com",
+		"vip.ffzyad.com",
+		"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
 	]
 }
