@@ -1,7 +1,7 @@
 {
-	"spider": "https://raw.githubusercontent.com/ocean2025/ocean/main/spider.jar;md5;38febbb92a5edb8afd10c5d5553079a2",
-	"wallpaper": "https://raw.githubusercontent.com/ocean2025/ocean/main/88.jpeg",
-	"logo": "https://raw.githubusercontent.com/ocean2025/ocean/main/77.jpg",
+	"spider": "./spider.jar;md5;38febbb92a5edb8afd10c5d5553079a2",
+	"wallpaper": "./88.jpeg",
+	"logo": "./77.jpg",
 	"sites": [
 		{
 			"key": "豆豆",
