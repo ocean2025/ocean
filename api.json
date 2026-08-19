@@ -14,6 +14,19 @@
 			"filterable": 0
 		},
 		{
+			"key": "py_金牌",
+			"name": "🔥金牌ᵖʸ｜py",
+			"type": 3,
+			"api": "./py/金牌影视.py",
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"ext": {
+				"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"
+			}
+		},
+		{
 			"key": "农民影视PY",
 			"name": "🔥农民影视┃PY",
 			"type": 3,
@@ -114,19 +127,6 @@
 			"name": "🔥瓜子影视┃PY",
 			"type": 3,
 			"api": "./py/瓜子影视.py"
-		},
-		{
-			"key": "py_金牌",
-			"name": "📱金牌ᵖʸ｜APP",
-			"type": 3,
-			"api": "./py/金牌影视.py",
-			"style": {
-				"type": "rect",
-				"ratio": 1
-			},
-			"ext": {
-				"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"
-			}
 		},
 		{
 			"key": "山楂影视",

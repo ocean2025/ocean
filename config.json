@@ -22,7 +22,20 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filter": 1,
-			"homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
+			"homePage": "./html/nostr.html"
+		},
+		{
+			"key": "py_金牌",
+			"name": "🔥金牌ᵖʸ｜py",
+			"type": 3,
+			"api": "./py/金牌影视.py",
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"ext": {
+				"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"
+			}
 		},
 		{
 			"key": "农民影视PY",
@@ -61,19 +74,6 @@
 				"site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
 				"version": "1.0.0.3",
 				"decrypt": "0"
-			}
-		},
-		{
-			"key": "py_金牌",
-			"name": "📱金牌ᵖʸ｜APP",
-			"type": 3,
-			"api": "./py/金牌影视.py",
-			"style": {
-				"type": "rect",
-				"ratio": 1
-			},
-			"ext": {
-				"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"
 			}
 		},
 		{
