@@ -5,9 +5,9 @@
 	"sites": [
 		{
 			"key": "Douban",
-			"name": "🏠豆瓣[导航]",
+			"name": "🏠豆瓣fm[导航]",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"jar": "./jars/feimao.jar;md5;94954748bf315bdc9e9bcca424d59fd0",
 			"api": "csp_Douban",
 			"searchable": 0,
 			"quickSearch": 0,
@@ -137,9 +137,9 @@
 		},
 		{
 			"key": "飞猫KTV",
-			"name": "🎤飞猫KTV[2K]",
+			"name": "🎤飞猫KTVfm[2K]",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"jar": "./jars/feimao.jar;md5;94954748bf315bdc9e9bcca424d59fd0",
 			"api": "csp_FeimaoKtv",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -149,9 +149,9 @@
 		},
 		{
 			"key": "酷狗音乐",
-			"name": "🐶酷狗[音乐]",
+			"name": "🐶酷狗fm[音乐]",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"jar": "./jars/feimao.jar;md5;94954748bf315bdc9e9bcca424d59fd0",
 			"api": "csp_Kugou",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -243,9 +243,9 @@
 		},
 		{
 			"key": "枫叶",
-			"name": "🍁枫叶[2K]",
+			"name": "🍁枫叶fm[2K]",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"jar": "./jars/feimao.jar;md5;94954748bf315bdc9e9bcca424d59fd0",
 			"api": "csp_FengYe",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -255,9 +255,9 @@
 		},
 		{
 			"key": "山楂",
-			"name": "🍬山楂[2K]",
+			"name": "🍬山楂fm[2K]",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"jar": "./jars/feimao.jar;md5;94954748bf315bdc9e9bcca424d59fd0",
 			"api": "csp_PianKu8",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -266,9 +266,9 @@
 		},
 		{
 			"key": "剧圈99",
-			"name": "📺剧圈[2K]",
+			"name": "📺剧圈fm[2K]",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"jar": "./jars/feimao.jar;md5;94954748bf315bdc9e9bcca424d59fd0",
 			"api": "csp_App99",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -285,9 +285,9 @@
 		},
 		{
 			"key": "热播影视",
-			"name": "📺热播[影视]",
+			"name": "📺热播fm[影视]",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"jar": "./jars/feimao.jar;md5;94954748bf315bdc9e9bcca424d59fd0",
 			"api": "csp_AppRJ",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -298,9 +298,9 @@
 		},
 		{
 			"key": "独播",
-			"name": "🎯独播[影视]",
+			"name": "🎯独播fm[影视]",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;64e0a957c0459ecbc350be29174f40f0",
+			"jar": "./jars/feimao.jar;md5;94954748bf315bdc9e9bcca424d59fd0",
 			"api": "csp_Duboku",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -1033,8 +1033,10 @@
 				"schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com"
 			],
 			"urls": [
-				"socks5://127.0.0.1:20172",
+				"socks5://127.0.0.1:7890",
+				"http://127.0.0.1:7890",
 				"socks5://127.0.0.1:10172",
+				"socks5://127.0.0.1:20172",
 				"socks5://127.0.0.1:1072",
 				"socks5://127.0.0.1:3066"
 			]
