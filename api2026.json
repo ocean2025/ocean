@@ -38,7 +38,7 @@
 			"key": "猎手影视",
 			"name": "🔥猎手┃xs影视py",
 			"type": 3,
-			"jar": "./spider.jar;md5;38febbb92a5edb8afd10c5d5553079a2",
+			"jar": "./spider.jar;md5;cf77c4fc299edca72c1eb1f8a6424dfe",
 			"api": "./py/猎手影视.py",
 			"searchable": 1,
 			"changeable": 1,
