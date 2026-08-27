@@ -1,5 +1,5 @@
 {
-	"spider": "./spider.jar;md5;cf77c4fc299edca72c1eb1f8a6424dfe",
+	"spider": "./spider.jar;md5;d3dca0a68fa76fafbe25d33c8a0e364d",
 	"wallpaper": "./88.jpeg",
 	"logo": "./77.jpg",
 	"sites": [
@@ -72,7 +72,7 @@
 			"name": "🔥金牌｜xs影视",
 			"type": 3,
 			"api": "csp_Jpys",
-			"ext": "https://hnytxj.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+			"ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
 		},
 		{
 			"key": "枫叶影院PY",
@@ -141,21 +141,10 @@
 			"api": "./py/星芽短剧.py"
 		},
 		{
-			"key": "爱营",
-			"name": "💥爱影fm[2K]",
-			"jar": "./jars/feimao.jar;md5;94954748bf315bdc9e9bcca424d59fd0",
-			"type": 3,
-			"api": "csp_AiYing",
-			"searchable": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|V122|okhttp/3.10.0"
-		},
-		{
 			"key": "华谊",
 			"name": "🎬华谊fm[影视]",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;94954748bf315bdc9e9bcca424d59fd0",
+			"jar": "./jars/feimao.jar;md5;a9c15d8742270125c4ff236565db10dd",
 			"api": "csp_AppDrama",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -312,7 +301,7 @@
 			"key": "飞猫KTV",
 			"name": "🎤飞猫KTVfm[2K]",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;94954748bf315bdc9e9bcca424d59fd0",
+			"jar": "./jars/feimao.jar;md5;a9c15d8742270125c4ff236565db10dd",
 			"api": "csp_FeimaoKtv",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -324,7 +313,7 @@
 			"key": "酷狗音乐",
 			"name": "🐶酷狗fm[音乐]",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;94954748bf315bdc9e9bcca424d59fd0",
+			"jar": "./jars/feimao.jar;md5;a9c15d8742270125c4ff236565db10dd",
 			"api": "csp_Kugou",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -489,7 +478,7 @@
 			"key": "AppV7Xhr",
 			"name": "🎬小黄人fm[影视]",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;94954748bf315bdc9e9bcca424d59fd0",
+			"jar": "./jars/feimao.jar;md5;a9c15d8742270125c4ff236565db10dd",
 			"api": "csp_AppV7",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -500,7 +489,7 @@
 			"key": "枫叶",
 			"name": "🍁枫叶[2K]",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;94954748bf315bdc9e9bcca424d59fd0",
+			"jar": "./jars/feimao.jar;md5;a9c15d8742270125c4ff236565db10dd",
 			"api": "csp_FengYe",
 			"searchable": 1,
 			"quickSearch": 1,
