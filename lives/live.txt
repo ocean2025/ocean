@@ -1,23 +1,18 @@
 港澳台•资讯,#genre#
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰资讯,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhzx
 
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=ztxw
+CCTV1,http://go.bkpcp.top/mg/cctv1
+CCTV4,http://go.bkpcp.top/mg/cctv4
+CCTV13,http://go.bkpcp.top/mg/cctv13
 
 CCTV1FY,http://iptv.4666888.xyz/iptv2A.php?id=7
 CCTV4FY,http://iptv.4666888.xyz/iptv2A.php?id=10
 CCTV13FY,http://iptv.4666888.xyz/iptv2A.php?id=11
-
-CCTV1,http://go.bkpcp.top/mg/cctv1
-CCTV4,http://go.bkpcp.top/mg/cctv4
-CCTV13,http://go.bkpcp.top/mg/cctv13
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
@@ -26,16 +21,9 @@ CCTV13,http://go.bkpcp.top/mg/cctv13
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-凤凰中文,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhzw
 
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/index.m3u8
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
-凤凰香港,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=fhhk
-
-无线新闻台,http://bxtv.3a.ink/api.php?id=wxxw
-无线新闻台,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=wxxw
 
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
@@ -53,16 +41,18 @@ CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 
-美亚电影台HD,http://iptv.4666888.xyz/iptv2A.php?id=30
+風雲恐怖電影,http://iptv.4666888.xyz/iptv2A.php?id=59
 
-美亚电影,http://bxtv.3a.ink/api.php?id=meiya
-美亚电影,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=meiya
+Astro iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
 
-pₒₚc电影,http://bxtv.3a.ink/api.php?id=popc
-pₒₚc电影,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=popc
+MYTV,http://iptv.4666888.xyz/iptv2A.php?id=34
+
+美亚电影台,http://iptv.4666888.xyz/iptv2A.php?id=30
 
 CCTV3,http://go.bkpcp.top/mg/cctv3
 CCTV3FY,http://iptv.4666888.xyz/iptv2A.php?id=9
+
+中國電影,http://iptv.4666888.xyz/iptv2A.php?id=61
 
 CCTV6,http://go.bkpcp.top/mg/cctv6
 
@@ -72,13 +62,14 @@ CCTV15,http://go.bkpcp.top/mg/cctv15
 
 ELta综合,http://iptv.4666888.xyz/iptv2A.php?id=49
 
-Astro iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
+TVB生活,http://iptv.4666888.xyz/iptv2A.php?id=11
 
 中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
 
 台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
+
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
@@ -93,13 +84,31 @@ ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
 
 RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
 
+TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=58
+
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 
 民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
 
-千禧经典台,http://bxtv.3a.ink/api.php?id=qxjd
+華藝中文,http://iptv.4666888.xyz/iptv2A.php?id=37
+
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+
+千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=22
+
+创世电视,http://iptv.4666888.xyz/iptv2A.php?id=20
+
+FGM_gold电影,http://iptv.4666888.xyz/iptv2A.php?id=54
+
+金光布袋戲,http://iptv.4666888.xyz/iptv2A.php?id=38
+
+車迷TV,http://iptv.4666888.xyz/iptv2A.php?id=63
+
+娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
+
+綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
 
 体育记录,#genre#
 CCTV5,http://go.bkpcp.top/mg/cctv5
@@ -116,9 +125,17 @@ CCTV9,http://go.bkpcp.top/mg/cctv9
 
 astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
 
+广东体育,http://iptv.4666888.xyz/iptv2A.php?id=8
+
 少儿频道,#genre#
 CCTV14,http://go.bkpcp.top/mg/cctv14
 CCTV14FY,http://iptv.4666888.xyz/iptv2A.php?id=12
+
+梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
+
+Duck TV兒童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
+
+MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
 
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
