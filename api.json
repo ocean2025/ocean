@@ -1,5 +1,5 @@
 {
-	"spider": "./spider.jar;md5;ddcd3e5f8af0b209f9ddc7403d92551d",
+	"spider": "./spider.jar;md5;92f4c97f30b004433464e224a086cebd",
 	"wallpaper": "./88.jpeg",
 	"logo": "./77.jpg",
 	"sites": [
@@ -84,7 +84,7 @@
 			"key": "瓜子FTY",
 			"name": "👀瓜子┃FTY不卡",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"api": "csp_AppgzGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -95,7 +95,7 @@
 			"key": "光影",
 			"name": "🌾光影┃FTY不卡",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"api": "csp_T4Guard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -106,7 +106,7 @@
 			"key": "糯米",
 			"name": "🌾糯米┃FTY秒播",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"api": "csp_NmyswvGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -116,7 +116,7 @@
 			"key": "厂长",
 			"name": "🌾厂长┃FTY直连",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"api": "csp_NewCzGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -142,9 +142,8 @@
 		},
 		{
 			"key": "华谊",
-			"name": "🎬华谊fm[影视]",
+			"name": "🎬华谊 • xsAPP",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;12f9eae8289a153d93847c10d655dc4e",
 			"api": "csp_AppDrama",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -233,6 +232,7 @@
 			"key": "一起影视",
 			"name": "🔥一起丨xsAPP",
 			"type": 3,
+			"searchable": 1,
 			"quickSearch": 1,
 			"api": "csp_AppYQK",
 			"filterable": 0
@@ -245,7 +245,6 @@
 			"api": "csp_App99",
 			"ext": {
 				"host": "http://124.221.3.182:19987/app/bn",
-				"appkey": "d1f0c269eab74d93821fffc9befdbbba",
 				"versionName": "1.2.0",
 				"name": "剧圈圈",
 				"package": "com.qingtangxiaozhuan.xyz",
@@ -266,7 +265,7 @@
 			"key": "视界",
 			"name": "🌸茉莉┃FTY多线",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"api": "csp_App99Guard",
 			"timeout": 10,
 			"searchable": 1,
@@ -278,7 +277,7 @@
 			"key": "文采",
 			"name": "💮文采┃FTY秒播",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"api": "csp_JpysGuard",
 			"playerType": 2,
 			"searchable": 1,
@@ -287,7 +286,7 @@
 		},
 		{
 			"key": "哔哩直播",
-			"name": "🔥哔哩｜xs直播",
+			"name": "🔥哔哩｜xspy直播",
 			"type": 3,
 			"api": "./py/哔哩直播.py"
 		},
@@ -298,31 +297,28 @@
 			"api": "./py/爱听音乐.py"
 		},
 		{
-			"key": "飞猫KTV",
-			"name": "🎤飞猫KTVfm[2K]",
+			"key": "戏曲多多",
+			"name": "戏曲｜xs多多",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;12f9eae8289a153d93847c10d655dc4e",
-			"api": "csp_FeimaoKtv",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": "{\"host\":\"https://ktv.catvod.site\",\"key\":\"ktv_jIO7myCOGTEYCLByS9ABrBXGOmxK6D8_\"}"
-		},
-		{
-			"key": "酷狗音乐",
-			"name": "🐶酷狗fm[音乐]",
-			"type": 3,
-			"jar": "./jars/feimao.jar;md5;12f9eae8289a153d93847c10d655dc4e",
-			"api": "csp_Kugou",
-			"searchable": 1,
-			"quickSearch": 1,
+			"api": "csp_AppLY",
+			"searchable": 0,
+			"quickSearch": 0,
 			"changeable": 0,
 			"style": {
-				"type": "rect",
-				"ratio": 1
-			},
-			"filterable": 1
+				"type": "list"
+			}
+		},
+		{
+			"key": "红果视频PY",
+			"name": "🔥红果视频┃PY",
+			"type": 3,
+			"api": "./py/红果视频.py"
+		},
+		{
+			"key": "哔哩聚合PY",
+			"name": "🔥哔哩聚合┃PY",
+			"type": 3,
+			"api": "./py/哔哩聚合.py"
 		},
 		{
 			"key": "网络直播",
@@ -417,7 +413,7 @@
 			"key": "奥特",
 			"name": "🌾奥特┃FTY多线",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"api": "csp_AueteGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -428,7 +424,7 @@
 			"key": "奶酪",
 			"name": "👓奶酪┃FTY秒播",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"api": "csp_T4Guard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -439,7 +435,7 @@
 			"key": "比特",
 			"name": "🍄比特┃FTY不卡",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"api": "csp_BttwooGuard",
 			"searchable": 1,
 			"changeable": 1,
@@ -450,7 +446,7 @@
 			"key": "播客",
 			"name": "👓播客┃FTY多线",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"api": "csp_AppSxGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -461,7 +457,7 @@
 			"key": "剧圈",
 			"name": "👓剧圈┃FTY多线",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"api": "csp_AppSxGuard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -475,27 +471,11 @@
 			"api": "./py/华数TV.py"
 		},
 		{
-			"key": "AppV7Xhr",
-			"name": "🎬小黄人fm[影视]",
+			"key": "枫叶影视",
+			"name": "🍁枫叶｜xs影视",
 			"type": 3,
-			"jar": "./jars/feimao.jar;md5;12f9eae8289a153d93847c10d655dc4e",
-			"api": "csp_AppV7",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "AIBOX1/cXJzdHV2d3h5ent8fX5/gJSHXACxiaOhlDsHGFhMei42hQcM21N1YL+Xjmn/dKIPhqPH04rJTjOD/dOVV8xThpo8ekks7+zZ/m4ua+/zI/K+ye7uPM48dz3mLJjkRDq1drjfeyBLU7TXPc4ObBoQ4gAAgBzMpY+ltlaIgvXJb5RIkKfjaoKNdRJFS97/L40LCEGo3dYBge3z+4IjY3bUDByQ7fsiA6Sc2YKL6b6fxl9VDBOtsf3WvH3vDcj5EtOi"
-		},
-		{
-			"key": "枫叶",
-			"name": "🍁枫叶[2K]",
-			"type": 3,
-			"jar": "./jars/feimao.jar;md5;12f9eae8289a153d93847c10d655dc4e",
 			"api": "csp_FengYe",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": "{\"host\":\"https://www.cd-zj.com\",\"publish\":\"https://www.vip1949.com/\"}"
+			"ext": "https://www.vip1949.com/"
 		},
 		{
 			"key": "三六零弹幕",
@@ -527,7 +507,7 @@
 			"key": "荐片",
 			"name": "🐭荐片┃p2p",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
@@ -550,7 +530,7 @@
 			"key": "YGP",
 			"name": "🚀叨观荐影┃FTY速递",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"api": "csp_YGPGuard",
 			"searchable": 0,
 			"quickSearch": 0,
@@ -623,7 +603,7 @@
 			"key": "csp_XYQBiu_斗鱼",
 			"name": "🐟斗鱼┃直播",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/斗鱼直播.js",
 			"style": {
@@ -638,7 +618,7 @@
 			"key": "csp_Anime1",
 			"name": "🐾日本┃FTY动漫",
 			"type": 3,
-			"jar": "./jars/fan.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+			"jar": "./jars/fan.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"api": "csp_Anime1Guard",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -703,7 +683,7 @@
 			"searchable": 0,
 			"changeable": 0,
 			"indexs": 0,
-			"ext": "https://oss-v1.wangmeipo.cn/236/single.json"
+			"ext": "https://9877.kstore.space/single.json"
 		},
 		{
 			"key": "直播转点播",
@@ -728,7 +708,7 @@
 		},
 		{
 			"key": "本地",
-			"name": "📺本地",
+			"name": "📺本地xs",
 			"type": 3,
 			"api": "csp_LocalFile",
 			"searchable": 0,

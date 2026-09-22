@@ -73,6 +73,18 @@
 			"ext": "./js/lf_live1.txt"
 		},
 		{
+			"key": "618PY",
+			"name": "🔥618┃PY",
+			"type": 3,
+			"api": "./py2/618.py"
+		},
+		{
+			"key": "茄子(谨慎)PY",
+			"name": "🔥茄子(谨慎)┃PY",
+			"type": 3,
+			"api": "./py2/茄子(谨慎).py"
+		},
+		{
 			"key": "熊猫视频PY",
 			"name": "🔥熊猫视频┃PY",
 			"type": 3,
